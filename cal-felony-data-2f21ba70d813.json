@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cal-felony-data",
+  "private_key_id": "2f21ba70d813065d9cefd0f7a3dc0fde0b201228",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDhYmPFncGACMHT\nAiAp9SnPdbI4pv1Hg7SkhJpsVKYHrqWYIQpvhF1IMhOK15rkQDyPNYg55Ez5oHMB\nmvhBi0HZOlfXg8tiYrkQEKqQG4J4xl2r4oy2sKbdrsAgZYAl04Pwq6L8WnRkK8uJ\nNjFD0aDKEUmRElvcPLbTTvBO6ncHrVcwA1Y0zlPFD0BqTcflJTb68ne4NI3xknFy\ncPltowCZ7AunctFULesFKSWr2cL85ZJ1G6cOGBggBfhuO6m7+hbpR9p3VlkKsp+R\n1VTv7/Xd6OqnK7HOqMf0t0+AvtKXY86uX6/r1WraU1pbUbNADeIbIKxBvnX8fJ1L\n8QIN1y/9AgMBAAECggEALWoLa5bplhhtocyEWZ/+YEC5fCPd1kqqHBpiGWEHIXYm\nBNznguf7eeApQulF2yc8bKjfPbcMcaJMei7VRjO+vXw9lf4G/dihrKSHEcmRRS/H\nUSqxquA2h2W+bei15SlVJSoYidvaJxMSDKBgVeeIDB9moPY/j0WmmzaFQomJGYEJ\nnkYS3ZfUM6aXGLjnAVPFdlF2OOoOdClWEs2XbSMU00mg+sGd3ui8X10WgoRdboBA\nWhMF66dxHeCFckABVhr1z/XyXd6v9msDbgZw8szrlWxunGMYRwGL6drVh36NdPGm\nNuc7qKmytpNFHXsqOFWZIpGn6pg+sSXsR2AyNcjFCwKBgQD+/U7/B4xpXLZ7kPVM\nBaK7a1kROpKc9xyE/4L6hNggvVnQ7wgbyy9XZOWEYEpXqfuluBsw8qoPytYhiRNu\nocuI/Gm1ec9IuaUgAB7REPSSW4sxXLxyatsHPVGI5WHdhE6+DfJfUTagUKeV+DBj\nVqwMvWls5RaLcVyqOIzeEluILwKBgQDiRwvTg7R4fyYIBk+ordZ3XzG223RqivoD\nq6ZF9rsTYc+l9xbmzcX+WlwKEGMnEaDaRFZA6ylkQ5duY/EOmZH+6tPERx/+Cxvn\nq6dbG4lJKD2tpLNqMR9vysJdbCqpYewq2s79RCSJYGiSccLSUgLc2wBBRD75lsYC\nng8I8vuTkwKBgQDdKcI5y0dLH6IbXOiVjpHN81bmbaI6yM6QwLnPJif7haCAasLi\nsIIYUCgOgCIbFRFydFQJSYCdf/XoUmdrXqQV5bCeOc/DKVoCfng8J3Op+gKpxuCg\ncPQWvGWa0jHnG1nc2GXvrJYvyKUCm6kEkGlcB3GIhM7gFWwlLDVqbAu9+wKBgQC7\n7qP83XNjbL8KhStd/luUs2SX6bbL0neJ2uNzUlPX6jHLNug3c4pREX1GAoxHY5XE\nEmPM8UNkedronWsVZCjknuaZKzWACnv3sxKBUeJ490oa0SMOPJROhgleDDt2iNTc\nVvT5VsI9suvHTWKwydqE0gNpMaRYKYh1ng8AsMaPrwKBgQD6XzJtJzM3PaxNYRO4\nvzlmKUwLU49AddL1M3DQKVm+U1VXCuxW3mEEdEf7r+ETdMdEW8WbLLNoagretTPc\npn8EWuOMg6DpcWiYj5sc+O1HtlZ4WyeG+dz9Ib+6xHU7FKv+fAphOmdGBluyYryd\nbBt51ZaGkBlGQ8Yi1NstiGMXMA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cal-felony-data@cal-felony-data.iam.gserviceaccount.com",
+  "client_id": "103215683287456856310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cal-felony-data%40cal-felony-data.iam.gserviceaccount.com"
+}

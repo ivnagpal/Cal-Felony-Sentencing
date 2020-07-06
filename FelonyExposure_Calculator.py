@@ -20,3 +20,6 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('cal-felony-data-
 client = gspread.authorize(credentials)
 work_sheet = client.open('California-Felony-Exposure-Dataset').get_worksheet(1)
 data = work_sheet.get_all_records()
+
+
+ 

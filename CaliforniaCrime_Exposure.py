@@ -23,5 +23,8 @@ data = work_sheet.get_all_records()
 
 #Create Exposure Data Frame
 exposure_df = pd.DataFrame(data)
+exposure_df['Statutory_Code'] = exposure_df['Statutory_Code'].astype(str)
+path = os.getcwd() + '/calexposure_df.csv'
+exposure_df.to_csv (path, index = False, header=True)
 
  

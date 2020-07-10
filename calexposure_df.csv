@@ -1,0 +1,1627 @@
+Statutory_Code,Code_Type,Charge_Type,Type,Literal_display,CJIS,Low Term (Months),Mid Term (Months),Upper Term (Months),AB109,Wobbler
+32,PC,Crime,Felony,Accessory after the fact to a felony,,16,24,36,Yes,Yes
+38,PC,Crime,Felony,Knowledge and concealment of treason,,16,24,36,Yes,No
+67,PC,Crime,Felony,Bribing state executive,,24,36,48,No,No
+67.5,PC,Crime,Felony,Bribing state official/employee,,16,24,36,Yes,No
+68,PC,Crime,Felony,State official asking for or receiving bribe,,24,36,48,No,No
+69(a),PC,Crime,Felony,Resisting or deterring executive officer,,16,24,36,Yes,Yes
+71,PC,Crime,Felony,Threat to injure school or public employees,,16,24,36,Yes,Yes
+71,PC,Crime,Felony,Threat to injure school or public employees w/ prior conviction,,16,24,36,Yes,No
+72,PC,Crime,Felony,False claim to public board or officer with intent to defraud,,16,24,36,Yes,Yes
+72.5,PC,Crime,Felony,"Presenting claim for public funds to reimburse costs incurred for
+political function",,16,24,36,Yes,Yes
+76,PC,Crime,Felony,"Threatening life of or threatening serious bodily harm to government
+official",,16,24,36,Yes,Yes
+76,PC,Crime,Felony,"Threatening life of or threatening serious bodily harm to government
+official with prior conviction",,16,24,36,Yes,No
+85,PC,Crime,Felony,Bribing legislator,,24,36,48,No,No
+86,PC,Crime,Felony,Legislator accepting bribe,,24,36,48,No,No
+92,PC,Crime,Felony,Bribing judicial officer or juror,,24,36,48,No,No
+93,PC,Crime,Felony,Judicial officer or juror accepting bribe,,24,36,48,No,No
+95,PC,Crime,Felony,Influencing juror/referee/umpire,,16,24,36,Yes,Yes
+95.1,PC,Crime,Felony,Threatening juror following verdict,,16,24,36,Yes,Yes
+96,PC,Crime,Felony,Misconduct of jurors/referees/umpires,,16,24,36,Yes,Yes
+99,PC,Crime,Felony,State printer conflict of interest,,16,24,36,Yes,Yes
+100,PC,Crime,Felony,Collusion of state printer in fraud against state,,16,24,36,No,Yes
+107,PC,Crime,Felony,Escape of felon prisoner from training school/county hospital,,16,24,36,Yes,Yes
+109,PC,Crime,Felony,"Assisting escape of inmate from training school/reformatory, etc.",,16,24,36,Yes,No
+110,PC,Crime,Felony,Send/carry into training school/reformatory items for escape,,16,24,36,No,No
+113,PC,Crime,Felony,Manufacture or sale of false citizenship documents,,NA,60,NA,Yes,Yes
+114,PC,Crime,Felony,Use of false documents to conceal true citizenship,,NA,60,NA,Yes,Yes
+115,PC,Crime,Felony,Attempt to record false or forged instrument,,16,24,36,No,No
+115.1,PC,Crime,Felony,Publishing campaign advertisement containing unauthorized signature,,16,24,36,Yes,Yes
+115.5(a),PC,Crime,Felony,Filing false document affecting real property w/county recorder,,16,24,36,Yes,Yes
+115.5(b),PC,Crime,Felony,"Making false sworn statement to notary public regarding real
+property document",,16,24,36,No,No
+116,PC,Crime,Felony,Tampering w/jury list,,16,24,36,No,No
+117,PC,Crime,Felony,Certifying false jury list,,16,24,36,No,No
+118,PC,Crime,Felony,Perjury,,24,36,48,Yes,No
+118a,PC,Crime,Felony,Perjury by false document,,24,36,48,Yes,No
+118.1,PC,Crime,Felony,Peace officer filing a false report,,12,24,36,No,Yes
+127,PC,Crime,Felony,Subornation of perjury,,24,36,48,Yes,No
+129,PC,Crime,Felony,False return under oath,,24,36,48,Yes,No
+132,PC,Crime,Felony,Offer false/forged/altered evidence,,16,24,36,No,No
+134,PC,Crime,Felony,Preparing false evidence,,16,24,36,No,No
+136.1(a),PC,Crime,Felony,Maliciously dissuade witness or victim from testimony,,16,24,36,No,Yes
+136.1(b),PC,Crime,Felony,Dissuade witness to or victim of crime from making report,,16,24,36,No,Yes
+136.1(c),PC,Crime,Felony,Prevent testimony w/threat of violence or force,,24,36,48,No,No
+136.1(d),PC,Crime,Felony,Attempt to prevent testimony,,24,36,48,No,No
+136.2(d)(3),PC,Crime,Felony,"Purchasing, receiving, or attempt to purchase or receive firearm in
+violation of protective order",,16,24,36,No,Yes
+136.5,PC,Crime,Felony,Possess deadly weapon wit dissuade witness from testimony,,16,24,36,No,Yes
+136.7,PC,Crime,Felony,"Disclosure by person imprisoned for a sexual offense of witness' or
+victim's name and address to another prisoner w/ intent to  intimidate or harass",,16,24,36,Yes,Yes
+137(a),PC,Crime,Felony,Inducing false testimony by bribing witness,,16,24,36,No,No
+137(b),PC,Crime,Felony,Inducing false testimony through use of force or threat,,24,36,48,Yes,No
+138,PC,Crime,Felony,Witness soliciting or receiving bribe,,16,24,36,No,No
+139,PC,Crime,Felony,Threatening witness to or victim of crime,,24,36,48,Yes,Yes
+140,PC,Crime,Felony,"Use of force or threat of force or violence to witness or victim because
+of assistance in prosecution",,24,36,48,Yes,Yes
+141(b),PC,Crime,Felony,Peace officer tampering or falsifying evidence,,24,36,48,No,No
+141(c),PC,Crime,Felony,Prosecutor tampering or falsifying evidence,,16,24,36,Yes,No
+142,PC,Crime,Felony,Officer refusing to receive or make arrest,,16,24,36,Yes,Yes
+146a(b),PC,Crime,Felony,Impersonating an officer,,16,24,36,Yes,Yes
+146e(b),PC,Crime,Felony,"Disclosure of address/phone number of peace officer or family member
+resulting in bodily injury to these persons",,16,24,36,Yes,No
+148(b),PC,Crime,Felony,Taking of weapon while resisting arrest,,16,24,36,Yes,Yes
+148(c),PC,Crime,Felony,Taking of firearm while resisting arrest,,16,24,36,Yes,No
+148(d),PC,Crime,Felony,Taking of firearm from peace officer wit permanently deprive,,16,24,36,Yes,Yes
+148.1(a),PC,Crime,Felony,False bomb report to official,,16,24,36,Yes,Yes
+148.1(b),PC,Crime,Felony,False bomb report to on-duty peace officer,,16,24,36,Yes,Yes
+148.1(c),PC,Crime,Felony,False bomb report to any other person,,16,24,36,Yes,Yes
+148.1(d),PC,Crime,Felony,Sending/mailing a facsimile bomb to any person,,16,24,36,Yes,Yes
+148.1(d),PC,Crime,Felony,"Malicious possession of facsimile bomb wit cause another to fear for
+his or her safety",,16,24,36,Yes,Yes
+148.3(b),PC,Crime,Felony,False report of emergency resulting in death/GBI,,16,24,36,Yes,Yes
+148.4(b),PC,Crime,Felony,False fire alarm resulting in death/GBI,,16,24,36,Yes,Yes
+148.1,PC,Crime,Felony,Resisting officer and causing death or serious bodily injury,,24,36,48,Yes,Yes
+149,PC,Crime,Felony,Assault or battery by police,,16,24,36,Yes,Yes
+151(a)(2),PC,Crime,Felony,Advocating injury/death of peace officer resulting in injury/death,,16,24,36,No,No
+153,PC,Crime,Felony,Compounding or concealing crime punishable by death or state prison,,16,24,36,Yes,Yes
+154(b),PC,Crime,Felony,"Defrauding creditors by selling or concealing property of value
+greater than $250",,16,24,36,No,No
+155,PC,Crime,Felony,Selling or concealing property by defendant or judgment debtor,,16,24,36,No,No
+155.5(b),PC,Crime,Felony,"Disposal of property by convicted felon prior to sentencing or
+during period restitution order remains unsatisfied and enforceable
+to avoid making restitution",,16,24,36,No,No
+156,PC,Crime,Felony,Producing spurious heir,,24,36,48,Yes,No
+157,PC,Crime,Felony,Substituting child,,24,36,48,Yes,No
+165,PC,Crime,Felony,Giving or offering bribe to official,,24,36,48,Yes,No
+166(c)(4),PC,Crime,Felony,Violation of protective order w/ prior conviction,,16,24,36,No,Yes
+166(d),PC,Crime,Felony,Purchase or receipt of firearm in violation of protective order,,16,24,36,No,Yes
+168,PC,Crime,Felony,Disclosing warrant prior to execution,,16,24,36,Yes,Yes
+171b,PC,Crime,Felony,"Bringing firearm, knife, or deadly weapon into state or local public
+building",,16,24,36,Yes,Yes
+171c(a),PC,Crime,Felony,Bringing loaded firearm into state office/capitol/legislative offic,,16,24,36,Yes,Yes
+171d,PC,Crime,Felony,Bringing loaded firearm into residence/grounds of governor/legislator,,16,24,36,Yes,Yes
+181,PC,Crime,Felony,Involuntary servitude or sale of person,,24,36,48,Yes,No
+182(a)(1),PC,Crime,Felony,Conspiracy to commit felony not 1170(h) eligible,,TUF,TUF,TUF,Yes,No
+182(a)(1),PC,Crime,Felony,Conspiracy to commit felony 1170(h) eligible,,TUF,TUF,TUF,Yes,Yes
+182(a)(1),PC,Crime,Felony,Conspiracy to commit a nonfelonious crime,,16,24,36,Yes,Yes
+182(a)(2),PC,Crime,Felony,Conspiracy to indict falsely,,16,24,36,Yes,Yes
+182(a)(3),PC,Crime,Felony,Conspiracy to maintain false court action,,16,24,36,Yes,Yes
+182(a)(4),PC,Crime,Felony,Conspiracy to cheat or defraud,,16,24,36,Yes,Yes
+182(a)(5),PC,Crime,Felony,Conspiracy to obstruct justice,,16,24,36,Yes,Yes
+182(a)(6),PC,Crime,Felony,Conspiracy against public official,,60,84,108,Yes,No
+182.5,PC,Crime,Felony,Criminal street gang conspiracy and underlying felony punishable by felony not 1170(h) eligible,,TUF,TUF,TUF,No,No
+182.5,PC,Crime,Felony,Criminal street gang conspiracy and underlying felony punishable by felony 1170(h) eligible,,TUF,TUF,TUF,Yes,Yes
+186.10(a),PC,Crime,Felony,Money laundering,,16,24,36,Yes,Yes
+186.22(a),PC,Crime,Felony,Participation in criminal street gang activity,,16,24,36,No,Yes
+186.22(d),PC,Crime,Felony,Commission of wobbler in association w/criminal street gang,,16,24,36,No,Yes
+186.26(a),PC,Crime,Felony,Soliciting or recruiting person to participate in criminal street gang,,16,24,36,No,No
+186.26(b),PC,Crime,Felony,"Use of threats of physical violence on two or more occasions within
+30-day period to coerce, induce, or solicit another person to
+participate in criminal street gang",,24,36,48,No,No
+186.26(c),PC,Crime,Felony,"Use of physical violence to coerce, induce, or solicit another person
+to participate in criminal street gang or to prevent person from
+leaving gang",,36,48,60,No,No
+186.28,PC,Crime,Felony,"Supplying or selling of firearm for use in commission of felony by
+criminal street gang member",,16,24,36,Yes,Yes
+190.2(a)(1),PC,Crime,Felony,Special First Degree Murder: Financial Gain,,NA,DEATH,NA,No,No
+190.2(a)(2),PC,Crime,Felony,Special First Degree Murder: Prior Murder Conv.,,NA,DEATH,NA,No,No
+190.2(a)(3),PC,Crime,Felony,Special First Degree Murder: Multiple Victims,,NA,DEATH,NA,No,No
+190.2(a)(4),PC,Crime,Felony,Special First Degree Murder: Use of Explosive,,NA,DEATH,NA,No,No
+190.2(a)(5),PC,Crime,Felony,Special First Degree Murder: Avoid Arrest/Escape,,NA,DEATH,NA,No,No
+190.2(a)(6),PC,Crime,Felony,Special First Degree Murder: Mailed Explosive,,NA,DEATH,NA,No,No
+190.2(a)(7),PC,Crime,Felony,Special First Degree Murder: On duty peace officer,,NA,DEATH,NA,No,No
+190.2(a)(8),PC,Crime,Felony,Special First Degree Murder: On duty federal officer,,NA,DEATH,NA,No,No
+190.2(a)(9),PC,Crime,Felony,Special First Degree Murder: On duty fire fighter,,NA,DEATH,NA,No,No
+190.2(a)(10),PC,Crime,Felony,Special First Degree Murder: Prevent Testimony,,NA,DEATH,NA,No,No
+190.2(a)(11),PC,Crime,Felony,Special First Degree Murder: Prosecutor,,NA,DEATH,NA,No,No
+190.2(a)(12),PC,Crime,Felony,Special First Degree Murder: Judge,,NA,DEATH,NA,No,No
+190.2(a)(13),PC,Crime,Felony,Special First Degree Murder: Gov't Official,,NA,DEATH,NA,No,No
+190.2(a)(14),PC,Crime,Felony,Special First Degree Murder: Exceptional depravity,,NA,DEATH,NA,No,No
+190.2(a)(15),PC,Crime,Felony,Special First Degree Murder: Lying in wait,,NA,DEATH,NA,No,No
+190.2(a)(16),PC,Crime,Felony,Special First Degree Murder: Motived by race/religion,,NA,DEATH,NA,No,No
+190.2(a)(17),PC,Crime,Felony,Special First Degree Murder: During Felony Commision,,NA,DEATH,NA,No,No
+190.2(a)(18),PC,Crime,Felony,Special First Degree Murder: Torture Involved,,NA,DEATH,NA,No,No
+190.2(a)(19),PC,Crime,Felony,Special First Degree Murder: Poisoned used,,NA,DEATH,NA,No,No
+190.2(a)(20),PC,Crime,Felony,Special First Degree Murder: Juror,,NA,DEATH,NA,No,No
+190.2(a)(21),PC,Crime,Felony,Special First Degree Murder: Drive by shooting,,NA,DEATH,NA,No,No
+190.2(a)(22),PC,Crime,Felony,Special First Degree Murder: Gang related,,NA,DEATH,NA,No,No
+191.5(a),PC,Crime,Felony,"Vehicular manslaughter, w/drugs or alcohol, and w/gross
+negligence",,48,72,120,No,No
+191.5(b),PC,Crime,Felony,"Vehicular manslaughter, w/drugs or alcohol, but w/o gross negligence",,16,24,48,Yes,Yes
+192(a),PC,Crime,Felony,Voluntary manslaughter,,36,72,132,No,No
+192(b),PC,Crime,Felony,Involuntary manslaughter,,24,36,48,Yes,No
+192(c)(1),PC,Crime,Felony,"Vehicular manslaughter, w/o drugs or alcohol, but w/gross negligence",,24,48,72,No,Yes
+192(c)(3),PC,Crime,Felony,Vehicular manslaughter where collision knowingly caused for financial gain,,48,72,120,No,No
+192.5(a),PC,Crime,Felony,"Vessel manslaughter, w/drugs or alcohol, and w/gross negligence",,48,72,120,No,No
+192.5(b),PC,Crime,Felony,"Vessel manslaughter, w/drugs or alcohol, but w/o gross negligence",,16,24,48,Yes,Yes
+192.5(c),PC,Crime,Felony,"Vessel manslaughter, w/o drugs or alcohol, but w/gross negligence",,24,48,72,No,Yes
+203,PC,Crime,Felony,Mayhem,,24,48,96,No,No
+207,PC,Crime,Felony,Kidnapping,,36,60,96,No,No
+207,PC,Crime,Felony,"Kidnapping, victim under 14 years of age",,60,96,132,No,No
+210,PC,Crime,Felony,Pose as kidnapper to extort,,24,36,48,No,No
+210.5,PC,Crime,Felony,Taking hostage,,36,60,96,Yes,No
+212.5(a),PC,Crime,Felony,First Degree Robbery,,36,48,72,No,No
+212.5(b),PC,Crime,Felony,First Degree Robbery of person using automated teller machine,,36,48,72,No,No
+212.5(c),PC,Crime,Felony,Second Degree Robbery,,24,36,60,No,No
+213(a)(1)(A),PC,Crime,Felony,Robbery of inhabited dwelling in concert w/two or more persons,,36,72,108,No,No
+213(b),PC,Crime,Felony,Attempted robbery second degree,,16,24,36,No,No
+214,PC,Crime,Felony,Train robbery,,16,24,36,No,No
+215,PC,Crime,Felony,Carjacking,,36,60,108,No,No
+217.1(a),PC,Crime,Felony,Assault on government official,,16,24,36,Yes,Yes
+218.1,PC,Crime,Felony,"Placing obstruction on or near railroad track resulting in train damage,
+derailment, or injury to rail passenger or employee",,24,36,48,Yes,Yes
+219.1,PC,Crime,Felony,"Throwing missile at common carrier wit wreck resulting in bodily
+injury",,24,48,72,Yes,No
+219.2,PC,Crime,Felony,Throwing missile or shooting at passenger/freight vehicle,,16,24,36,No,Yes
+220(a)(1)/203,PC,Crime,Felony,Assault w/intent to commit mayhem,,24,48,72,No,No
+220(a)(1)/261,PC,Crime,Felony,Assault w/intent to commit rape,,24,48,72,No,No
+220(a)(2)/261,PC,Crime,Felony,Assault w/intent to commit rape against minor,,60,84,108,No,No
+220(a)(1)/264.1,PC,Crime,Felony,Assault w/intent to commit rape in concert,,24,48,72,No,No
+220(a)(2)/264.1,PC,Crime,Felony,Assault w/intent to commit rape in concert against minor,,60,84,108,No,No
+220(a)(1)/286,PC,Crime,Felony,Assault w/intent to commit sodomy,,24,48,72,No,No
+220(a)(2)/286,PC,Crime,Felony,Assault w/intent to commit sodomy against minor,,60,84,108,No,No
+220(a)(1)/287,PC,Crime,Felony,Assault w/intent to commit oral copulation,,24,48,72,No,No
+220(a)(2)/287,PC,Crime,Felony,Assault w/intent to commit oral copulation against minor,,60,84,108,No,No
+220(a)(1)/288,PC,Crime,Felony,Assault w/intent to commit lewd & lascivious acts,,24,48,72,No,No
+220(a)(2)/288,PC,Crime,Felony,Assault w/intent to commit lewd & lascivious acts against minor,,60,84,108,No,No
+220(a)(1)/289,PC,Crime,Felony,Assault w/intent to commit sexual penetration w/foreign object,,24,48,72,No,No
+220(a)(2)/289,PC,Crime,Felony,Assault w/intent to commit sexual penetration w/foreign object against minor,,60,84,108,No,No
+222,PC,Crime,Felony,Administering an anesthetic w/ intent to commit a felony,,16,24,36,No,No
+236.1(a),PC,Crime,Felony,Human trafficking: Depriving person of personal liberty w/ intent to obtain forced labor or services,,60,96,144,No,No
+236.1(b),PC,Crime,Felony,Human trafficking: Depriving person of personal liberty w/ intent to effect violation of specified sex crimes,,96,168,240,No,No
+236.1(c)(1),PC,Crime,Felony,"Human trafficking: Inducing minor to engage in commercial sex act wit effect violation of specified sex crimes w/o force, fear, fraud, etc.",,60,96,144,No,No
+237(a),PC,Crime,Felony,False imprisonment by violence/menace/fraud/deceit,,16,24,36,Yes,No
+237(b),PC,Crime,Felony,"False imprisonment of elder or dependent adult by
+violence/menace/fraud/deceit",,24,36,48,Yes,No
+241.1,PC,Crime,Felony,Assault on a custodial officer,,16,24,36,Yes,Yes
+241.4,PC,Crime,Felony,Assault on school security patrol member,,16,24,36,Yes,Yes
+241.7,PC,Crime,Felony,Assault on juror,,16,24,36,Yes,Yes
+243(c)(1),PC,Crime,Felony,Battery against custodial officer/firefighter/paramedic w/injury,,16,24,36,Yes,Yes
+243(c)(2),PC,Crime,Felony,Battery against peace officer w/injury,,16,24,36,Yes,Yes
+243(d),PC,Crime,Felony,Battery against person resulting in serious bodily injury,,24,36,48,Yes,Yes
+243.1,PC,Crime,Felony,Battery against custodial officer,,16,24,36,Yes,No
+243.3,PC,Crime,Felony,Battery against public vehicle operator w/injury,,16,24,36,No,Yes
+243.4(a)-(d),PC,Crime,Felony,Sexual battery,,24,36,48,No,Yes
+243.4(j),PC,Crime,Felony,Commission of a Sexual Battery against minor w/ prior conviction,,24,36,48,No,No
+243.6,PC,Crime,Felony,Battery against school employee w/injury,,16,24,36,Yes,Yes
+243.7,PC,Crime,Felony,Battery against juror,,16,24,36,No,Yes
+243.9(a),PC,Crime,Felony,Battery of peace officer or local detention facility employee by prisoner by gassing,,24,36,48,No,Yes
+243.15,PC,Crime,Felony,Battery on non-inmate by county jail prisoner,,16,24,36,Yes,Yes
+244,PC,Crime,Felony,Assault w/caustic chemicals or flammable substances,,24,36,48,No,No
+244.5(b),PC,Crime,Felony,Assault w/stun gun or taser,,16,24,36,Yes,Yes
+244.5(c),PC,Crime,Felony,Assault w/stun gun or taser on peace officer/firefighter,,24,36,48,Yes,Yes
+245(a)(1),PC,Crime,Felony,Assault w/ deadly weapon other than firearm,,24,36,48,No,Yes
+245(a)(2),PC,Crime,Felony,Assault w/firearm,,24,36,48,No,Yes
+245(a)(3),PC,Crime,Felony,"Assault w/machine gun, assault weapon, or .50 BMG rifle",,48,96,144,No,No
+245(a)(4),PC,Crime,Felony,Assault w/force likely to produce GBI on person,,24,36,48,No,Yes
+245(b),PC,Crime,Felony,Assault w/semiautomatic firearm,,36,72,108,No,No
+245(c),PC,Crime,Felony,Assault w/ deadly weapon other than firearm or assault w/force likely to produce GBI on peace officer/firefighter,,36,48,60,No,No
+245(d)(1),PC,Crime,Felony,Assault w/firearm on peace officer/firefighter,,48,72,96,No,No
+245(d)(2),PC,Crime,Felony,Assault w/semiautomatic firearm on peace officer/firefighter,,60,84,108,No,No
+245(d)(3),PC,Crime,Felony,"Assault w/machine gun, assault weapon, or .50 BMG rifle on peace officer/firefighter",,72,108,144,No,No
+245.2,PC,Crime,Felony,Assault w/ deadly weapon or assault w/force likely to produce GBI on public vehicle operator,,36,48,60,No,No
+245.3,PC,Crime,Felony,Assault w/ deadly weapon or assault w/force likely to produce GBI on custodial officer,,36,48,60,No,No
+245.5(a),PC,Crime,Felony,Assault w/ deadly weapon other than firearm or assault w/force likely to produce GBI on school employee,,36,48,60,No,Yes
+245.5(b),PC,Crime,Felony,Assault w/ deadly weapon w/firearm on school employee,,48,72,96,No,Yes
+245.5(c),PC,Crime,Felony,Assault w/stun gun or taser on school employee,,24,36,48,No,Yes
+245.6(d),PC,Crime,Felony,Hazing resulting in death or serious bodily injury,,16,24,36,Yes,Yes
+246,PC,Crime,Felony,"Discharge firearm at inhabited dwelling, vehicle, or aircraft",,36,60,84,No,Yes
+246.3(a),PC,Crime,Felony,Discharge firearm w/gross negligence that could result in injury or death,,16,24,36,Yes,Yes
+247(a),PC,Crime,Felony,Discharge firearm at unoccupied aircraft,,16,24,36,No,No
+247(b),PC,Crime,Felony,Discharge firearm at unoccupied vehicle,,16,24,36,No,Yes
+247.5,PC,Crime,Felony,Discharge laser at aircraft,,16,24,36,Yes,Yes
+261(a)(1),PC,Crime,Felony,Rape of incompetent victim,,36,72,96,No,No
+261(a)(2),PC,Crime,Felony,"Rape by force, violence, duress, menace, or fear of bodily injury",,36,72,96,No,No
+261(a)(2),PC,Crime,Felony,"Rape of child under 14 years of age by force, violence, duress, menace, or fear of bodily injury",,108,132,156,No,No
+261(a)(2),PC,Crime,Felony,"Rape of minor 14 years of age or older by force, violence, duress, menace, or fear of bodily injury",,84,108,132,No,No
+261(a)(3),PC,Crime,Felony,Rape of victim overcome by intoxicant,,36,72,96,No,No
+261(a)(4),PC,Crime,Felony,Rape of victim unconscious of act,,36,72,96,No,No
+261(a)(5),PC,Crime,Felony,Rape by victim's belief that the accused is someone known to the victim other than the accused,,36,72,96,No,No
+261(a)(6),PC,Crime,Felony,Rape accomplished through threat of future retaliation,,36,72,96,No,No
+261(a)(7),PC,Crime,Felony,"Rape accomplished by threat of use of authority of public official to incarcerate, arrest, or deport victim",,36,72,96,No,No
+261.5(c),PC,Crime,Felony,Unlawful sexual intercourse w/minor more than 3 years younger than defendant,,16,24,36,Yes,Yes
+261.5(d),PC,Crime,Felony,Unlawful sexual intercourse w/minor under 16 years of age by defendant 21 years of age or olde,,24,36,48,Yes,Yes
+262(a)(1),PC,Crime,Felony,"Rape of spouse by force, violence, duress, menace, or fear of bodily injury",,36,72,96,No,No
+262(a)(2),PC,Crime,Felony,Rape of spouse overcome by intoxicant,,36,72,96,No,No
+262(a)(3),PC,Crime,Felony,Rape of spouse unconscious of act,,36,72,96,No,No
+262(a)(4),PC,Crime,Felony,Rape of spouse accomplished through threat of future retaliation,,36,72,96,No,No
+262(a)(5),PC,Crime,Felony,"Rape of spouse accomplished by threat of use of authority of public official to incarcerate, arrest, or deport victim",,36,72,96,No,No
+264.1,PC,Crime,Felony,Rape in concert,,60,84,108,No,No
+264.1,PC,Crime,Felony,Rape in concert of child under 14 years of age,,120,144,168,No,No
+264.1,PC,Crime,Felony,Rape in concert of minor 14 years of age or older,,84,108,132,No,No
+265,PC,Crime,Felony,Abduction to force marriage or defilement,,16,24,36,Yes,
+266,PC,Crime,Felony,Seduction of minor for prostitution,,16,24,36,No,Yes
+266a,PC,Crime,Felony,Abduct for prostitution w/o consent or by misrepresentation,,16,24,36,No,No
+266b,PC,Crime,Felony,Abduct by force for illicit relation,,16,24,36,Yes,No
+266c,PC,Crime,Felony,"Inducing commission of sexual act through false representation
+creating fear",,24,36,48,No,Yes
+266d,PC,Crime,Felony,Receiving money for placing person in custody for cohabitation,,16,24,36,No,No
+266e,PC,Crime,Felony,Payment for purpose of prostitution,,16,24,36,No,No
+266f,PC,Crime,Felony,Selling person for immoral purpose,,16,24,36,No,No
+266g,PC,Crime,Felony,Placing wife in house of prostitution,,24,36,48,Yes,No
+266h(a),PC,Crime,Felony,Pimping,,36,48,72,No,No
+266h(b),PC,Crime,Felony,"Pimping, prostitute 16 years of age or older",,36,48,72,No,No
+266h(b),PC,Crime,Felony,"Pimping, prostitute under 16 years of age",,36,72,96,No,No
+266i(a),PC,Crime,Felony,Pandering,,36,48,72,No,No
+266i(b),PC,Crime,Felony,"Pandering, recruitee 16 years of age or older",,36,48,72,No,No
+266i(b),PC,Crime,Felony,"Pandering, recruitee under 16 years of age",,36,72,96,No,No
+266j,PC,Crime,Felony,Transport minor under 16 years of age for lewd & lascivious act/cause minor to perform act,,36,72,96,No,No
+267,PC,Crime,Felony,Abduction of minor for prostitution,,16,24,36,No,No
+270,PC,Crime,Felony,Child neglect by person adjudicated as parent,,NA,1Y1D,NA,No,Yes
+271,PC,Crime,Felony,Child abandonment,,16,24,36,Yes,Yes
+271a,PC,Crime,Felony,Willful abandonment or nonsupport of child under 14 years of age,,16,24,36,Yes,Yes
+273(c) ,PC,Crime,Felony,Paying parent for adoption of child w/prior conviction,,16,24,36,No,Yes
+273(d) ,PC,Crime,Felony,Accepting money for adoption of child from two or more prospective adopting persons w/prior conviction,,16,24,36,No,Yes
+273a(a),PC,Crime,Felony,Willful cruelty to child,,24,48,72,No,Yes
+273d(a),PC,Crime,Felony,Inflict traumatic injury on child,,24,48,72,Yes,Yes
+273.5(a),PC,Crime,Felony,Corporal Injury To Spouse,,24,36,48,No,Yes
+273.5(f)(1),PC,Crime,Felony,"Violation of PC 273.5(a) w/n 7 years of prior conviction of PC 243(d), 243.4, 244, 244.5, 245, or 273.5(a)",,24,48,72,No,Yes
+273.5(f)(2),PC,Crime,Felony,Violation of PC 273.5(a) w/n 7 years of prior conviction of PC 243(e) ,,24,36,48,No,Yes
+273.6(d),PC,Crime,Felony,Violation of protective order w/prior conviction,,16,24,36,Yes,Yes
+273.6(e),PC,Crime,Felony,Violation of protective order resulting in physical injury w/prior conviction,,16,24,36,Yes,Yes
+273.6(g)(1),PC,Crime,Felony,Purchasing or receiving firearm in violation of protective order,,16,24,36,No,Yes
+273.65(d),PC,Crime,Felony,Violation of protective order w/prior conviction,,16,24,36,Yes,Yes
+273.65(e),PC,Crime,Felony,Violation of protective order resulting in physical injury w/prior conviction,,16,24,36,Yes,Yes
+278,PC,Crime,Felony,Child abduction,,24,36,48,Yes,Yes
+278.5,PC,Crime,Felony,Child abduction in violation of custody order,,16,24,36,Yes,Yes
+280(b),PC,Crime,Felony,Child concealment outside of state,,16,24,36,Yes,Yes
+281,PC,Crime,Felony,Bigamy,,16,24,36,No,Yes
+284,PC,Crime,Felony,"Marrying or entering into registered domestic partnership with spouse
+of another",,16,24,36,Yes,Yes
+285,PC,Crime,Felony,Incest,,16,24,36,No,No
+286(b)(1),PC,Crime,Felony,"Sodomy, victim under 18 years of age",,16,24,36,No,Yes
+286(b)(2),PC,Crime,Felony,"Sodomy, victim under 16 years of age/defendant over 21 years of age",,16,24,36,No,No
+286(c)(1),PC,Crime,Felony,"Sodomy, victim under 14 years of age/defendant 10 years older",,36,72,96,No,No
+286(c)(2)(A),PC,Crime,Felony,"Sodomy by force, violence, duress, fear of bodily injury",,36,72,96,No,No
+286(c)(2)(B),PC,Crime,Felony,"Sodomy by force, violence, duress, fear of bodily injury, victim under 14 years of age",,108,132,156,No,No
+286(c)(2)(C),PC,Crime,Felony,"Sodomy by force, violence, duress, fear of bodily injury, minor victim 14 years of age or older",,84,108,132,No,No
+286(c)(3),PC,Crime,Felony,Sodomy by threat of retaliation,,36,72,96,No,No
+286(d)(1),PC,Crime,Felony,Sodomy in concert by force or fear of bodily injury,,60,84,108,No,No
+286(d)(2),PC,Crime,Felony,"Sodomy in concert by force or fear of bodily injury, victim under 14 years of age",,120,144,168,No,No
+286(d)(3),PC,Crime,Felony,"Sodomy in concert by force or fear of bodily injury, minor victim 14 years of age or older",,84,108,132,No,No
+286(e),PC,Crime,Felony,Sodomy in jail or prison,,16,24,36,No,Yes
+286(f),PC,Crime,Felony,"Sodomy, victim unconscious",,36,72,96,No,No
+286(g),PC,Crime,Felony,"Sodomy, victim incompetent",,36,72,96,No,No
+286(h),PC,Crime,Felony,"Sodomy, victim incompetent, both confined for mental disorder",,16,24,36,No,Yes
+286(i),PC,Crime,Felony,Sodomy of victim overcome by intoxicant,,36,72,96,No,No
+286(j),PC,Crime,Felony,Sodomy by victim's belief that accused is someone known to the victim other than the accused,,36,72,96,No,No
+286(k),PC,Crime,Felony,Sodomy by threat to use authority of public official,,36,72,96,No,No
+287(b)(1),PC,Crime,Felony,"Oral copulation, victim under 18 years of age",,16,24,36,No,Yes
+287(b)(2),PC,Crime,Felony,"Oral copulation, victim under 16 years of age/defendant over 21 years of age",,16,24,36,No,No
+287(c)(1),PC,Crime,Felony,"Oral copulation, victim under 14 years of age/defendant 10 years older",,36,72,96,No,No
+287(c)(2)(A),PC,Crime,Felony,"Oral copulation by force, violence, duress, fear of bodily injury",,36,72,96,No,No
+287(c)(2)(B),PC,Crime,Felony,"Oral copulation by force, violence, duress, fear of bodily injury, victim under 14 years of age",,96,120,144,No,No
+287(c)(2)(C),PC,Crime,Felony,"Oral copulation by force, violence, duress, fear of bodily injury, minor victim 14 years of age or older",,72,96,120,No,No
+287(c)(3),PC,Crime,Felony,Oral copulation by threat of retaliation,,36,72,96,No,No
+287(d)(1),PC,Crime,Felony,Oral copulation in concert by force/fear of bodily injury,,60,84,108,No,No
+287(d)(2),PC,Crime,Felony,"Oral copulation in concert by force/fear of bodily injury, victim under 14 years of age",,120,144,168,No,No
+287(d)(3),PC,Crime,Felony,"Oral copulation in concert by force/fear of bodily injury, minor victim 14 years of age or older",,96,120,144,No,No
+287(e),PC,Crime,Felony,Oral copulation in jail or prison,,16,24,36,No,Yes
+287(f),PC,Crime,Felony,"Oral copulation, victim unconscious",,36,72,96,No,No
+287(g),PC,Crime,Felony,"Oral copulation, victim incompetent",,36,72,96,No,No
+287(h),PC,Crime,Felony,"Oral copulation, victim incompetent, both confined for mental disorder",,16,24,36,No,Yes
+287(i),PC,Crime,Felony,Oral copulation of victim overcome by intoxicant,,36,72,96,No,No
+287(j),PC,Crime,Felony,Oral copulation by victim's belief that accused is someone known to the victim other than the accused,,36,72,96,No,No
+287(k),PC,Crime,Felony,Oral copulation by threat to use authority of public official,,36,72,96,No,No
+288(a),PC,Crime,Felony,Lewd or lascivious act w/child under 14 years of age,,36,72,96,No,No
+288(b)(1),PC,Crime,Felony,"Lewd or lascivious act w/child under 14 years of age committed by force, violence, etc.",,60,96,120,No,No
+288(b)(2),PC,Crime,Felony,"Lewd or lascivious act by caretaker w/dependent person by force, violence, etc.",,60,96,120,No,No
+288(c)(1),PC,Crime,Felony,"Lewd or lascivious act w/child 14 or 15 years of age, defendant at least 10 years older",,12,24,36,No,Yes
+288(c)(2),PC,Crime,Felony,Lewd or lascivious act by caretaker w/dependent person,,12,24,36,No,Yes
+288.2(a)(1),PC,Crime,Felony,Distribution or exhibition of harmful material depicting a minor engaging in sexual conduct to minor,,24,36,60,No,Yes
+288.2(a)(2),PC,Crime,Felony,Distribution or exhibition of harmful material not depicting a minor engaging sexual conduct to minor,,16,24,36,No,Yes
+288.3(a),PC,Crime,Felony,"Contacting or attempted contact w/minor witc specified kidnapping, child pornography, or other sex crimes involving the minor",,TUF,TUF,TUF,No,No
+288.4(a),PC,Crime,Felony,Arranging meeting w/minor for lewd purpose w/prior conviction of offense listed in PC 290(c),,16,24,36,No,No
+288.4(b),PC,Crime,Felony,Going to arranged meeting place set up under PC 288.4(a),,24,36,48,No,No
+288.5,PC,Crime,Felony,Continuous sexual abuse of child,,72,144,192,No,No
+289(a)(1)(A),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object by force, violence, duress, or fear of bodily injury",,36,72,96,No,No
+289(a)(1)(B),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object by force, violence, duress, or fear of bodily injury, victim under 14 years of age",,96,120,144,No,No
+289(a)(1)(C),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object by force, violence, duress, or fear of bodily injury, minor victim 14 years of age or older",,72,96,120,No,No
+289(a)(2),PC,Crime,Felony,Sexual penetration w/foreign or unknown object by threat of retaliation,,36,72,96,No,No
+289(b),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim incompetent",,36,72,96,No,No
+289(c),PC,Crime,Felony,"Sexual penetration, victim incompetent, both confined for mental disorder",,16,24,36,No,Yes
+289(d),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim unconscious",,36,72,96,No,No
+289(e),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim overcome by intoxicant",,36,72,96,No,No
+289(f),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, by victim's belief that accused is someone known to the victim other than the accused",,36,72,96,No,No
+289(g),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, by threat to use authority of public official",,36,72,96,No,No
+289(h),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim under 18 years of age",,16,24,36,No,Yes
+289(i),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim under 16 years of age, defendant over 21 years of age",,16,24,36,No,No
+289(j),PC,Crime,Felony,"Sexual penetration w/foreign or unknown object, victim under 14 years of age, defendant 10 years older",,36,72,96,No,No
+289.6(a)(1),PC,Crime,Felony,Employee of public health facility engaging in sexual activity (as defined in PC 289.6(d)(1)-(5)) w/inmate w/prior conviction,,16,24,36,No,No
+289.6(a)(2),PC,Crime,Felony,Employee of public detention facility or peace officer engaging in sexual activity (as defined in PC 289.6(d)(1)-(4)) w/inmate,,16,24,36,No,Yes
+289.6(a)(2),PC,Crime,Felony,Employee of public detention facility or peace officer engaging in sexual activity (as defined in PC 289.6(d)(1)-(4)) w/inmate w/prior conviction,,16,24,36,No,No
+289.6(a)(3),PC,Crime,Felony,Employee of California Department of Corrections and Rehabilitation engaging in sexual activity (as defined in PC 289.6(d)(1)-(4)) w/inmate,,16,24,36,No,Yes
+289.6(a)(3),PC,Crime,Felony,Employee of California Department of Corrections and Rehabilitation engaging in sexual activity (as defined in PC 289.6(d)(1)-(4)) w/inmate w/ prior convictions,,16,24,36,No,No
+290.018(b),PC,Crime,Felony,Failure to register by person convicted of felony sex offense or juvenile adjudication for the commission of a sex offense,,16,24,36,No,No
+290.018(d),PC,Crime,Felony,"Failure to register by designated mentally disordered sex offender including person who had petition sustained in juvenile adjudication for sex offense but found not guilty by reason of
+insanity w/prior conviction",,16,24,36,No,No
+290.018(f),PC,Crime,Felony,Failure to register by sexually violent predator,,16,24,36,No,Yes
+290.018(g),PC,Crime,Felony,Failure to register by person convicted of felony sex offense or juvenile adjudication for the commission of a sex offense who has no address w/2 prior convictions,,16,24,36,No,No
+298.2,PC,Crime,Felony,"Facilitating wrongful collection of, or tampering w/DNA blood specimen or print impression",,24,36,48,No,No
+299.5(i)(1)(A),PC,Crime,Felony,Unlawful use or disclosure of offender forensic sample or DNA profile,,16,24,36,No,Yes
+311.1,PC,Crime,Felony,Sale or distribution of obscene material depicting minors,,16,24,36,No,Yes
+311.2(a),PC,Crime,Felony,Sale or distribution of obscene material w/prior convictions,,16,24,36,Yes,
+311.2(b),PC,Crime,Felony,Sale or distribution of obscene material depicting minors for commercial consideration ,,24,36,72,No,Yes
+311.2(c),PC,Crime,Felony,Sale or distribution of obscene material depicting minor under 18 years of age to person 18 years of age or older,,16,24,36,Yes,Yes
+311.2(d),PC,Crime,Felony,Sale or distribution of obscene material depicting minor under 18 years of age to minor under 18 years of age,,16,24,36,No,No
+311.3(a),PC,Crime,Felony,Sexual exploitation of minor under 18 years of age w/prior conviction,,16,24,36,No,No
+311.4(a),PC,Crime,Felony,Involving minor in selling or distribution of obscene material,,16,24,36,Yes,Yes
+311.4(a),PC,Crime,Felony,Involving minor in selling or distribution of obscene material w/prior conviction,,16,24,36,Yes,No
+311.4(b),PC,Crime,Felony,Involving minor under 18 years of age in obscene film or performance,,36,72,92,No,No
+311.4(c),PC,Crime,Felony,Involving minor under age 18 years of age in posing or modeling involving sexual conduct,,16,24,36,No,No
+311.5,PC,Crime,Felony,Advertising obscene matter w/prior conviction,,16,24,36,Yes,No
+311.7,PC,Crime,Felony,Requiring acceptance of obscene matter as condition for receiving other merchandise w/2 prior convictions,,16,24,36,No,No
+311.1,PC,Crime,Felony,Advertising obscene material depicting minor under 18 years of age,,24,36,48,No,Yes
+311.11(a),PC,Crime,Felony,Possession of matter depicting sexual conduct of child under 18 years of age,,16,,,No,Yes
+311.11(b),PC,Crime,Felony,Possession of matter depicting sexual conduct of child under 18 years of age w/pc,,24,48,72,No,No
+311.11(c)(1),PC,Crime,Felony,Possession of matter containing more than 600 images that violate PC 311.11(a) and 10 or more images involving prepubescent minor or minor under 12 years of age,,16,24,36,No,Yes
+311.11(c)(2),PC,Crime,Felony,Violation of PC 311.11(a) and matter portrays sexual sadism or sexual masochism involving minor under 18 years of age,,16,24,36,No,Yes
+313.1,PC,Crime,Felony,Distribution of harmful matter to minors w/prior conviction,,16,24,36,Yes,No
+314(1),PC,Crime,Felony,Indecent exposure w/prior conviction,,16,24,36,No,No
+314(1),PC,Crime,Felony,Indecent exposure after entering inhabited dwelling,,16,24,36,No,Yes
+327,PC,Crime,Felony,"Contriving, proposing, setting up, or operating endless-chain scheme",,16,24,36,No,Yes
+332,PC,Crime,Felony,Obtaining money or property by fraudulent game or trick,,16,24,36,Yes,Yes
+334(a),PC,Crime,Felony,Concessioner fraud by hidden mechanical device,,16,24,36,Yes,Yes
+337,PC,Crime,Felony,Official granting aid/license for illegal gaming for remuneration,,16,24,36,No,No
+337a,PC,Crime,Felony,Pool selling or bookmaking,,16,24,36,No,Yes
+337b,PC,Crime,Felony,Corrupt sporting event/bribe player or participant,,16,24,36,Yes,Yes
+337c,PC,Crime,Felony,Accepting bribe to throw sport event,,16,24,36,Yes,Yes
+337d,PC,Crime,Felony,Bribing official of sport event,,16,24,36,Yes,Yes
+337e,PC,Crime,Felony,Official of sport event accepting bribe,,16,24,36,Yes,Yes
+337f(a)(1),PC,Crime,Felony,Doping race horse or influencing or inducing others to dope race horse,,16,24,36,Yes,Yes
+337f(a)(2),PC,Crime,Felony,Racing drugged horse,,16,24,36,Yes,Yes
+337f(a)(3),PC,Crime,Felony,Racing under fictitious name or license,,16,24,36,Yes,Yes
+337i,PC,Crime,Felony,Transmitting race information for illegal gambling,,16,24,36,No,Yes
+337j,PC,Crime,Felony,Operating controlled game w/o license w/prior conviction,,16,24,36,No,Yes
+337.2,PC,Crime,Felony,Touting w/prior conviction,,16,24,36,Yes,No
+337.3,PC,Crime,Felony,Using name of official in touting,,16,24,36,Yes,Yes
+337.4,PC,Crime,Felony,Touting in excess of $950,,16,24,36,Yes,No
+337.7,PC,Crime,Felony,Use of illegal/forged credential or license in touting,,16,24,36,Yes,Yes
+337.7,PC,Crime,Felony,Use of illegal/forged credential or license in touting w/prior conviction,,16,24,36,Yes,No
+347(a),PC,Crime,Felony,"Willful contamination of food/drink/medicine, etc.",,24,48,60,No,No
+347(b),PC,Crime,Felony,"Falsely reporting contamination of food/drink/medicine, etc.",,16,24,36,No,Yes
+350(a)(2),PC,Crime,Felony,"Manufacture, sale, or possession for sale of 1,000 or more counterfeit marks valued in excess of $950",,16,24,36,Yes,Yes
+350(b),PC,Crime,Felony,"Manufacture, sale, or possession for sale of counterfeit mark w/prior conviction",,16,24,36,Yes,Yes
+350(c),PC,Crime,Felony,"Manufacture, sale, or possession for sale of counterfeit mark causing death or GBI",,24,36,48,Yes,No
+367f,PC,Crime,Felony,Sale of human organs for transplantation,,36,48,60,Yes,Yes
+367g,PC,Crime,Felony,"Unauthorized use or implantation of sperm, ova, or embryos in assisted reproduction technology",,36,48,60,Yes,No
+368(b)(1),PC,Crime,Felony,Willful causing of pain to or suffering of elder or dependent adult,,24,36,48,No,Yes
+368(d),PC,Crime,Felony,Theft or embezzlement over $950 of elder or dependent adult,,24,36,48,Yes,Yes
+368(e),PC,Crime,Felony,Theft or embezzlement over $950 by caretaker of elder or dependent adult,,24,36,48,Yes,Yes
+368(f),PC,Crime,Felony,"False imprisonment of elder or dependent adult by use of violence, menace, fraud, or deceit",,24,36,48,Yes,No
+374.2(d),PC,Crime,Felony,Malicious discharge of harmful materials into public sewer w/pc,,16,20,24,Yes,Yes
+374.8,PC,Crime,Felony,Unauthorized deposit of hazardous substances,,16,24,36,Yes,Yes
+375(d),PC,Crime,Felony,"Release harmful substance in public place which may result in serious
+illness or permanent injury",,16,24,36,Yes,No
+382.5,PC,Crime,Felony,Selling dinitrophenol,,16,24,36,Yes,Yes
+382.6,PC,Crime,Felony,Selling certain chemicals as eyelash dye,,16,24,36,Yes,Yes
+386,PC,Crime,Felony,Willful construction or maintenance of inoperable or unsafe fire protection system,,24,36,48,Yes,No
+386,PC,Crime,Felony,Willful construction or maintenance of inoperable or unsafe fire protection system resulting in GBI or death,,60,72,84,Yes,No
+387,PC,Crime,Felony,Corporate criminal liability regarding disclosure of safety hazards,,16,24,36,Yes,Yes
+399(a) ,PC,Crime,Felony,Owner or person having control allowing vicious animal at large resulting in death,,16,24,36,No,No
+399(b) ,PC,Crime,Felony,Owner or person having control allowing vicious animal at large resulting in serious bodily injury,,16,24,36,No,Yes
+399.5,PC,Crime,Felony,Failure of owner to exercise ordinary care w/dog that bites person,,24,36,48,,Yes
+401,PC,Crime,Felony,Aid/abet suicide,,16,24,36,No,No
+404.6,PC,Crime,Felony,Inciting riot in state prison or county jail resulting in serious bodily injury,,16,24,36,Yes,Yes
+405a,PC,Crime,Felony,Participating in the taking of another person from lawful custody ofpeace ofﬁcer by means of riot,,24,36,48,Yes,No
+417(a)(1)/417.6 ,PC,Crime,Felony,Draw/exhibit deadly weapon in threatening manner and inﬂicting serious bodily injury w/weapon,,16,24,36,No,Yes
+417(a)(2)/417.6 ,PC,Crime,Felony,Draw/exhibit ﬁrearm in threatening manner and inﬂicting serious bodily injury w/ﬁrearm,,16,24,36,No,Yes
+417(a)(2)/626.95 ,PC,Crime,Felony,Draw/exhibit ﬁrearm in threatening manner on grounds of playground or youth center,,12,24,36,Yes,Yes
+417(b) ,PC,Crime,Felony,Draw/exhibit loaded ﬁrearm in threatening manner on grounds of daycare center,,16,24,36,No,Yes
+417(b)/417.6 ,PC,Crime,Felony,Draw/exhibit loaded ﬁrearm in threatening manner on grounds of daycare center and inﬂicting serious bodily injury w/ﬁrearm,,16,24,36,No,Yes
+417(b)/626.95 ,PC,Crime,Felony,Draw/exhibit loaded ﬁrearm in threatening manner on grounds of playground or youth center,,12,24,36,Yes,Yes
+417(c) ,PC,Crime,Felony,Draw/exhibit ﬁrearm in a threatening manner in presence of police ofﬁcer ,,16,24,36,Yes,Yes
+417(c)/417.6 ,PC,Crime,Felony,Draw/exhibit ﬁrearm in a threatening manner in presence of police ofﬁce and inﬂicting serious bodily injury w/ﬁrearm,,16,24,36,No,Yes
+417(d)/417.6 ,PC,Crime,Felony,Draw/exhibit ﬁrearm in presence of person who is cleaning up grafﬁti or vandalism and inﬂicting serious bodily injury w/ﬁrearm,,16,24,36,No,Yes
+417.3,PC,Crime,Felony,Draw/exhibit ﬁrearm in threatening manner in presence of person in motor vehicle ,,16,24,36,Yes,No
+417.8,PC,Crime,Felony,Draw/exhibit deadly weapon with intent to resist arrest,,24,36,48,No,No
+422,PC,Crime,Felony,Criminal threats of violence ,,16,24,36,No,Yes
+422.7,PC,Crime,Felony,Hate crime,,16,24,36,Yes,Yes
+424,PC,Crime,Felony,Embezzlement,,24,36,48,No,No
+425,PC,Crime,Felony,Ofﬁcer's failure to pay over public funds,,16,24,36,No,No
+432,PC,Crime,Felony,Fraudulent possession of blank licenses/receipts,,16,24,36,No,No
+451(a),PC,Crime,Felony,Arson w/GBI,,60,84,108,No,No
+451(b),PC,Crime,Felony,Arson of inhabited structure or property,,36,60,96,No,No
+451(c),PC,Crime,Felony,Arson of structure or forest land,,24,48,72,No,No
+451(d),PC,Crime,Felony,Arson of property,,16,24,36,No,No
+452(a),PC,Crime,Felony,Unlawful fire w/ GBI,,24,48,72,No,Yes
+452(b),PC,Crime,Felony,Unlawful fire of inhabited structure or property,,24,36,48,No,Yes
+452(c),PC,Crime,Felony,Unlawful ﬁre of structure or forest land ,,16,24,36,No,Yes
+453(a) ,PC,Crime,Felony,"Possess, manufacture, dispose of ﬂammable material or incendiary device w/arson intent",,16,24,36,Yes,Yes
+454,PC,Crime,Felony,"Commission of PC 451(a), 451(b) or 451(c) within area of insurrection or emergency",,60,84,108,No,No
+454,PC,Crime,Felony,Commission of PC 451(d) or PC452 within area of insurrection or emergency,,36,60,84,No,No
+455,PC,Crime,Felony,Attempted arson,,16,24,36,No,No
+459/461(a),PC,Crime,Felony,Burglary ﬁrst degree,,24,48,72,No,No
+459/461(b),PC,Crime,Felony,Burglary second degree ,,16,24,36,Yes,Yes
+459.5,PC,Crime,Felony,"Shoplifting w/prior for speciﬁed violent, serious, or sex crimes",,16,24,36,Yes,Yes
+463(a) ,PC,Crime,Felony,"Second-degree burglary within area in a state of emergency or under an evacuation order resulting from earthquake, ﬂood, ﬁre, riot, or other natural or unnatural disaster ",,16,24,36,Yes,Yes
+463(b) ,PC,Crime,Felony,"Grand theft, except grand theft of ﬁrearm, within area in a state of emergency or under an evacuation order resulting from earthquake,ﬂood, ﬁre, riot, or other natural or unnatural disaster",,16,24,36,Yes,Yes
+463(b) ,PC,Crime,Felony,"Grand theft of ﬁrearm within area in a state of emergency or under an evacuation order resulting from earthquake, ﬂood, ﬁre, riot, or other natural or unnatural disaster ",,16,24,36,No,No
+464,PC,Crime,Felony,Safe-blowing,,36,60,84,Yes,No
+470/473(a),PC,Crime,Felony,Forgery and value exceeds $950,,16,24,36,Yes,Yes
+470/473(b) ,PC,Crime,Felony,"Forgery relating to check, bond, bank bill, note, etc. and value does not exceed $950 w/prior for speciﬁed violent, serious, or sex crimes",,16,24,36,Yes,Yes
+470a ,PC,Crime,Felony,Forgery of driver's license or identiﬁcation cards,,16,24,36,Yes,Yes
+470b ,PC,Crime,Felony,Possess/display forged driver's license or identiﬁcation card,,16,24,36,Yes,Yes
+471,PC,Crime,Felony,Altering entries in books and records,,16,24,36,Yes,Yes
+472,PC,Crime,Felony,Forgery of public and corporate seals,,16,24,36,Yes,Yes
+474,PC,Crime,Felony,Sending false/forged message by phone/telegraph w/fraud intent,,16,24,36,Yes,Yes
+475,PC,Crime,Felony,Passing or receiving forged bill/check/note,,16,24,36,Yes,Yes
+476,PC,Crime,Felony,Making/passing/possessing ﬁctitious bill/note/check,,16,24,36,Yes,Yes
+476a ,PC,Crime,Felony,Making or passing worthless check(s) and value exceeds $950,,16,24,36,Yes,Yes
+476a ,PC,Crime,Felony,"Making or passing worthless check(s) and total does not exceed $950w/prior for speciﬁed violent, serious, or sex crimes",,16,24,36,Yes,Yes
+478,PC,Crime,Felony,Counterfeiting,,24,36,48,Yes,No
+479,PC,Crime,Felony,"Possessing or receiving counterfeit coin/bullion, etc.",,24,36,48,Yes,No
+480,PC,Crime,Felony,Making/possessing counterfeit die or apparatus,,24,36,48,Yes,No
+481,PC,Crime,Felony,Counterfeiting or altering passenger ticket,,16,24,36,Yes,Yes
+481.1,PC,Crime,Felony,Counterfeiting or altering public transportation fare media,,16,24,36,No,Yes
+483.5(a) ,PC,Crime,Felony,"Manufacture, sale, or transport of deceptive identiﬁcation document for fraudulent use ",,16,24,36,Yes,Yes
+484b ,PC,Crime,Felony,"Diversion of over $2,350 in construction improvement loans",,16,24,36,Yes,Yes
+484c ,PC,Crime,Felony,Obtaining construction funds by false voucher (embezzlement) (valued at more than $950),,16,24,36,Yes,Yes
+484e(a),PC,Crime,Felony,Selling or transferring access card w/ intent to defraud,,16,24,36,Yes,Yes
+484e(b) ,PC,Crime,Felony,Acquiring access cards of four or more persons w/knowledge that the cards were unlawfully taken or retained,,16,24,36,Yes,Yes
+484e(d),PC,Crime,Felony,Acquiring access card information with intent to defraud,,16,24,36,Yes,Yes
+484f(a),PC,Crime,Felony,Forgery of access card,,16,24,36,Yes,Yes
+484f(b),PC,Crime,Felony,Forgery of signature on access card,,16,24,36,Yes,Yes
+484g ,PC,Crime,Felony,Using forged access card or altered access card account information to obtain over $950 ,,16,24,36,Yes,Yes
+484h ,PC,Crime,Felony,Access card offenses by merchant over $950,,16,24,36,Yes,Yes
+484i(b),PC,Crime,Felony,Altering or modifying access card account information with intent to defraud,,16,24,36,Yes,Yes
+484i(c),PC,Crime,Felony,Counterfeiting access card,,16,24,36,Yes,Yes
+484.1,PC,Crime,Felony,Providing false ID information to pawnbroker or secondhand dealer to obtain money or valuables over $950,,16,24,36,Yes,Yes
+485,PC,Crime,Felony,Appropriation of lost property by ﬁnder,,16,24,36,Yes,No
+487(a),PC,Crime,Felony,"Grand theft money, labor, or property over $950 ",,16,24,36,Yes,Yes
+"487(b)(1),(2) ",PC,Crime,Felony,Grand theft agricultural or aquacultural products (valued at more than $950) ,,16,24,36,Yes,Yes
+487(b)(3) ,PC,Crime,Felony,"rand theft money, labor, or property of $950 or more by servant, agent, or employee ",,16,24,36,Yes,Yes
+487(c),PC,Crime,Felony,Grand theft person (valued at more than $950),,16,24,36,Yes,Yes
+487(d)(1),PC,Crime,Felony,Grand theft auto (valued at more than $950),,16,24,36,Yes,Yes
+487(d)(2),PC,Crime,Felony,Grand theft ﬁrearm,,16,24,36,No,No
+487a(a),PC,Crime,Felony,Grand theft animal (valued at more than $950),,16,24,36,Yes,Yes
+"487a(b),(c) ",PC,Crime,Felony,Grand theft animal carcass (valued at more than $950),,16,24,36,Yes,Yes
+487b ,PC,Crime,Felony,Converting other's realty into personal property by severance w/felonious intent (valued at more than $950) ,,16,24,36,Yes,No
+487d ,PC,Crime,Felony,Theft from claim/mine (valued at more than $950),,16,24,36,Yes,No
+487e ,PC,Crime,Felony,Stealing dog valued at more than $950 ,,16,24,36,Yes,Yes
+487g ,PC,Crime,Felony,"Stealing/fraudulently obtaining any animal for sale, commercial use, research, or slaughter (valued at more than $950) ",,16,24,36,No,Yes
+487h ,PC,Crime,Felony,Grand theft cargo valued at more than $950 ,,16,24,36,Yes,Yes
+487i ,PC,Crime,Felony,Defrauding public housing authority (value over $950),,16,24,36,Yes,Yes
+487j,PC,Crime,Felony,Grand theft copper materials valued at more than $950,,16,24,36,Yes,Yes
+487k ,PC,Crime,Felony,Grand theft agricultural machinery and equipment valued at more than $950 ,,16,24,36,Yes,Yes
+490.2,PC,Crime,Felony,"Petty theft—obtaining money, labor, real or personal property valued at $950 or less—w/prior convictions for violent, serious, or sex crimes",,16,24,36,Yes,Yes
+490.4(a)(1)-(3) ,PC,Crime,Felony,Organized retail theft committed on two or more separate occasions within 12-month period and aggregate value of merchandise exceeds $950,,16,24,36,Yes,Yes
+490.4(a)(4),PC,Crime,Felony,Organized retail theft,,16,24,36,Yes,Yes
+496(a),PC,Crime,Felony,Receiving stolen property in excess of $950,,16,24,36,Yes,Yes
+496(a) ,PC,Crime,Felony,"Receiving stolen property valued at $950 or less w/prior convictions  for violent, serious, or sex crimes",,16,24,36,Yes,Yes
+496(b) ,PC,Crime,Felony,Receiving stolen property in excess of $950 by secondhand goods dealer,,16,24,36,Yes,Yes
+496(d),PC,Crime,Felony,Attempted receiving stolen property  ,,16,24,36,Yes,Yes
+496a ,PC,Crime,Felony,"Junk dealer receiving property of utility company/railroad, etc. ",,16,24,36,Yes,Yes
+496c ,PC,Crime,Felony,Copying title information w/o consent of owner over $950,,16,24,36,Yes,Yes
+496d ,PC,Crime,Felony,"Receiving stolen vehicle, trailer, or vessel ",,16,24,36,Yes,Yes
+497,PC,Crime,Felony,Bringing stolen or embezzled property into state or receiving same  ,,16,24,36,Yes,Yes
+497/514 ,PC,Crime,Felony,Bringing stolen or embezzled U.S. public funds into state or receiving same ,,16,24,36,Yes,No
+498(d) ,PC,Crime,Felony,Unauthorized diversion or connection of utility services valued at more than $950 or w/prior convictions,,16,24,36,No,Yes
+499(a),PC,Crime,Felony,Joyriding w/1 prior convictions,,16,24,36,No,Yes
+499(b),PC,Crime,Felony,Joyriding w/2 prior convictions of joyriding,,16,24,36,No,Yes
+499c ,PC,Crime,Felony,Theft of trade secrets ,,16,24,36,Yes,Yes
+499d ,PC,Crime,Felony,Theft of aircraft ,,16,24,36,Yes,Yes
+500(b),PC,Crime,Felony,Receiving money of $950 or more for transmittal to foreign countries ,,16,24,36,Yes,No
+502(d),PC,Crime,Felony,Computer-related crimes ,,16,24,36,Yes,Yes
+502.5,PC,Crime,Felony,Removal of structures from mortgaged realty w/o owner's consent ,,16,24,36,Yes,Yes
+502.7(a),PC,Crime,Felony,Fraudulently avoiding charge for telephone or telegraph service ,,16,24,36,No,Yes
+502.7(b),PC,Crime,Felony,Use of instrument to avoid telephone or telegraph charge ,,16,24,36,No,Yes
+502.7(d) ,PC,Crime,Felony,Allowing fraudulent use of calling or credit card to obtain telecommunications service ,,16,24,36,No,Yes
+502.7(g),PC,Crime,Felony,Theft of telephone or telegraph services w/prior conviction within 5 years,,16,24,36,No,No
+502.8(c),PC,Crime,Felony,Possession or use of illegal telecommunications equipment w/intent to avoid charge for service w/prior conviction,,16,24,36,No,Yes
+502.8(d),PC,Crime,Felony,Possession of illegal telecommunications equipment wit sell and to avoid charge for service,,16,24,36,No,Yes
+502.8(e),PC,Crime,Felony,Possession of 10 or more items of illegal telecommunications equipment w/intent to sell and to avoid charge for service,,16,24,36,No,Yes
+502.8(f),PC,Crime,Felony,Manufacture of 10 or more items of illegal telecommunications equipment w/intent to sell and to avoid charge for service,,16,24,36,No,Yes
+503,PC,Crime,Felony,Embezzlement (amount in excess of $950),,16,24,36,Yes,Yes
+504,PC,Crime,Felony,Embezzlement by public ofﬁcer (amount in excess of $950),,16,24,36,Yes,Yes
+504,PC,Crime,Felony,Embezzlement by public ofﬁcer of public funds (amount in excess of $950),,16,24,36,No,No
+504a ,PC,Crime,Felony,Embezzlement of property held under lease (amount in excess of $950),,16,24,36,Yes,Yes
+504b ,PC,Crime,Felony,Debtor's embezzlement by sale of mortgaged property (amount in excess of $950),,16,24,36,Yes,Yes
+505,PC,Crime,Felony,Embezzlement by carrier (amount in excess of $950),,16,24,36,Yes,Yes
+506,PC,Crime,Felony,Embezzlement by trustee (amount in excess of $950),,16,24,36,Yes,Yes
+506,PC,Crime,Felony,Embezzlement by trustee of public funds (amount in excess of $950),,16,24,36,No,No
+506b ,PC,Crime,Felony,Violation of CC 2985.3-2985.4 re real estate sales ,,16,24,36,Yes,Yes
+507,PC,Crime,Felony,Embezzlement by tenant or bailee (amount in excess of $950),,16,24,36,Yes,Yes
+508,PC,Crime,Felony,Embezzlement by clerk or servant (amount in excess of $950),,16,24,36,Yes,Yes
+519,PC,Crime,Felony,Extortion ,,24,36,48,Yes,No
+522,PC,Crime,Felony,Extorting signature to transfer property,,24,36,48,Yes,No
+523(a),PC,Crime,Felony,Sending threatening letters wit extort,,24,36,48,Yes,No
+523(b),PC,Crime,Felony,Placing ransomware into computer or computer network wit extort,,24,36,48,Yes,No
+524,PC,Crime,Felony,Attempted extortion,,16,24,36,No,Yes
+528,PC,Crime,Felony,Marriage by impersonation,,16,24,36,No,No
+529,PC,Crime,Felony,Impersonation for fraud,,16,24,36,Yes,Yes
+529a,PC,Crime,Felony,Manufacture or sale of false birth or baptismal certiﬁcate,,16,24,36,Yes,Yes
+530,PC,Crime,Felony,Receiving money/property in assumed character,,16,24,36,Yes,Yes
+530.5(a) ,PC,Crime,Felony,"Using personal identifying information of another to obtain credit,goods, services, or medical information",,16,24,36,Yes,Yes
+530.5(c)(2),PC,Crime,Felony,Acquisition or retention of personal identifying information of another w/intent to defraud w/prior conviction,,16,24,36,Yes,Yes
+530.5(c)(3),PC,Crime,Felony,Acquisition or retention of personal identifying information of 10 or more persons with intent to defraud,,16,24,36,Yes,Yes
+530.5(d)(1),PC,Crime,Felony,"Sale, transfer, or conveyance of personal identifying information of another w/intent to defraud ",,16,24,36,Yes,Yes
+530.5(d)(2) ,PC,Crime,Felony,"Sale, transfer, or conveyance of personal identifying information w/knowledge that the information will be used to commit violation of PC 530.5(a)",,16,24,36,Yes,No
+532,PC,Crime,Felony,Obtain money/credit/property/labor by false pretense,,16,24,36,Yes,Yes
+532a(4) ,PC,Crime,Felony,Making false ﬁnancial statement by use of ﬁctitious identity ,,16,24,36,Yes,Yes
+532f(h),PC,Crime,Felony,Mortgage fraud,,16,24,36,Yes,Yes
+533,PC,Crime,Felony,Selling land twice,,16,24,36,Yes,No
+534,PC,Crime,Felony,Spouse selling land/property by false pretense,,16,24,36,No,No
+535,PC,Crime,Felony,Illegal auction,,16,24,36,Yes,Yes
+537(a)(2),PC,Crime,Felony,Defrauding innkeeper of more than $950,,16,24,36,No,Yes
+537e(a) ,PC,Crime,Felony,Purchase/possess/sell integrated circuit w/removed/altered ID/serial number more than $950 ,,16,24,36,Yes,Yes
+538,PC,Crime,Felony,Sale/dispose of mortgaged property(grand theft value),,16,24,36,Yes,Yes
+538.5,PC,Crime,Felony,"Fraudulent use of wire, radio, or TV transmissions",,16,24,36,Yes,Yes
+548,PC,Crime,Felony,Defrauding insurer,,24,36,60,Yes,No
+549,PC,Crime,Felony,Soliciting fraudulent insurance claims,,16,24,36,Yes,Yes
+549,PC,Crime,Felony,Soliciting fraudulent insurance claims w/prior conviction,,16,24,36,Yes,No
+"550(a)(1),(4)",PC,Crime,Felony,Filing fraudulent insurance claim,,24,36,60,Yes,No
+550(a)(2),PC,Crime,Felony,Filing multiple insurance claims w/ intent to defraud,,24,36,60,Yes,No
+550(a)(3) ,PC,Crime,Felony,Participating in staged auto accident for purpose of ﬁling fraudulent insurance claim ,,24,36,60,Yes,No
+550(a)(5) ,PC,Crime,Felony,"Preparing writing w/intent to present, use, or allow it to be presented in support of fraudulent claim ",,24,36,60,Yes,No
+550(a)(6)-(9),PC,Crime,Felony,Defrauding health care provider of more than $950,,24,36,60,Yes,Yes
+550(b)(1)-(4) ,PC,Crime,Felony,Preparing or making false oral or written statement in support of or opposition to insurance claim,,24,36,60,Yes,Yes
+551,PC,Crime,Felony,Offering consideration for referrals to auto repair dealer or contractor—more than $950 ,,16,24,36,Yes,Yes
+551,PC,Crime,Felony,Offering consideration for referrals to auto repair dealer or contractor w/prior conviction,,16,24,36,Yes,Yes
+560,PC,Crime,Felony,Issuing false documents of title,,16,24,36,Yes,Yes
+560.4,PC,Crime,Felony,Issuing fraudulent duplicate document of title,,16,24,36,Yes,Yes
+566,PC,Crime,Felony,Dairy equipment offenses over $950,,16,24,36,Yes,Yes
+570,PC,Crime,Felony,Unlawful subleasing of motor vehicle,,16,24,36,Yes,Yes
+577,PC,Crime,Felony,Issuing false bill of lading/receipt/voucher,,16,24,36,Yes,Yes
+578,PC,Crime,Felony,Issuing ﬁctitious warehouse receipts,,16,24,36,Yes,Yes
+580,PC,Crime,Felony,Failure to show receipt is duplicate,,16,24,36,Yes,Yes
+581,PC,Crime,Felony,Sale or pledge of property receipted for by carrier or warehouse,,16,24,36,Yes,Yes
+587,PC,Crime,Felony,Injury to or obstruction of railroad tracks or bridges,,16,24,36,Yes,Yes
+587.1,PC,Crime,Felony,Unauthorized moving of locomotive creating substantial likelihood of causing personal injury or death,,16,24,36,Yes,Yes
+588a ,PC,Crime,Felony,Depositing injurious substance on highway w/intent to commit GBI,,16,24,36,No,No
+591,PC,Crime,Felony,Injury to telegraph/telephone/cable TV or other electric line,,16,24,36,Yes,Yes
+592(b) ,PC,Crime,Felony,"Taking water from canal, ditch, ﬂume, or reservoir valued at more than $950 ",,16,24,36,No,Yes
+592(b),PC,Crime,Felony,"Taking water from canal, ditch, ﬂume, or reservoir w/prior conviction",,16,24,36,No,Yes
+593,PC,Crime,Felony,Interfering w/electric power line,,16,24,36,Yes,Yes
+593a ,PC,Crime,Felony,Malicious damage to timber/trees,,16,24,36,No,No
+593c ,PC,Crime,Felony,Malicious interference w/gas line,,16,24,36,No,No
+593d(b) ,PC,Crime,Felony,"Manufacture or distribution of 10 or more, or sale of 5 or more, unauthorized video signal converter boxes",,16,24,36,No,Yes
+593d(b) ,PC,Crime,Felony,"Manufacture or distribution of less than 10, or sale of less than 5, unauthorized video signal converter boxes w/prior conviction",,16,24,36,No,Yes
+594(b)(1),PC,Crime,Felony,Vandalism of $400 or more ,,16,24,36,Yes,Yes
+594.3(a),PC,Crime,Felony,Vandalism of place of worship or cemetery,,16,24,36,Yes,Yes
+594.3(b) ,PC,Crime,Felony,Vandalism of place of worship or cemetery committed for purpose of deterring free exercise of religious beliefs ,,16,24,36,Yes,No
+594.35,PC,Crime,Felony,Vandalism of mortuary; disturbing or obstructing funeral service ,,16,24,36,Yes,Yes
+594.4,PC,Crime,Felony,"Defacing, damaging, or contaminating property w/noxious or caustic chemical or substance",,16,24,36,Yes,Yes
+594.7,PC,Crime,Felony,Vandalism w/2 prior convictions of vandalism ,,16,24,36,No,Yes
+597,PC,Crime,Felony,"Killing, maiming, or abusing animals  ",,16,24,36,Yes,Yes
+597b(c),PC,Crime,Felony,Animal ﬁghting exhibition violation w/prior conviction,,16,24,36,No,Yes
+597.5(a),PC,Crime,Felony,Dog ﬁghting,,16,24,36,Yes,No
+598c ,PC,Crime,Felony,Conducting transaction involving horse w/ intent to kill horse for human consumption,,16,24,36,No,No
+598d ,PC,Crime,Felony,Sale of horsemeat for human consumption w/prior conviction,,24,ID,60,No,No
+600(a),PC,Crime,Felony,Inﬂicting serious injury on police horse or dog,,16,24,36,Yes,Yes
+601,PC,Crime,Felony,Trespass consisting of credible threat to cause serious bodily injury and unlawful entry onto property within 30 days of the threat,,16,24,36,Yes,Yes
+607,PC,Crime,Felony,"Injury or destruction of hydra-power equipment of $5,000 or more",,16,24,36,Yes,Yes
+610,PC,Crime,Felony,Tampering w/signal lights,,16,24,36,Yes,No
+617,PC,Crime,Felony,Injuring or destroying other's written instrument,,16,24,36,Yes,No
+620,PC,Crime,Felony,Altering telegraph/telephone messages,,16,24,36,Yes,Yes
+621(a),PC,Crime,Felony,Vandalism of law enforcement memorial or ﬁreﬁghter's memorial,,16,24,36,Yes,Yes
+625b(b),PC,Crime,Felony,Tampering w/aircraft,,16,24,36,Yes,Yes
+625c ,PC,Crime,Felony,Tampering w/transit vehicle w/intent to cause GBI ,,16,24,36,No,No
+626.9(b),PC,Crime,Felony,Possession of ﬁrearm on school grounds,,24,36,60,Yes,No
+626.9(b),PC,Crime,Felony,"Possession of ﬁrearm within 1,000 feet of school grounds",,24,36,60,Yes,Yes
+626.9(b) ,PC,Crime,Felony,"Possession of ﬁrearm within 1,000 feet of school grounds w/prior felony conviction of speciﬁed felonies, defendant prohibited from possessing ﬁrearm, or ﬁrearm concealable",,24,36,60,Yes,No
+626.9(d) ,PC,Crime,Felony,"Discharging or attempted discharge of ﬁrearm w/reckless disregard of safety of others on or within 1,000 feet of school grounds",,36,60,84,Yes,No
+626.9(h),PC,Crime,Felony,Bring/possess loaded ﬁrearm on public or private college grounds,,24,36,48,Yes,No
+626.9(i),PC,Crime,Felony,Bring/possess ﬁrearm on public or private college grounds,,12,24,36,Yes,No
+626.10(a)(1),PC,Crime,Felony,"Possession of weapon, not ﬁrearm, on public or private school grounds",,16,24,36,Yes,Yes
+626.10(b),PC,Crime,Felony,"Possession of weapon, not ﬁrearm, on public or private college grounds",,16,24,36,Yes,Yes
+626.95,PC,Crime,Felony,Possessing ﬁrearm on grounds of playground or youth center,,12,24,36,Yes,Yes
+629.84,PC,Crime,Felony,Violation of wiretapping laws,,16,24,36,Yes,Yes
+631,PC,Crime,Felony,Wiretapping,,16,24,36,Yes,Yes
+632(a),PC,Crime,Felony,Eavesdropping or recording conﬁdential communication,,16,24,36,No,Yes
+632.01,PC,Crime,Felony,Disclosing or distributing contents of conﬁdential communicationwith a health care provider obtained in violation of PC 632(a) ,,16,24,36,No,Yes
+632.5,PC,Crime,Felony,Unlawful interception of cellular radio telephone communication,,16,24,36,No,Yes
+632.6,PC,Crime,Felony,Unlawful interception of cordless telephone communication,,16,24,36,No,Yes
+632.7,PC,Crime,Felony,Unlawful interception of and recordation of cellular radio or cordless telephone communication,,16,24,36,No,Yes
+634,PC,Crime,Felony,Trespass to invade privacy,,16,24,36,No,Yes
+635,PC,Crime,Felony,Manufacturing or sale of eavesdropping devices,,16,24,36,No,Yes
+636(a),PC,Crime,Felony,Electronic eavesdropping on privileged conversation,,16,24,36,Yes,No
+636(b),PC,Crime,Felony,Nonelectronic eavesdropping on privileged conversation,,16,24,36,Yes,Yes
+637,PC,Crime,Felony,Wrongful disclosure of telephone/telegraph communication,,16,24,36,Yes,Yes
+637.1,PC,Crime,Felony,Wrongful disclosure of telephone/telegraph communication by employee,,16,24,36,Yes,Yes
+638.51,PC,Crime,Felony,Unlawful installation or use of pen register or trap and trace device,,16,24,36,Yes,Yes
+639,PC,Crime,Felony,Bribing ﬁnancial institution employee to obtain credit/loan,,16,24,36,No,No
+639a,PC,Crime,Felony,Financial institution employee soliciting/accepting bribe,,16,24,36,No,No
+641,PC,Crime,Felony,Bribing telegraph/telephone agent,,16,24,36,No,No
+641.3,PC,Crime,Felony,"Commercial bribery where amount of bribe exceeds $1,000",,16,24,36,No,Yes
+642,PC,Crime,Felony,Grand theft from corpse,,16,24,36,Yes,Yes
+646.9(a),PC,Crime,Felony,Stalking,,16,24,36,No,Yes
+646.9(b),PC,Crime,Felony,Stalking in violation of temporary restraining order or injunction,,24,24,36,No,No
+646.9(c)(1),PC,Crime,Felony,"Stalking w/prior felony conviction of PC 273.5,273.6, or 422",,24,24,36,No,Yes
+646.9(c)(2),PC,Crime,Felony,Stalking w/prior felony conviction  of stalking,,24,24,36,No,No
+647.6(b),PC,Crime,Felony,Child molestation after entering inhabited dwelling w/o consent,,16,24,36,No,Yes
+647.6(c)(1),PC,Crime,Felony,Child molestation w/prior conviction,,16,24,36,No,No
+647.6(c)(2) ,PC,Crime,Felony,"Child molestation w/prior felony conviction of PC 647.6, 288, 311.4 involving minor under 14, or w/prior felony conviction of PC 261, 264.1, 269, 285, 286, 287, 288.5, or 289 involving minor under 16",,24,48,72,No,No
+648,PC,Crime,Felony,Issuing or circulating counterfeit money w/prior conviction,,16,24,36,No,No
+653f(a),PC,Crime,Felony,Soliciting commission of crime not murder,,16,24,36,Yes,Yes
+653f(b),PC,Crime,Felony,Soliciting murder,,36,72,108,No,No
+653f(c),PC,Crime,Felony,"Solicit commission of PC 264.1, 288, or 289",,24,36,48,No,No
+653f(d),PC,Crime,Felony,Soliciting commission of drug offenses w/prior conviction,,16,24,36,Yes,Yes
+653f(e) ,PC,Crime,Felony,Soliciting commission of health care fraud under Welf & I C 14014  w/prior conviction,,16,24,36,Yes,Yes
+653h(b),PC,Crime,Felony,"Illegal sound recording, transfer, or transport of 1,000 or more articles",,24,36,60,Yes,Yes
+653h(c),PC,Crime,Felony,"Illegal sound recording, transfer, or transport, w/prior conviction",,16,24,36,Yes,Yes
+653h(d),PC,Crime,Felony,Illegal sound recording for sale w/prior conviction,,16,24,36,Yes,Yes
+653j,PC,Crime,Felony,Solicitation of minor to commit certain felonies ,,36,60,84,Yes,No
+653s(a) ,PC,Crime,Felony,"Transporting live performance recorded w/o consent if involves less than 1,000 articles w/prior conviction",,16,24,36,Yes,Yes
+653s(a) ,PC,Crime,Felony,"Transporting live performance recorded w/o consent if involves 1,000 or more articles",,24,36,60,Yes,Yes
+653s(i) ,PC,Crime,Felony,Selling or reselling live performance recorded w/o consent if involves 100 or more articles w/prior conviction,,16,24,36,Yes,Yes
+653s(i) ,PC,Crime,Felony,Selling or reselling live performance recorded w/o consent if involves less than 100 articles w/2 prior convictions,,16,24,36,Yes,Yes
+653t(a) ,PC,Crime,Felony,"Interfering w/emergency radio transmission resulting in serious bodily injury or property loss in excess of $10,000",,16,24,36,Yes,No
+653t(d) ,PC,Crime,Felony,"Interfering w/emergency transmission over public safety radio frequency resulting in serious injury or property loss in excess of$10,000",,16,24,36,Yes,No
+653u(a) ,PC,Crime,Felony,"Recording or mastering live performance recorded w/o consent if involves 1,000 or more articles",,24,36,60,Yes,Yes
+653u(a) ,PC,Crime,Felony,"Recording or mastering live performance recorded w/o consent if involves less than 1,000 articles w/prior conviction",,16,24,36,Yes,Yes
+653w(a) ,PC,Crime,Felony,"Failing to disclose origin of recording or audiovisual work for commercial gain if offense involves sale, resale, rental, or manufacture of 100 articles or more or commercial equivalent thereof",,24,36,60,Yes,Yes
+653w(a) ,PC,Crime,Felony,"Failing to disclose origin of recording or audiovisual work for commercial gain if offense involves sale, resale, rental, or manufacture of less than 100 articles or commercial equivalent thereof w/prior conviction",,16,24,36,Yes,Yes
+664/190 ,PC,Crime,Felony,Attempted murder,,60,84,108,No,No
+664/190 ,PC,Crime,Felony,"Attempted murder, second degree",,60,84,108,No,No
+664/209(a),PC,Crime,Felony,Attempted kidnap for ransom,,60,84,108,No,No
+664/209(b),PC,Crime,Felony,Attempted kidnap for robbery ,,60,72,84,No,No
+666(a) ,PC,Crime,Felony,"Petty theft w/theft-related prior conviction for which imprisonment term was served and defendant is a registered sex offender, or has a violent or serious prior felony conviction, or has a prior conviction under PC §368(d) or (e)",,16,24,36,No,Yes
+666.5,PC,Crime,Felony,"Felony vehicle theft under VC 10851 or felony grand theft involving an auto, trailer, vessel, or special construction equipment under PC 487(d), 487h, or 496d, w/prior conviction",,24,36,48,Yes,No
+836.6,PC,Crime,Felony,Escape after being lawfully arrested or remanded to custody causing serious bodily injury to police ofﬁcer,,24,36,48,No,Yes
+1203.018(i) ,PC,Crime,Felony,Willful failure of misdemeanant to return to place of home detention ,,NA,1Y1D ,NA,No,Yes
+1203.018(i) ,PC,Crime,Felony,Willful failure of felon to return to place of home detention ,,16,24,36,No,Yes
+1319.4,PC,Crime,Felony,Failure to appear on a felony,,16,24,36,Yes,Yes
+1320(b) ,PC,Crime,Felony,"Willful failure to appear felony hearing, when released on own recognizance ",,16,24,36,Yes,Yes
+1320.5,PC,Crime,Felony,"Willful failure to appear felony hearing, when released on bail",,16,24,36,Yes,Yes
+1370.5,PC,Crime,Felony,Escape from mental health facility ,,NA,1Y1D,NA,No,Yes
+2042,PC,Crime,Felony,Escape/attempted escape from Deuel Vocational Institute,,16,24,36,No,No
+2772,PC,Crime,Felony,Interference w/prisoner or delivery of forbidden items to prisoner,,16,24,36,Yes,No
+2790,PC,Crime,Felony,Interference w/prisoner or delivery of forbidden items to prisoner,,16,24,36,Yes,No
+4011.7,PC,Crime,Felony,Escape w/force or violence of misdemeanor prisoner from hospital,,16,24,36,Yes,Yes
+4133,PC,Crime,Felony,Escape from industrial farm,,16,24,36,No,Yes
+4501(a) ,PC,Crime,Felony,Assault w/deadly weapon or instrument by prisoner serving less than life sentence,,24,48,72,No,No
+4501(b) ,PC,Crime,Felony,Assault by means of force likely to produce GBI by prisoner serving less than life sentence,,24,48,72,No,No
+4501.1,PC,Crime,Felony,Battery of peace ofﬁcer or prison employee by prisoner by gassing,,24,36,48,No,Yes
+4501.5,PC,Crime,Felony,Battery on nonprisoner by prisoner,,24,36,48,No,No
+4502(a),PC,Crime,Felony,Prisoner possessing deadly weapon,,24,36,48,Yes,No
+4502(b),PC,Crime,Felony,Prisoner manufacturing or attempting to manufacture deadly weapon,,16,24,36,Yes,No
+4503,PC,Crime,Felony,Prisoner holding hostage in prison,,36,60,84,No,No
+4530(a),PC,Crime,Felony,Escape or attempted escape from prison w/force or violence,,24,48,72,No,No
+4530(b),PC,Crime,Felony,Escape or attempted escape from prison w/o force or violence,,16,24,36,No,No
+4532(a),PC,Crime,Felony,Escape or attempt of misdemeanant from jail w/force or violence,,24,48,72,No,Yes
+4532(a) ,PC,Crime,Felony,Escape or attempt of misdemeanant from jail w/o force or violence ,,NA,1Y1D,NA,No,Yes
+4532(b),PC,Crime,Felony,Escape or attempt of felon from jail w/force or violence,,24,48,72,No,Yes
+4532(b),PC,Crime,Felony,Escape or attempt of felon from jail w/o force or violence,,16,24,36,No,Yes
+4532(e) ,PC,Crime,Felony,Failure of misdemeanant to return to jail subsequent to temporary release ,,NA,1Y1D,NA,No,Yes
+4532(e),PC,Crime,Felony,Failure of felon to return to jail subsequent to temporary release,,16,24,36,No,Yes
+4533,PC,Crime,Felony,Ofﬁcer aiding or abetting escape of prisoner,,16,24,36,Yes,No
+4534,PC,Crime,Felony,Aiding or abetting escape,,16,24,36,Yes,No
+4535,PC,Crime,Felony,Carrying items into prison/jail useful for escape,,16,24,36,No,No
+4536,PC,Crime,Felony,"Escape or attempt of mentally disordered sex offender from state hospital, etc.",,16,24,36,No,Yes
+4550,PC,Crime,Felony,Rescue or attempted rescue of prisoner convicted of capital crime,,24,36,48,Yes,No
+4550,PC,Crime,Felony,Rescue or attempted rescue of prisoner convicted of noncapital crime,,16,24,36,Yes,Yes
+4571,PC,Crime,Felony,Unauthorized entry on prison/jail grounds by ex-convict,,16,24,36,No,No
+4573,PC,Crime,Felony,Smuggling drugs/drug device/alcohol into prison/jail ,,24,36,48,Yes,No
+4573.5,PC,Crime,Felony,Bringing drugs/paraphernalia into prison/jail,,16,24,36,No,No
+4573.6,PC,Crime,Felony,Possessing CS/drug device where prisoners are kept,,24,36,48,Yes,No
+4573.8,PC,Crime,Felony,Possessing drugs/drug device/alcohol where prisoners are kept,,16,24,36,No,No
+4573.9,PC,Crime,Felony,Sale of controlled substance to prisoner,,24,48,72,Yes,No
+4574(a),PC,Crime,Felony,Bring/send ﬁrearms/deadly weapons/explosives into prison,,24,36,48,Yes,No
+4574(b),PC,Crime,Felony,Smuggling tear gas into prison or jail,,24,36,48,Yes,No
+4600,PC,Crime,Felony,"Destruction of prison or jail, damage exceeds $950",,16,24,36,Yes,No
+11411(c) ,PC,Crime,Felony,Placing or displaying Nazi swastika on property of another on two or more occasions for purpose of terrorizing the property owner,,16,24,36,Yes,Yes
+11411(d) ,PC,Crime,Felony,"Cross-burning on private property of another or school property for purpose of terrorizing property owner, student, or school employee",,16,24,36,Yes,Yes
+11412,PC,Crime,Felony,Religious terrorism,,16,24,36,No,No
+11413,PC,Crime,Felony,Use of explosives in terrorism of speciﬁed places,,36,60,84,Yes,No
+11418(a)(1),PC,Crime,Felony,"Possession, production, or transfer of weapons of mass destruction",,48,96,144,Yes,No
+11418(a)(2) ,PC,Crime,Felony,"Possession, production, or transfer of weapons of mass destruction w/prior conviction",,60,120,180,Yes,No
+11418(b)(3) ,PC,Crime,Felony,Use of weapon of mass destruction to damage or disrupt food or source of drinking water,,60,96,144,No,No
+11418(b)(4) ,PC,Crime,Felony,Use of weapon of mass destruction to cause damage to or substantial loss in the value of stock animals or crops,,48,96,144,No,No
+11418(c) ,PC,Crime,Felony,Use of weapon of mass destruction to damage public natural resources ,,36,48,72,No,No
+11418(d)(1) ,PC,Crime,Felony,Use of recombinant technology to create new pathogens for use in any crime deﬁned in PC 11418(b),,48,96,144,No,No
+11418(d)(2),PC,Crime,Felony,Use of recombinant technology to create new pathogens for use in any crime deﬁned in PC 11418(c),,36,72,108,No,No
+11418.1,PC,Crime,Felony,"Mailing, sending, or causing to be sent a false or facsimile weapon of mass destruction, or placing or possessing such weapon and causing another person to be placed in sustained fear",,16,24,36,No,Yes
+11418.5,PC,Crime,Felony,"Threat of use of weapon of mass destruction resulting in isolation, quarantine, or decontamination",,36,48,72,No,Yes
+11419,PC,Crime,Felony,Possession of restricted biological agents,,48,96,144,Yes,
+14162,PC,Crime,Felony,Money laundering,,16,24,36,No,Yes
+18710,PC,Crime,Felony,Possession of destructive device ,,16,24,36,No,Yes
+18715,PC,Crime,Felony,"Possession of destructive device or explosive in public or private place, or on transit vehicle",,24,48,72,Yes,No
+18720,PC,Crime,Felony,Possession of materials wit make destructive device or explosive w/o permit,,24,36,48,Yes,No
+18725,PC,Crime,Felony,Carrying or placing destructive device or explosive on transit vehicle orin baggage,,24,48,60,Yes,No
+18730,PC,Crime,Felony,Sale or transportation of destructive device,,24,36,48,Yes,No
+18735,PC,Crime,Felony,"Sale, possession, or transportation of ﬁxed ammunition",,16,24,36,Yes,Yes
+18740,PC,Crime,Felony,"Possession, explosion, or ignition of destructive device or explosive w/intent to injure or intimidate, or w/intent to injure or destroy property",,36,60,84,Yes,No
+18750,PC,Crime,Felony,Willful and malicious explosion or ignition of destructive device or explosive causing bodily injury to another,,60,84,108,No,No
+19100,PC,Crime,Felony,"Carrying concealed explosive substance, other than ﬁxed ammunition, on person",,16,24,36,Yes,Yes
+19200,PC,Crime,Felony,"Possession or manufacture of, or offer to sell metal military practice or metal replica hand grenade",,16,24,36,Yes,Yes
+20110(a),PC,Crime,Felony,"Assembly, maintenance, or placement of boobytrap device",,24,36,60,Yes,Yes
+20110(b) ,PC,Crime,Felony,Possession of device wit use as boobytrap ,,16,24,36,Yes,Yes
+20310,PC,Crime,Felony,"Possession or manufacture of, or offer to sell air gauge knife",,16,24,36,Yes,Yes
+20410,PC,Crime,Felony,"Possession or manufacture of, or offer to sell belt buckle knife",,16,24,36,Yes,Yes
+20510,PC,Crime,Felony,"Possession or manufacture of, or offer to sell cane sword",,16,24,36,Yes,Yes
+20610,PC,Crime,Felony,"Possession or manufacture of, or offer to sell lipstick case knife",,16,24,36,Yes,Yes
+20710,PC,Crime,Felony,"Possession or manufacture of, or offer to sell shobi-zue",,16,24,36,Yes,Yes
+20910,PC,Crime,Felony,"Possession or manufacture of, or offer to sell writing pen knife",,16,24,36,Yes,Yes
+21110,PC,Crime,Felony,"Possession or manufacture of, or offer to sell ballistic knife",,16,24,36,Yes,Yes
+21310,PC,Crime,Felony,Carrying concealed dirk or dagger on person,,16,24,36,Yes,Yes
+21810,PC,Crime,Felony,"Possession or manufacture of, or offer to sell metal knuckles",,16,24,36,Yes,Yes
+22010,PC,Crime,Felony,"Possession or manufacture of, or offer to sell nunchaku",,16,24,36,Yes,Yes
+22210,PC,Crime,Felony,"Possession or manufacture of, or offer to sell sap and similar weapons",,16,24,36,Yes,Yes
+22410,PC,Crime,Felony,"Possession or manufacture of, or offer to sell shuriken",,16,24,36,Yes,Yes
+22810(g)(1),PC,Crime,Felony,Use of tear gas except in self-defense,,16,24,36,Yes,Yes
+22810(g)(2),PC,Crime,Felony,Use of tear gas against peace ofﬁcer,,16,24,36,Yes,Yes
+22910,PC,Crime,Felony,Changing or removing identifying data on tear gas weapon,,16,24,36,Yes,Yes
+23900,PC,Crime,Felony,"Changing or removing identifying data on pistol, revolver, or any other ﬁrearm ",,16,24,36,Yes,Yes
+24310,PC,Crime,Felony,"Possession or manufacture of, or offer to sell camouﬂaging ﬁrearm container",,16,24,36,Yes,Yes
+24410,PC,Crime,Felony,"Possession or manufacture of, or offer to sell can gun",,16,24,36,Yes,Yes
+24510,PC,Crime,Felony,"Possession or manufacture of, or offer to sell ﬁrearm not immediately recognizable as a ﬁrearm",,16,24,36,Yes,Yes
+24610,PC,Crime,Felony,"Possession or manufacture of, or offer to sell undetectable ﬁrearm",,16,24,36,Yes,Yes
+24710,PC,Crime,Felony,"Possession or manufacture of, or offer to sell wallet gun",,16,24,36,Yes,Yes
+25100(a),PC,Crime,Felony,Criminal storage of ﬁrearm in the ﬁrst degree,,16,24,36,Yes,Yes
+25300,PC,Crime,Felony,Carrying ﬁrearm in public while masked to hide identity,,16,24,36,Yes,Yes
+25400(a),PC,Crime,Felony,Carrying concealed ﬁrearm on person or in vehicle w/prior felony conviction,,16,24,36,No,No
+25400(a) ,PC,Crime,Felony,Carrying concealed ﬁrearm on person or in vehicle when ﬁrearm is stolen and defendant knew or had reasonable cause to believe that it was stolen,,16,24,36,No,No
+25400(a) ,PC,Crime,Felony,Carrying concealed ﬁrearm on person or in vehicle and defendant is active participant in criminal street gang,,16,24,36,No,No
+25400(a) ,PC,Crime,Felony,Carrying concealed ﬁrearm on person or in vehicle and defendant not in lawful possession of ﬁrearm or is a felon or mental patient,,16,24,36,No,No
+25400(a) ,PC,Crime,Felony,Carrying concealed ﬁrearm on person or in vehicle w/prior conviction of a narcotics offense or an offense against person or property,,16,24,36,Yes,Yes
+25400(a) ,PC,Crime,Felony,"Immediate possession or ready access to concealable ﬁrearm and ammunition or loaded concealable ﬁrearm, and defendant not registered owner ",,16,24,36,Yes,Yes
+25800,PC,Crime,Felony,Carrying loaded ﬁrearm w/intent to commit felony,,16,24,36,No,No
+25850(a),PC,Crime,Felony,Carrying loaded ﬁrearm on person or in vehicle w/prior felony conviction,,16,24,36,No,No
+25850(a) ,PC,Crime,Felony,Carrying loaded ﬁrearm on person or in vehicle and defendant is an active participant in criminal street gang,,16,24,36,No,No
+25850(a) ,PC,Crime,Felony,Carrying loaded ﬁrearm on person or in vehicle when ﬁrearm is stolen and defendant knew or had reasonable cause to believe that it was stolen,,16,24,36,No,No
+25850(a) ,PC,Crime,Felony,Carrying loaded ﬁrearm on person or in vehicle and defendant not in lawful possession of ﬁrearm or is a felon or mental patient,,16,24,36,No,No
+25850(a) ,PC,Crime,Felony,Carrying loaded ﬁrearm on person or in vehicle w/prior conviction of a narcotics offense or an offense against person or property,,16,24,36,Yes,Yes
+25850(a) ,PC,Crime,Felony,Carrying loaded handgun on person or in vehicle and defendant not registered owner,,16,24,36,Yes,Yes
+26100(b),PC,Crime,Felony,Permitting another to discharge ﬁrearm from motor vehicle,,16,24,36,No,Yes
+26100(c),PC,Crime,Felony,Discharging ﬁrearm from motor vehicle at another person,,36,60,84,No,No
+26100(d),PC,Crime,Felony,Discharging ﬁrearm from motor vehicle,,16,24,36,No,Yes
+26180(b),PC,Crime,Felony,Making false statements on gun license application,,16,24,36,No,No
+27590,PC,Crime,Felony,Unlawful ﬁrearm transaction deﬁned in PC 27590(b)(1)-(6),,24,36,48,Yes,No
+27590,PC,Crime,Felony,Unlawful ﬁrearm transaction deﬁned in PC 27590(c)(1)-(7),,16,24,36,Yes,Yes
+28250(b) ,PC,Crime,Felony,Knowingly providing ﬁctitious or incorrect information or omitting information to gun registry by defendant prohibited from acquiring ﬁrearms,,8,12,18,Yes,Yes
+29700,PC,Crime,Felony,Unlawful possession of concealed ﬁrearm or live ammunition by minor w/prior conviction,,16,24,36,Yes,Yes
+29800(a)(1),PC,Crime,Felony,"Possession of ﬁrearm by addict, felon, or person who has outstanding felony warrant",,16,24,36,No,No
+29800(a)(2),PC,Crime,Felony,Possession of ﬁrearm by person w/2 prior convictions of brandishing ﬁre arm under PC 417(a)(2),,16,24,36,No,No
+29800(b) ,PC,Crime,Felony,Possession of ﬁrearm by felon when prior conviction results from prosecution as an adult under WI 707,,16,24,36,No,No
+29805(a),PC,Crime,Felony,Possession of ﬁrearm within 10 years of certain misdemeanor convictions or if person has outstanding misdemeanor warrant,,16,24,36,No,Yes
+29805(b),PC,Crime,Felony,Possession of ﬁrearm by person convicted of a misdemeanor violation of PC 273.5,,16,24,36,No,Yes
+29805(c) ,PC,Crime,Felony,"Possession of ﬁrearm within 10 years of a misdemeanor conviction of PC 25100, 25135, or 25200",,16,24,36,No,Yes
+29815,PC,Crime,Felony,Possession of ﬁrearm in violation of condition of probation,,16,24,36,No,Yes
+29820(b),PC,Crime,Felony,Possession of ﬁrearm by juvenile court ward before age of 30,,16,24,36,No,Yes
+29825(a),PC,Crime,Felony,Purchasing/receiving ﬁrearm when subject to domestic violence restraining or protective order,,16,24,36,No,Yes
+29900(a),PC,Crime,Felony,Possession of ﬁrearms by felon convicted of violent crime,,16,24,36,No,No
+29900(b) ,PC,Crime,Felony,Possession of ﬁrearm by felon convicted of violent crime when prior conviction results from prosecution as an adult under WI 707,,16,24,36,No,No
+30210,PC,Crime,Felony,"Possession or manufacture of, or offer to sell ﬂechette dart ammunition or bullet containing explosive agent",,16,24,36,Yes,Yes
+30305(a) ,PC,Crime,Felony,Possession of ammunition or reloaded ammunition by felon ormental patient,,16,24,36,No,Yes
+30315,PC,Crime,Felony,Possession of handgun ammunition designed to penetrate metal or armor ,,16,24,36,Yes,Yes
+30320,PC,Crime,Felony,"Manufacture, sale, or transportation of handgun ammunition designed to penetrate metal or armor",,16,24,36,No,Yes
+30600(a) ,PC,Crime,Felony,"Manufacture, distribution, sale, or transport of assault weapon or .50BMG riﬂe",,48,72,96,Yes,No
+30605,PC,Crime,Felony,Possession of assault weapon,,16,24,36,Yes,Yes
+30725(b) ,PC,Crime,Felony,Failure to relinquish or dispose of SKS riﬂe as required by PC 30720,,16,24,36,Yes,Yes
+31360,PC,Crime,Felony,Purchase or possession of body armor by felon convicted of violent crime ,,16,24,36,No,No
+31500,PC,Crime,Felony,"Possession or manufacture of, or offer to sell unconventional pistol",,16,24,36,Yes,Yes
+32310(a) ,PC,Crime,Felony,"Manufacture of, offer to sell, purchase, or receive large-capacitymagazine",,16,24,36,Yes,Yes
+32625(a),PC,Crime,Felony,Possession or transportation of machinegun,,16,24,36,Yes,Yes
+32625(b),PC,Crime,Felony,Conversion of ﬁrearm into machinegun,,48,72,96,Yes,No
+32625(b) ,PC,Crime,Felony,Manufacture or sale of machinegun,,48,72,96,Yes,No
+32900,PC,Crime,Felony,"Possession or manufacture of, or offer to sell multiburst trigger activator",,16,24,36,Yes,Yes
+33215,PC,Crime,Felony,"Possession or manufacture of, or offer to sell short-barreled rifle or short-barreled shotgun",,16,24,36,Yes,Yes
+33410,PC,Crime,Felony,Possession of silencer,,16,24,36,Yes,Yes
+33600,PC,Crime,Felony,"Possession or manufacture of, or offer to sell zip gun",,16,24,36,Yes,Yes
+580,BPC,Crime,Felony,Sale of medical degree,,16,24,36,Yes,Yes
+581,BPC,Crime,Felony,Fraudulent procurement or alteration of medical diploma,,16,24,36,Yes,Yes
+582,BPC,Crime,Felony,Fraudulent use of medical diploma,,16,24,36,Yes,Yes
+583,BPC,Crime,Felony,False statement by medical license applicant,,16,24,36,Yes,Yes
+584,BPC,Crime,Felony,Impersonation during medical license examination,,16,24,36,Yes,Yes
+650,BPC,Crime,Felony,Accepting consideration for referring patients to clinic or lab,,16,24,36,Yes,Yes
+650,BPC,Crime,Felony,Accepting consideration for referring patients to clinic or lab w/prior conviction,,16,24,36,Yes,No
+654.1,BPC,Crime,Felony,Prohibited referral of patient,,16,24,36,Yes,Yes
+654.1,BPC,Crime,Felony,Prohibited referral of patient w/prior conviction,,16,24,36,Yes,Yes
+655.5,BPC,Crime,Felony,Prohibited billing practices,,16,24,36,Yes,Yes
+655.5,BPC,Crime,Felony,Prohibited billing practices w/prior conviction,,16,24,36,Yes,No
+729,BPC,Crime,Felony,"Sexual exploitation by physician, psychotherapist, or alcohol and drug abuse counselor involving two or more victims",,16,24,36,Yes,Yes
+729,BPC,Crime,Felony,"Two or more acts of sexual exploitation by physician, psychotherapist, or alcohol and drug abuse counselor involving single victim w/prior conviction",,16,24,36,Yes,Yes
+729,BPC,Crime,Felony,"Sexual exploitation by physician, psychotherapist, or alcohol and drug abuse counselor involving two or more victims w/prior conviction",,16,24,36,Yes,No
+1282.3,BPC,Crime,Felony,"Improper collection, storage, or labeling of biological specimen w/willful or wanton disregard for safety",,16,24,36,Yes,Yes
+1282.3,BPC,Crime,Felony,"Improper collection, storage, or labeling of biological specimen w/willful or wanton disregard for safety w/prior conviction",,24,48,72,Yes,Yes
+1701,BPC,Crime,Felony,"Sale/alter dentist's diploma, etc. w/prior conviction",,16,24,36,Yes,No
+1701.1,BPC,Crime,Felony,Unlicensed practice of dentistry,,16,24,36,Yes,Yes
+1960,BPC,Crime,Felony,"Sale/alter dental hygiene diploma, etc. w/prior conviction",,16,24,36,Yes,No
+2052(a),BPC,Crime,Felony,Unauthorized practice of medicine,,16,24,36,Yes,Yes
+2052(b),BPC,Crime,Felony,Aiding or abetting another in the unauthorized practice of medicine,,16,24,36,Yes,Yes
+2273,BPC,Crime,Felony,"Employing runners, steerers, or others to procure patients w/prior conviction",,16,24,36,Yes,Yes
+2417.5,BPC,Crime,Felony,Fraudulent claims for outpatient elective cosmetic medical procedures—more than $950,,24,36,60,Yes,Yes
+4324(a),BPC,Crime,Felony,Forgery of prescription,,16,24,36,Yes,Yes
+4324(b),BPC,Crime,Felony,Possession of drugs secured by forged prescription,,16,24,36,Yes,Yes
+4336,BPC,Crime,Felony,"Use of minor as agent regarding pharmaceuticals by doctor/veterinarian,etc. ",,16,24,36,Yes,No
+5536.5,BPC,Crime,Felony,Unlicensed practice of architecture services during state of emergency,,16,24,36,Yes,Yes
+6126(b) ,BPC,Crime,Felony,Unauthorized practice of law by person disbarred or suspended from membership in state bar,,16,24,36,Yes,Yes
+6126(c) ,BPC,Crime,Felony,Failure of member of State Bar or one who has resigned or been disbarred to comply w/order of Supreme Court to comply w/Cal Rules of Ct 9.20 ,,16,24,36,Yes,Yes
+6152,BPC,Crime,Felony,Unlawful solicitation w/pc,,16,24,36,Yes,Yes
+6788,BPC,Crime,Felony,Unlicensed practice of engineering services during state of emergency,,16,24,36,Yes,Yes
+7027.3,BPC,Crime,Felony,Fraudulent use of contractor's license number ,,16,24,36,No,Yes
+7028.16,BPC,Crime,Felony,Repairing structures damaged by a natural disaster w/o a contractor's license ,,16,24,36,Yes,Yes
+7502.3,BPC,Crime,Felony,Falsifying ﬁngerprints and photographs required by this chapter(repossessors),,16,24,36,No,No
+7565,BPC,Crime,Felony,Falsifying ﬁngerprints and photographs required by this chapter(private investigators) ,,16,24,36,No,No
+7587.13,BPC,Crime,Felony,Falsifying ﬁngerprints and photographs required by this chapter(private security services),,16,24,36,No,No
+7592.6,BPC,Crime,Felony,Falsifying ﬁngerprints and photographs required by this chapter(alarm companies),,16,24,36,No,No
+7739,BPC,Crime,Felony,Violation of preneed funeral arrangements provisions,,16,24,36,Yes,Yes
+10238.6,BPC,Crime,Felony,False or misleading statements regarding property securities qualiﬁcation,,16,24,36,Yes,Yes
+11010,BPC,Crime,Felony,Failure to notify real estate commissioner re sale of property,,16,24,36,Yes,Yes
+11010.1,BPC,Crime,Felony,Failure to notify real estate commissioner of intent to issue notes secured by property,,16,24,36,Yes,Yes
+11013.1,BPC,Crime,Felony,Sale or lease of property subject to blanket encumbrance,,16,24,36,Yes,Yes
+11013.2,BPC,Crime,Felony,Sale or lease of property subject to blanket encumbrance,,16,24,36,Yes,Yes
+11013.4,BPC,Crime,Felony,Sale or lease of property not subject to blanket encumbrance,,16,24,36,Yes,Yes
+11018.2,BPC,Crime,Felony,Sale or lease of property w/o public report,,16,24,36,Yes,Yes
+11018.7,BPC,Crime,Felony,Failure to apply for consent from real estate commissioner to amend or modify property documents,,16,24,36,Yes,Yes
+11019,BPC,Crime,Felony,Failure to cease and desist activities when ordered re prop sales,,16,24,36,Yes,Yes
+11020,BPC,Crime,Felony,"Forge, alter, or counterfeit public report",,16,24,36,Yes,Yes
+11022,BPC,Crime,Felony,False or misleading real estate advertising,,16,24,36,Yes,Yes
+11286,BPC,Crime,Felony,"Issuing forged, altered, or false public report",,16,24,36,Yes,Yes
+11287,BPC,Crime,Felony,Violation of time-share project provisions,,16,24,36,Yes,Yes
+11320,BPC,Crime,Felony,Appraising real estate w/o license,,16,24,36,Yes,Yes
+14484(b)(1) ,BPC,Crime,Felony,"Selling, buying, renting, giving, taking or otherwise trafﬁcking in any supplies bearing a name, mark or device ﬁled and published under this article and value exceeding $950",,16,24,36,No,No
+14484(b)(2) ,BPC,Crime,Felony,"Obliterating, concealing, or removing from such supplies a name,mark or device ﬁled and published under this article and value exceeding $950",,16,24,36,No,No
+16755,BPC,Crime,Felony,Violation of restraint of trade provisions,,16,24,36,Yes,Yes
+17511.9,BPC,Crime,Felony,Fraudulent telephonic sales methods,,16,24,36,Yes,Yes
+17550.19(b)-(c),BPC,Crime,Felony,Violation of seller of travel law ,,16,24,36,Yes,Yes
+21653,BPC,Crime,Felony,Unauthorized resale of goods by secondhand dealer exceeding $950,,16,24,36,No,No
+22430(d) ,BPC,Crime,Felony,"Manufacture, sale, or transport of deceptive identiﬁcation document for fraudulent use ",,16,24,36,Yes,Yes
+22449(a) ,BPC,Crime,Felony,Immigration consulting by non-accredited consultant or attorney w/prior conviction,,16,24,36,No,No
+22449(b),BPC,Crime,Felony,Price gouging in connection w/immigration consulting services w/pc,,16,24,36,No,No
+25603,BPC,Crime,Felony,"Bring alcohol into prison/jail, etc. ",,16,24,36,No,Yes
+892,CIV. CODE,Crime,Felony,"Rent skimming, ﬁve or more acts",,16,24,36,Yes,Yes
+1695.8,CIV. CODE,Crime,Felony,Violations by equity purchasers ,,16,24,36,Yes,Yes
+1812.116(b)-(c),CIV. CODE,Crime,Felony,Violations by discount buying organization ,,16,24,36,Yes,Yes
+1812.217,CIV. CODE,Crime,Felony,Marketing plan sales fraud,,16,24,36,Yes,Yes
+2945.4,CIV. CODE,Crime,Felony,Unfair dealing by mortgage foreclosure consultant,,16,24,36,Yes,Yes
+2985.2,CIV. CODE,Crime,Felony,Encumbering unrecorded real estate contracts,,16,24,36,Yes,Yes
+2985.3,CIV. CODE,Crime,Felony,Appropriation by seller of buyer's payment when payment by seller on obligation secured by encumbrance on real property ,,16,24,36,Yes,Yes
+2255,CORP. CODE,Crime,Felony,Corporation agent falsifying/destroying records w/intent to defraud,,16,24,36,Yes,Yes
+2256,CORP. CODE,Crime,Felony,Falsifying evidence used in investigating corporation affairs,,16,24,36,Yes,Yes
+6811,CORP. CODE,Crime,Felony,Fraudulent distribution by director of public beneﬁt corporation,,16,24,36,Yes,Yes
+6812,CORP. CODE,Crime,Felony,Filing of false ﬁnancial reports by director or ofﬁcer of public beneﬁt corporation,,16,24,36,No,Yes
+6813,CORP. CODE,Crime,Felony,Fraudulent acquisition of corporate property by director or ofﬁcer of public beneﬁt corporation,,16,24,36,No,Yes
+6814,CORP. CODE,Crime,Felony,Deception of public ofﬁcer examining the organization of public beneﬁt corporation,,16,24,36,Yes,Yes
+8812,CORP. CODE,Crime,Felony,Fraudulent distribution by director of mutual beneﬁt corporation,,16,24,36,Yes,Yes
+8813,CORP. CODE,Crime,Felony,Filing of false ﬁnancial reports by director or ofﬁcer of mutual beneﬁt corporation,,16,24,36,No,Yes
+8814,CORP. CODE,Crime,Felony,Fraudulent acquisition of corporate property by director or ofﬁcer of mutual beneﬁt corporation,,16,24,36,No,Yes
+8815,CORP. CODE,Crime,Felony,Deception of public ofﬁcer examining the organization of mutual beneﬁt corporation,,16,24,36,Yes,Yes
+12672,CORP. CODE,Crime,Felony,Fraudulent distribution by director of consumer cooperative corporation,,16,24,36,Yes,Yes
+12673,CORP. CODE,Crime,Felony,Filing of false ﬁnancial reports by director or ofﬁcer of consumer cooperative corporation,,16,24,36,No,Yes
+12674,CORP. CODE,Crime,Felony,Fraudulent acquisition of corporate property by director or ofﬁcer of consumer cooperative corporation,,16,24,36,No,Yes
+12675,CORP. CODE,Crime,Felony,Deception of public ofﬁcer examining the organization of consumer cooperative corporation,,16,24,36,Yes,Yes
+14022(a) ,CORP. CODE,Crime,Felony,Unlawfully ask for or receive any commission or gratuity for personal use or beneﬁt or that of another person,,16,24,36,No,No
+14022(b),CORP. CODE,Crime,Felony,Unlawfully borrow or use corporate assets,,16,24,36,No,No
+14022(c) ,CORP. CODE,Crime,Felony,Unlawfully make or maintain a deposit of corporate funds w/another corporation,,16,24,36,No,No
+14023,CORP. CODE,Crime,Felony,Purchasing or receiving corporate asset w/o paying fair market value,,16,24,36,No,No
+22001,CORP. CODE,Crime,Felony,"Knowingly concurs in making, publishing, or posting a written document containing false or fraudulent statements",,16,24,36,No,No
+22002(a),CORP. CODE,Crime,Felony,Fraudulent acquisition of property of joint stock ass'n,,16,24,36,Yes,Yes
+22002(b),CORP. CODE,Crime,Felony,"Falsifying books, records or documents of joint stock ass'n",,16,24,36,Yes,Yes
+25110,CORP. CODE,Crime,Felony,Unlawful sale of securities ,,16,24,36,Yes,Yes
+25120,CORP. CODE,Crime,Felony,Unlawful sale of securities,,16,24,36,Yes,Yes
+25130,CORP. CODE,Crime,Felony,Unlawful sale of securities,,16,24,36,Yes,Yes
+25164,CORP. CODE,Crime,Felony,Representing that qualiﬁcation of document indicated verity,,16,24,36,Yes,Yes
+25166,CORP. CODE,Crime,Felony,Making false statements to commissioner,,16,24,36,Yes,Yes
+25210,CORP. CODE,Crime,Felony,Transacting securities w/o certiﬁcate,,16,24,36,Yes,Yes
+25214(a),CORP. CODE,Crime,Felony,Employing suspended securities agent,,16,24,36,Yes,Yes
+25216,CORP. CODE,Crime,Felony,Sale of security by fraudulent scheme by broker/dealer,,16,24,36,Yes,Yes
+25218,CORP. CODE,Crime,Felony,Violation of equity rules by broker/dealer,,16,24,36,Yes,Yes
+25230,CORP. CODE,Crime,Felony,Practicing by uncertiﬁed investment advisor,,16,24,36,Yes,Yes
+25232.2,CORP. CODE,Crime,Felony,Employing suspended/disqualiﬁed investment advisor,,16,24,36,Yes,Yes
+25234(a),CORP. CODE,Crime,Felony,Entering illegal investment advisory contract,,16,24,36,Yes,Yes
+25235,CORP. CODE,Crime,Felony,Defrauding client by investment advisor,,16,24,36,Yes,Yes
+25243,CORP. CODE,Crime,Felony,Misrepresenting certiﬁcation as approval by commissioner,,16,24,36,Yes,Yes
+25245,CORP. CODE,Crime,Felony,Misrepresenting facts on report/application to commissioner,,16,24,36,Yes,Yes
+25246,CORP. CODE,Crime,Felony,Requiring spouse's consent to transaction,,16,24,36,Yes,Yes
+25300(a),CORP. CODE,Crime,Felony,Advertising sale of security w/o ﬁling,,16,24,36,Yes,Yes
+25400,CORP. CODE,Crime,Felony,Churning,,24,36,60,Yes,Yes
+25401,CORP. CODE,Crime,Felony,Sale or offer to sell security by misrepresentation,,24,36,60,Yes,Yes
+25402,CORP. CODE,Crime,Felony,Insider trading,,24,36,60,Yes,Yes
+25404,CORP. CODE,Crime,Felony,"Altering, concealing, or falsifying entry in record w/intent to impede, obstruct, or inﬂuence enforcement of corporate securities law",,16,24,36,Yes,Yes
+25540(a),CORP. CODE,Crime,Felony,General violation of corporate securities law,,16,24,36,Yes,Yes
+25540(b),CORP. CODE,Crime,Felony,"Violation of Corp Code 25400, 25401, 25402, or related provisions",,24,36,60,Yes,Yes
+25541,CORP. CODE,Crime,Felony,Securities fraud,,24,36,60,Yes,Yes
+27101,CORP. CODE,Crime,Felony,General violation of Security Owners Protection Law,,24,36,48,Yes,No
+28880,CORP. CODE,Crime,Felony,Willful violation of Capital Access Company Law,,16,24,36,Yes,Yes
+29100,CORP. CODE,Crime,Felony,Making bucketing contract or keeping bucketing shop,,16,24,36,Yes,Yes
+29101,CORP. CODE,Crime,Felony,Use of price quotations in bucketing,,16,24,36,Yes,Yes
+29550(a),CORP. CODE,Crime,Felony,General violation of California commodity law,,16,24,36,Yes,Yes
+29550(b),CORP. CODE,Crime,Felony,Fraud in violation of Corp Code 29536,,24,36,48,Yes,Yes
+31110,CORP. CODE,Crime,Felony,Unlawful offering of franchise for sale,,16,24,36,Yes,Yes
+31200,CORP. CODE,Crime,Felony,Filing false report w/Franchise Commissioner,,16,24,36,Yes,Yes
+31201,CORP. CODE,Crime,Felony,Misrepresenting facts in offering to sell franchise,,16,24,36,Yes,Yes
+31202,CORP. CODE,Crime,Felony,Making false statement to obtain franchise exemption,,16,24,36,Yes,Yes
+31203,CORP. CODE,Crime,Felony,Violating commissioner's order on sale of franchise,,16,24,36,Yes,Yes
+31204(a) ,CORP. CODE,Crime,Felony,"Altering, mutilating, concealing, or entry in record to impede or inﬂuence the administration or enforcement of franchise laws",,16,24,36,Yes,Yes
+31204(b) ,CORP. CODE,Crime,Felony,"Making false statement in course of licensing, investigation, or examination to impede or inﬂuence the administration or enforcement of franchise laws",,16,24,36,Yes,Yes
+31210,CORP. CODE,Crime,Felony,Sale of franchise by unlicensed person,,16,24,36,Yes,Yes
+31410,CORP. CODE,Crime,Felony,General violation of franchise investment law ,,16,24,36,Yes,Yes
+31411,CORP. CODE,Crime,Felony,Franchise fraud ,,16,24,36,Yes,Yes
+7054,ED. CODE,Crime,Felony,Use of school district property for unlawful political activity,,16,24,36,Yes,No
+17312,ED. CODE,Crime,Felony,Violation of or fraudulent statements in report required by school buildings approval laws,,16,24,36,No,No
+81144,ED. CODE,Crime,Felony,Violation of or fraudulent statements in report required by school sites approval laws,,16,24,36,No,No
+18100(a),ELEC. CODE,Crime,Felony,Allowing unqualiﬁed voter to register,,16,24,36,Yes,Yes
+18100(b),ELEC. CODE,Crime,Felony,Registering nonexistent person to vote,,16,24,36,Yes,Yes
+18101,ELEC. CODE,Crime,Felony,Knowingly completing registration form for ﬁctitious person,,16,24,36,Yes,Yes
+18102,ELEC. CODE,Crime,Felony,Knowingly accepting registration of ineligible person,,16,24,36,Yes,Yes
+18106,ELEC. CODE,Crime,Felony,Defacing party afﬁliation declaration on afﬁdavit of registration,,16,24,36,Yes,Yes
+18110,ELEC. CODE,Crime,Felony,Disclosure of home address of peace ofﬁcer or family member contained in conﬁdential voter registration card resulting in bodily injury to these persons,,16,24,36,No,No
+18200,ELEC. CODE,Crime,Felony,Signing false name to nomination petition,,16,24,36,Yes,No
+18201,ELEC. CODE,Crime,Felony,"False making, destruction, or defacement of nomination papers",,16,24,36,Yes,Yes
+18203,ELEC. CODE,Crime,Felony,Knowingly ﬁling false nomination papers,,16,24,36,Yes,Yes
+18204,ELEC. CODE,Crime,Felony,Willful suppression of nomination papers or declaration of candidacy,,16,24,36,Yes,Yes
+18205,ELEC. CODE,Crime,Felony,Bribe to induce person to withdraw/not to become candidate,,16,24,36,Yes,No
+18310,ELEC. CODE,Crime,Felony,Consideration to vote in certain way at political party caucus,,16,24,36,Yes,No
+18311,ELEC. CODE,Crime,Felony,Giving or receiving bribes,,16,24,36,Yes,No
+18400,ELEC. CODE,Crime,Felony,"Use, furnishing imitation ballot paper or ballot card",,16,24,36,Yes,Yes
+18403,ELEC. CODE,Crime,Felony,"Person other than election ofﬁcial to receive, examine, or solicit voter to show voted ballot",,16,24,36,Yes,Yes
+18500,ELEC. CODE,Crime,Felony,Abetting voting fraud,,16,24,36,No,No
+18501,ELEC. CODE,Crime,Felony,Public ofﬁcial aiding illegal casting of votes,,16,24,36,No,No
+18502,ELEC. CODE,Crime,Felony,Interference w/ofﬁcers or votes,,16,24,36,Yes,No
+18520,ELEC. CODE,Crime,Felony,Offer or promise of ofﬁce to induce voting or refrain from voting,,16,24,36,Yes,No
+18521,ELEC. CODE,Crime,Felony,Gift/consideration to induce person to vote/refrain from voting,,16,24,36,Yes,No
+18522,ELEC. CODE,Crime,Felony,Pay/offer/lend/contribute to induce voter to vote/refrain from voting,,16,24,36,Yes,No
+18523,ELEC. CODE,Crime,Felony,Election bribery,,16,24,36,Yes,No
+18524,ELEC. CODE,Crime,Felony,Boarding person w/intent to induce vote,,16,24,36,Yes,No
+18540,ELEC. CODE,Crime,Felony,Inﬂuencing voting by use of force,,16,24,36,Yes,No
+18541,ELEC. CODE,Crime,Felony,"Soliciting votes or discussing voter qualiﬁcations in proximity of polling place, or photographing or videotaping voter entering or exiting polling place",,16,24,36,No,Yes
+18543(a),ELEC. CODE,Crime,Felony,Challenging person's right to vote w/o probable cause or on fraudulent grounds,,16,24,36,No,Yes
+18543(b),ELEC. CODE,Crime,Felony,Conspiring to violate EC 18543(a),,16,24,36,No,No
+18544,ELEC. CODE,Crime,Felony,Possessing ﬁrearm or uniformed police or security guards stationed near polling place,,16,24,36,Yes,Yes
+18545,ELEC. CODE,Crime,Felony,Hiring or arranging for another person in possession of ﬁrearm or uniformed police or security guards stationed near polling place,,16,24,36,Yes,Yes
+18560,ELEC. CODE,Crime,Felony,Fraudulent voting,,16,24,36,Yes,Yes
+18561,ELEC. CODE,Crime,Felony,"Procuring, advising vote of unqualiﬁed person",,16,24,36,Yes,No
+18564,ELEC. CODE,Crime,Felony,Tampering w/voting machines,,24,36,48,Yes,No
+18565,ELEC. CODE,Crime,Felony,Aiding or abetting violation of EC 18564,,16,24,36,No,Yes
+18566,ELEC. CODE,Crime,Felony,"Forging, counterfeiting election returns",,24,36,48,Yes,No
+18567,ELEC. CODE,Crime,Felony,Altering returns,,16,24,36,Yes,No
+18568,ELEC. CODE,Crime,Felony,Offenses at the polls,,16,24,36,Yes,Yes
+18569,ELEC. CODE,Crime,Felony,"Aiding, abetting violation of EC 18566, 18567, or 18568",,16,24,36,No,Yes
+18573,ELEC. CODE,Crime,Felony,Deceiving voter,,16,24,36,Yes,No
+18575,ELEC. CODE,Crime,Felony,Unlawfully acting as election ofﬁcer,,24,36,48,Yes,No
+18578,ELEC. CODE,Crime,Felony,Fraudulent absentee voting,,16,24,36,Yes,No
+18611,ELEC. CODE,Crime,Felony,Circulating petition w/false/forged/ﬁctitious names,,16,24,36,Yes,Yes
+18613,ELEC. CODE,Crime,Felony,Signing name of another,,24,36,48,Yes,No
+18614,ELEC. CODE,Crime,Felony,Filing petition w/false signatures,,16,24,36,Yes,Yes
+18620,ELEC. CODE,Crime,Felony,Soliciting or obtaining money to induce abandonment of petition,,16,24,36,Yes,Yes
+18621,ELEC. CODE,Crime,Felony,Receiving consideration for abandoning petition,,16,24,36,Yes,Yes
+18640,ELEC. CODE,Crime,Felony,Failure to surrender petitions,,16,24,36,Yes,Yes
+18660(a),ELEC. CODE,Crime,Felony,False afﬁdavits concerning recall petitions,,16,24,36,Yes,Yes
+18661,ELEC. CODE,Crime,Felony,False afﬁdavits concerning recall petitions by public ofﬁcial,,16,24,36,Yes,Yes
+18680,ELEC. CODE,Crime,Felony,Misappropriate money to be used to promote/dispute election process ,,16,24,36,Yes,Yes
+357,FIN. CODE,Crime,Felony,Examiner's failure to report insolvency or unsafe condition of bank,,16,24,36,No,No
+460,FIN. CODE,Crime,Felony,Making false statements in report required under Art. 6 (State Banking Account),,24,36,48,No,No
+1323,FIN. CODE,Crime,Felony,Bribery of bank ofﬁcer or employee,,16,24,36,No,No
+1324,FIN. CODE,Crime,Felony,Misappropriation of bank asserts,,16,24,36,No,No
+1325,FIN. CODE,Crime,Felony,False statements or omission of required entries by bank ofﬁcer or employee,,16,24,36,No,No
+1332,FIN. CODE,Crime,Felony,Misapplication of bank assets,,16,24,36,No,No
+1336,FIN. CODE,Crime,Felony,Deposit of bank funds on condition of loan or advance,,16,24,36,No,No
+1339,FIN. CODE,Crime,Felony,False entries or concealment of records by bank ofﬁcer or employee,,16,24,36,No,No
+1367,FIN. CODE,Crime,Felony,Making or procuring unlawful extension of credit,,16,24,36,No,No
+1456,FIN. CODE,Crime,Felony,Unlawful certiﬁcation of check,,16,24,36,No,No
+1611,FIN. CODE,Crime,Felony,Mingling trust funds held by bank w/corporate assets,,16,24,36,No,No
+1861,FIN. CODE,Crime,Felony,Price ﬁxing of commodities,,16,24,36,Yes,Yes
+1880,FIN. CODE,Crime,Felony,Corporate embezzlement,,24,36,48,No,No
+1881,FIN. CODE,Crime,Felony,Misrepresenting state liability for bonds,,16,24,36,Yes,No
+2152(a) ,FIN. CODE,Crime,Felony,"False statement, misrepresentation, or false certiﬁcation in ﬁnancial record",,16,24,36,No,No
+2152(b),FIN. CODE,Crime,Felony,Engaging in ﬁnancial transactions w/o license,,16,24,36,No,No
+5300,FIN. CODE,Crime,Felony,General violation of savings & loan ass'n laws,,16,24,36,Yes,Yes
+5302(b),FIN. CODE,Crime,Felony,Violation of commissioner's order under Fin Code 8201,,24,36,48,Yes,Yes
+5303,FIN. CODE,Crime,Felony,Making false entry or omitting or changing entry in savings ass'n records w/intent to deceive,,24,36,48,Yes,Yes
+5304,FIN. CODE,Crime,Felony,"Bribery or extortion exceeding $1,000 in connection w/savings ass'n",,24,36,48,Yes,Yes
+5304,FIN. CODE,Crime,Felony,"Bribery or extortion not exceeding $1,000 in connection w/savings ass'n",,16,24,36,Yes,Yes
+5305,FIN. CODE,Crime,Felony,Misapplication of savings ass'n assets exceeding $250,,16,24,36,Yes,Yes
+5305,FIN. CODE,Crime,Felony,Misapplication of savings ass'n assets not exceeding $250,,16,24,36,Yes,Yes
+5306,FIN. CODE,Crime,Felony,Executing scheme to defraud savings ass'n,,24,36,48,No,Yes
+5307,FIN. CODE,Crime,Felony,Harming savings ass'n ﬁnancial standing by false statement or rumor,,16,24,36,Yes,Yes
+5308,FIN. CODE,Crime,Felony,False overvaluation of collateral to inﬂuence savings ass'n transaction,,16,24,36,No,Yes
+6525.5(a) ,FIN. CODE,Crime,Felony,Participation in the affairs of a savings ass'n by person who has been convicted of any criminal offense involving dishonesty or breach of trust,,24,36,48,Yes,Yes
+6525.5(b) ,FIN. CODE,Crime,Felony,Savings ass'n allowing person who has been convicted of any criminal offense involving dishonesty or breach of trust to participate in the affairs of the savings ass'n,,24,36,48,Yes,Yes
+10004,FIN. CODE,Crime,Felony,"Unlawful selling, disposing, taking, or soliciting of foreign savings accounts ",,16,24,36,Yes,Yes
+12102,FIN. CODE,Crime,Felony,Willful violation of provisions regarding check sellers and proraters ,,16,24,36,Yes,Yes
+14752,FIN. CODE,Crime,Felony,Willful violation of provisions regarding credit unions,,16,24,36,Yes,Yes
+17700,FIN. CODE,Crime,Felony,Willful violation of provisions regarding escrow agents,,16,24,36,Yes,Yes
+18349.5,FIN. CODE,Crime,Felony,Unlawful dealings w/industrial loan companies,,16,24,36,Yes,Yes
+18435,FIN. CODE,Crime,Felony,Violation of provisions regarding industrial loan companies,,16,24,36,Yes,Yes
+22753,FIN. CODE,Crime,Felony,Willful violation of California Finance Lenders Law,,16,24,36,Yes,Yes
+22780,FIN. CODE,Crime,Felony,Willful violation of California Finance Lenders Law ,,16,24,36,Yes,Yes
+31880,FIN. CODE,Crime,Felony,Violation of business and industrial development corporation law,,16,24,36,Yes,Yes
+50500,FIN. CODE,Crime,Felony,Willful violation of Residential Mortgage Lending Act ,,16,24,36,Yes,Yes
+3009,F&G,Crime,Felony,Failure to render aid after shooting person while hunting,,16,24,36,No,No
+4758,F&G,Crime,Felony,"Selling, possessing for sale, or purchasing of bear meat or other parts",,16,24,36,Yes,Yes
+12001,F&G,Crime,Felony,Hunting w/revoked/suspended license,,16,24,36,No,No
+12004(b),F&G,Crime,Felony,"Illegal hunting, possession, or sale of specified fish w/prior conviction",,16,24,36,Yes,Yes
+12005,F&G,Crime,Felony,Sale of bear meat or other parts,,16,24,36,Yes,Yes
+6306,F&A,Crime,Felony,"Importing into the state, or transporting or shipping within the state, a Mediterranean fruit ﬂy",,16,24,36,No,No
+10786,F&A,Crime,Felony,Willful violation of provisions regarding swine disease control,,16,24,36,No,Yes
+12996,F&A,Crime,Felony,Willful violation of provisions regarding pesticides creating hazard to health or environment ,,16,24,36,No,Yes
+17551,F&A,Crime,Felony,Alter brand of animal with intent to steal ,,16,24,36,Yes,Yes
+18841,F&A,Crime,Felony,Slaughter livestock/poultry w/o compliance w/inspection act w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18842,F&A,Crime,Felony,Sale or transport meat w/o inspection w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18843,F&A,Crime,Felony,Alteration/misbrand meat/poultry w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18844,F&A,Crime,Felony,Sale or transport uncleaned slaughtered poultry w/ intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18845,F&A,Crime,Felony,Violate director of agriculture's regulations w/intent to  defraud or w/prior conviction,,16,24,36,Yes,Yes
+18846,F&A,Crime,Felony,Counterfeit ofﬁcial mark/certiﬁcate under meat/poultry act w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18847,F&A,Crime,Felony,Forge ofﬁcial marks/acts under meat/poultry inspection act w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18848,F&A,Crime,Felony,Sell prepared meat/poultry w/o inspection stamp w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18849,F&A,Crime,Felony,Sell/transport improperly labeled carcass w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18850,F&A,Crime,Felony,Sell/transport livestock product not marked not human food w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18851,F&A,Crime,Felony,Sale of dead/diseased animals w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18852,F&A,Crime,Felony,Bribery of state meat/poultry inspectors w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18853,F&A,Crime,Felony,State meat/poultry inspector receiving bribe w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18854,F&A,Crime,Felony,Interfere w/inspector performing duty w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18855,F&A,Crime,Felony,Disobey subpoena/lawful order of director of agriculture w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18856,F&A,Crime,Felony,False statements/reports under meat/poultry inspection law w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18857,F&A,Crime,Felony,Tardy ﬁle of meat/poultry report under inspection law w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+18932,F&A,Crime,Felony,"Violation of Meat and Poultry Inspection Act w/intent to defraud or mislead, or w/prior conviction",,16,24,36,Yes,Yes
+18933,F&A,Crime,Felony,Adulteration of meat/poultry intended as human food,,16,24,36,Yes,Yes
+19440,F&A,Crime,Felony,Violation of provisions regarding horsemeat/pet foods w/intent to defraud or w/prior conviction,,16,24,36,Yes,Yes
+19441,F&A,Crime,Felony,Adulteration of human food w/horsemeat or other pet foods,,16,24,36,Yes,Yes
+35283(a) ,F&A,Crime,Felony,Processing w/o pasteurization any milk or milk product requiring pasteurization,,6,ID,12,No,Yes
+35283(b) ,F&A,Crime,Felony,Manufacturing or processing for resale of any milk or milk product in an unlicensed milk products plant,,6,ID,12,No,Yes
+35283(c) ,F&A,Crime,Felony,Providing milk or milk products to any unlicensed person for the manufacturing or processing for resale of any milk or milk product,,6,ID,12,No,Yes
+35283(d),F&A,Crime,Felony,Falsifying records required of Milk and Milk Products Act,,6,ID,12,No,Yes
+80174,F&A,Crime,Felony,Willful violation of provisions regarding desert native plants w/prior conviction,,16,24,36,Yes,Yes
+1026,GOV. CODE,Crime,Felony,Public employee working as ineligible in regard to oath,,16,24,36,No,No
+1090(a) ,GOV. CODE,Crime,Felony,Public ofﬁcers or employees entering contract in which there is ﬁnancial interest,,16,24,36,No,Yes
+1090(b),GOV. CODE,Crime,Felony,Aiding or abetting a violation of Gov. Code 1090(a),,16,24,36,No,Yes
+1090.1,GOV. CODE,Crime,Felony,State employee or legislator accepting commission for placement of insurance on behalf of state,,16,24,36,No,Yes
+1091(d),GOV. CODE,Crime,Felony,Willful failure of public ofﬁcer to disclose one's interest in a contract,,16,24,36,No,Yes
+1093(a) ,GOV. CODE,Crime,Felony,"Public ofﬁcer's purchase, sale, or receipt of state or local warrants or other evidences of indebtedness for personal use or beneﬁt",,16,24,36,No,Yes
+1094,GOV. CODE,Crime,Felony,Falsely subscribing an afﬁdavit or certiﬁcate under penalty of perjury related to the account of a government ofﬁcial (perjury offense),,24,36,48,Yes,No
+1097(a),GOV. CODE,Crime,Felony,Public ofﬁcer conﬂict of interest in public contracts,,16,24,36,No,Yes
+1097(b),GOV. CODE,Crime,Felony,Aiding or abetting a violation of Gov. Code 1097(a),,16,24,36,No,Yes
+1195,GOV. CODE,Crime,Felony,Diversion by state ofﬁcer of salary of another state ofﬁcer for own use,,16,24,36,No,No
+1368,GOV. CODE,Crime,Felony,Perjury by public ofﬁcer,,24,24,36,Yes,No
+1369,GOV. CODE,Crime,Felony,Public ofﬁcer advocating forcible overthrow of government,,16,24,36,Yes,No
+1855,GOV. CODE,Crime,Felony,Ofﬁcer destroying/retaining records after termination of duties,,16,24,36,No,No
+3108,GOV. CODE,Crime,Felony,Perjury by public ofﬁcer,,24,24,36,Yes,No
+3109,GOV. CODE,Crime,Felony,Public employee advocating forcible overthrow of government,,16,24,36,Yes,No
+5503,GOV. CODE,Crime,Felony,Fraudulent use of facsimile signature or seal on a public security or payment instrument,,16,24,36,No,No
+5951,GOV. CODE,Crime,Felony,"Offer or sale of security that constitutes a fractional interest in lease, installment sale, or other obligation w/o agency consent",,NA,60,NA,Yes,Yes
+6200,GOV. CODE,Crime,Felony,Destroying/altering record by custodian of records,,24,36,48,Yes,No
+6201,GOV. CODE,Crime,Felony,Theft/destruction/falsify records by person other than custodian,,16,24,36,Yes,Yes
+6254.21,GOV. CODE,Crime,Felony,Posting home address or telephone number of elected or appointed ofﬁcial and ofﬁcial's family on the internet w/intent to inﬂict GBI and resulting in bodily injury,,16,24,36,No,Yes
+8214.2,GOV. CODE,Crime,Felony,Notarizing deed of single family residence knowing deed is false ,,16,24,36,No,No
+8227.3,GOV. CODE,Crime,Felony,False representation as notary on transaction for single family residence ,,16,24,36,No,No
+8670.64,GOV. CODE,Crime,Felony,Causing or failing to report oil spill in marine waters w/prior conviction,,16,24,36,Yes,Yes
+8920(a) ,GOV. CODE,Crime,Felony,Conspiracy w/state elective or appointive ofﬁcer or judge to engage in an activity which is in substantial conﬂict w/proper discharge of duties,,16,24,36,No,No
+8920(b) ,GOV. CODE,Crime,Felony,"Conspiracy w/state legislator regarding employment, disclosure or use of insider information, and other conﬂicts of interest violations",,16,24,36,No,No
+8924,GOV. CODE,Crime,Felony,Conspiracy w/employee of the state legislature to violate code of ethics,,16,24,36,No,No
+8925,GOV. CODE,Crime,Felony,Conspiracy to induce or seek to induce a state legislator to violate code of ethics,,16,24,36,No,No
+9050,GOV. CODE,Crime,Felony,Preventing legislature from meeting,,16,24,36,No,No
+9052,GOV. CODE,Crime,Felony,Fraudulent alteration of bill,,16,24,36,No,No
+9053,GOV. CODE,Crime,Felony,Fraudulent alteration of enrolled copy of bill,,16,24,36,No,No
+9054,GOV. CODE,Crime,Felony,Soliciting consideration for inﬂuencing legislator,,16,24,36,No,No
+9056,GOV. CODE,Crime,Felony,Solicit/accept pay for introducing legislation,,16,24,36,Yes,Yes
+9130.5,GOV. CODE,Crime,Felony,Making knowingly false claim on State Contingent Fund (perjury offense),,24,36,48,Yes,No
+27443,GOV. CODE,Crime,Felony,"Public administrator/guardian, etc., conﬂict of interest",,16,24,36,Yes,Yes
+51018.7(a) ,GOV. CODE,Crime,Felony,Willful violation of provisions regarding Pipeline Safety Act ,,16,24,36,Yes,Yes
+81004,GOV. CODE,Crime,Felony,Sign and verify any report or statement required to be ﬁled under political reform and which contains material matter which he/she knows to be false(perjury offense),,24,36,48,Yes,No
+91002,GOV. CODE,Crime,Felony,Acting as candidate or lobbyist after conviction of violating PoliticalReform Act,,16,24,36,No,No
+264,H&N,Crime,Felony,Causing boiler to burst due to malfeasance,,16,24,36,Yes,No
+302,H&N,Crime,Felony,Sinking/setting adrift vessel of 10 tons or more,,16,24,36,Yes,No
+304,H&N,Crime,Felony,Ship's commander sinking or injuring vessel or cargo,,24,36,48,Yes,No
+305,H&N,Crime,Felony,Sinking or injuring vessel or cargo,,16,24,36,Yes,No
+306,H&N,Crime,Felony,"Fraudulent preparation of manifest, etc.",,16,24,36,Yes,No
+655(f),H&N,Crime,Felony,"Fraudulent preparation of manifest, etc.",,16,24,36,Yes,No
+656.2,H&N,Crime,Felony,Vessel hit and run involving injury,,16,24,36,Yes,No
+656.3,H&N,Crime,Felony,Vessel hit and run death or disappearance of person,,16,24,36,Yes,No
+443.17(a) ,H&S,Crime,Felony,Altering or forging request for an aid-in-dying drug; concealing or destroying a withdrawal or rescission of such request,,16,24,36,No,No
+443.17(b) ,H&S,Crime,Felony,Coercing or exerting undue inﬂuence on individual to request or ingest an aid-in-dying drug; administering aid-in-dying drug w/o consent,,16,24,36,No,No
+1390,H&S,Crime,Felony,Willful violation of health care services provisions,,16,24,36,Yes,Yes
+7051,H&S,Crime,Felony,Unlawful removal of human remains for sale or to dissect,,16,24,36,Yes,No
+7051.5,H&S,Crime,Felony,"Unlawful removal or possession of dental gold or silver, or jewelry from human remains",,16,24,36,Yes,No
+7052,H&S,Crime,Felony,"Unauthorized removal, mutilation, or sexual penetration of human remains",,16,24,36,No,No
+8113.5,H&S,Crime,Felony,Unauthorized interment of more than one body in single plot or occupied grave w/prior conviction within 1 year,,16,24,36,Yes,Yes
+8113.5,H&S,Crime,Felony,Unauthorized interment of more than one body in single plot or occupied grave w/2 prior convictions ,,16,24,36,Yes,No
+8785,H&S,Crime,Felony,"Violations re/collection, investment, or use of endowment care funds",,16,24,36,Yes,Yes
+11100,H&S,Crime,Felony,Transferring CS w/out reporting or ﬁling false report w/prior conviction,,16,24,36,Yes,Yes
+11100.1,H&S,Crime,Felony,Failing to report receipt of CS w/prior conviction,,16,24,36,Yes,Yes
+11104(a),H&S,Crime,Felony,Transfer of substance w/knowledge of intent to manufacture CS,,16,24,36,No,No
+11105,H&S,Crime,Felony,Knowingly making false statement on report of drug activity,,16,24,36,Yes,Yes
+11105,H&S,Crime,Felony,Knowingly making false statement on report of drug activity w/prior conviction,,24,36,48,Yes,Yes
+11106,H&S,Crime,Felony,Transferring CS w/o permit,,16,24,36,No,Yes
+11153,H&S,Crime,Felony,Issuing prescription to addict/habitual user of CS,,16,24,36,Yes,Yes
+11153.5,H&S,Crime,Felony,Wholesaler knowingly furnishing CS not for medical purposes,,16,24,36,Yes,Yes
+11162.5,H&S,Crime,Felony,Counterfeiting ofﬁcial prescription blank,,16,24,36,Yes,Yes
+11162.5,H&S,Crime,Felony,Possession of four or more counterfeit prescription blanks,,16,24,36,Yes,Yes
+11350(a),H&S,Crime,Felony,"Possession of CS w/prior conviction for speciﬁed violent, serious, or sex crimes",,16,24,36,Yes,No
+11350.5,H&S,Crime,Felony,Possession of gamma hydroxybutyric acid (GHB) w/intent to commit sexual assault,,16,24,36,Yes,No
+11351,H&S,Crime,Felony,Possession of CS for sale ,,24,24,36,Yes,No
+11351.5,H&S,Crime,Felony,Possession for sale of cocaine base,,24,24,36,Yes,No
+11352(a),H&S,Crime,Felony,Sale or transportation for sale of CS,,36,48,60,Yes,No
+11352(b),H&S,Crime,Felony,Transportation for sale of CS between noncontiguous counties,,36,72,108,Yes,No
+11353,H&S,Crime,Felony,Adult inducing minor's involvement w/CS,,36,72,108,No,No
+11353.5,H&S,Crime,Felony,"Sale by adult to minor of CS at school, public playground, church, synagogue, or child day carecenter ",,60,84,108,Yes,No
+11353.7,H&S,Crime,Felony,Sale by adult to minor of CS in public park,,36,72,108,No,No
+11354,H&S,Crime,Felony,Minor inducing minor's involvement w/CS,,16,24,36,No,No
+11355,H&S,Crime,Felony,Selling/furnishing substance falsely represented to be CS,,16,24,36,Yes,Yes
+11358(d),H&S,Crime,Felony,Cultivating/harvesting/processing cannabis w/designated prior conviction,,16,24,36,Yes,Yes
+11359(c),H&S,Crime,Felony,Possession of cannabis for sale w/designated prior conviction,,16,24,36,Yes,Yes
+11359(d) ,H&S,Crime,Felony,Adult over 21 years of age who possesses cannabis for sale and involves person 20 years of age or younger,,16,24,36,Yes,Yes
+11360(a),H&S,Crime,Felony,Sale or transportation of cannabis w/designated prior conviction,,24,36,48,Yes,Yes
+11361(a),H&S,Crime,Felony,Adult involving minor under 14 years of age w/cannabis,,36,60,84,No,No
+11361(b),H&S,Crime,Felony,Adult involving minor 14 years of age or older w/cannabis,,36,48,60,No,No
+11362.3(a)(6),H&S,Crime,Felony,Unlicensed manufacture of concentrated cannabis using a volatile solvent,,36,60,84,Yes,No
+11363,H&S,Crime,Felony,Cultivating/harvesting/processing peyote,,16,24,36,No,Yes
+11364.7(b),H&S,Crime,Felony,Manufacturing drug paraphernalia,,16,24,36,No,Yes
+11366,H&S,Crime,Felony,Maintaining place for selling/using CS,,16,24,36,No,Yes
+11366.5(a),H&S,Crime,Felony,"Managing place for manufacture, storage, or distribution of CS",,16,24,36,Yes,Yes
+11366.5(a),H&S,Crime,Felony,"Managing place for manufacture, storage, or distribution of CS w/prior conviction",,24,36,48,Yes,No
+11366.5(b),H&S,Crime,Felony,Managing place for CS and knowingly allowing it to be fortiﬁed against police,,24,36,48,Yes,No
+11366.6,H&S,Crime,Felony,Use of fortiﬁed place to sell or manufacture CS,,36,48,60,Yes,No
+11366.7,H&S,Crime,Felony,"Sale of chemical, drug, or lab equip for unlawful use",,16,24,36,No,Yes
+11366.8(a),H&S,Crime,Felony,"Possession, use, or control of false compartment to store, smuggle, or transport CS",,16,24,36,Yes,Yes
+11366.8(b),H&S,Crime,Felony,"Construction or installation of false compartment to store, smuggle, or transport CS",,16,24,36,Yes,No
+11368,H&S,Crime,Felony,Forgery/alter prescription of any narcotic drug,,16,24,36,No,Yes
+11370.1,H&S,Crime,Felony,Possession of CS while in possession of loaded ﬁrearm,,24,36,48,No,No
+11370.6,H&S,Crime,Felony,"Possession of funds over $100,000 for purchase of CS",,24,36,48,Yes,Yes
+11370.9,H&S,Crime,Felony,"Receive, transfer, invest, or manage funds over $25,000 derived from CS offenses",,24,36,48,No,Yes
+11371,H&S,Crime,Felony,Violate/solicit minor to violate CS prescription laws,,16,24,36,Yes,Yes
+11371.1,H&S,Crime,Felony,Violate/induce minor to violate CS laws,,16,24,36,Yes,Yes
+11374.5,H&S,Crime,Felony,Unlawful disposal of hazardous substance used in manufacturing CS,,24,36,48,Yes,Yes
+11375(b)(1) ,H&S,Crime,Felony,Possession for sale of designated CS ,,16,24,36,No,Yes
+11377(a),H&S,Crime,Felony,"Possession of non-narcotic CS w/prior conviction for speciﬁed violent, serious, or sex crimes",,16,24,36,Yes,Yes
+11377.5,H&S,Crime,Felony,"Possession of gama hydroxybutyric acid (GHB), ketamine, or ﬂunitrazepam w/intent to commit sexual assault",,16,24,36,Yes,No
+11378,H&S,Crime,Felony,Possession of non-narcotic CS for sale ,,16,24,36,Yes,No
+11378.5,H&S,Crime,Felony,Possession of PCP for sale ,,36,48,60,Yes,No
+11379(a),H&S,Crime,Felony,Sale or transportation for sale of non-narcotic CS,,24,36,48,Yes,No
+11379(b),H&S,Crime,Felony,Transportation for sale of non-narcotic CS between noncontiguous counties,,36,72,108,Yes,No
+11379.2,H&S,Crime,Felony,Sale or possession for sale of CS speciﬁed in H&S 11056(g) (ketamine),,16,24,36,No,Yes
+11379.5(a),H&S,Crime,Felony,Sale or transportation of PCP,,36,48,60,Yes,No
+11379.5(b),H&S,Crime,Felony,Transportation for sale of PCP between noncontiguous counties,,36,72,108,Yes,No
+11379.6(a),H&S,Crime,Felony,Manufacturing CS,,36,60,84,Yes,No
+11379.6(e),H&S,Crime,Felony,Offering to manufacture CS,,36,48,60,Yes,No
+11380,H&S,Crime,Felony,Adult inducing minor's involvement w/non-narcotic CS,,36,72,108,No,No
+11382,H&S,Crime,Felony,Selling or furnishing substance falsely represented to be CS,,16,24,36,Yes,Yes
+11383(a),H&S,Crime,Felony,Possession of materials w/intent to manufacture PCP ,,24,48,72,Yes,No
+11383(b),H&S,Crime,Felony,Possession of isomers of PCP w/intent to manufacture PCP,,24,48,72,Yes,No
+11383(c),H&S,Crime,Felony,Possession of materials w/intent to manufacture PCP,,24,48,72,Yes,No
+11383(d),H&S,Crime,Felony,Possession of immediate precursors w/intent to manufacture PCP,,24,48,72,Yes,No
+11383.5(a),H&S,Crime,Felony,Possession of materials w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.5(b)(1),H&S,Crime,Felony,Possession of isomers of methamphetamine w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.5(b)(2),H&S,Crime,Felony,Possession of hydriodic acid or reducing agent,,24,48,72,Yes,No
+11383.5(c),H&S,Crime,Felony,Possession of isomers of methamphetamine w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.5(d),H&S,Crime,Felony,Possession of immediate precursors w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.5(e) ,H&S,Crime,Felony,Possession of chemicals sufﬁcient to manufacture hydriodic acid or reducing agent w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.5(f),H&S,Crime,Felony,Possession of materials w/intent to manufacture methamphetamine,,24,48,72,Yes,No
+11383.6(a) ,H&S,Crime,Felony,Possession of materials w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture PCP ,,16,24,36,Yes,No
+11383.6(b) ,H&S,Crime,Felony,Possession of isomers of PCP w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture PCP ,,16,24,36,Yes,No
+11383.6(c) ,H&S,Crime,Felony,Possession of materials w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture PCP,,16,24,36,Yes,No
+11383.6(d) ,H&S,Crime,Felony,Possession of immediate precursors w/intent to sell or furnish to another w/knowledge that they will be used to manufacture PCP,,16,24,36,Yes,No
+11383.7(a) ,H&S,Crime,Felony,Possession of material w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(b)(1) ,H&S,Crime,Felony,Possession of isomers of methamphetamine w/intent to sell or furnish to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(b)(2) ,H&S,Crime,Felony,Possession of hydriodic acid or reducing agent w/intent to sell or furnish to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(c) ,H&S,Crime,Felony,Possession of isomers of methamphetamine w/intent to sell or furnish to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(d) ,H&S,Crime,Felony,Possession of materials w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(e) ,H&S,Crime,Felony,Possession of chemicals sufﬁcient to manufacture hydriodic acid or reducing agent w/intent to sell or furnish materials to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11383.7(f) ,H&S,Crime,Felony,Possession of materials wit sell or furnish materials to another w/knowledge that they will be used to manufacture methamphetamine,,16,24,36,Yes,No
+11390,H&S,Crime,Felony,Cultivating mushrooms for CS,,16,24,36,No,Yes
+11391(a),H&S,Crime,Felony,Sale or transportation of mushrooms for CS,,16,24,36,No,Yes
+11550(e),H&S,Crime,Felony,Under inﬂuence of CS while in possession of loaded ﬁrearm,,16,24,36,No,Yes
+11550(e),H&S,Crime,Felony,Under inﬂuence of CS while in possession of loaded ﬁrearm w/prior conviction,,24,36,48,No,No
+12305,H&S,Crime,Felony,Unlawful possession of explosive,,16,24,36,Yes,Yes
+12401,H&S,Crime,Felony,Felony explosives violations,,16,24,36,Yes,Yes
+12700(b),H&S,Crime,Felony,Unlawful possession of 100 lbs. or more of ﬁreworks,,16,24,36,Yes,Yes
+12761,H&S,Crime,Felony,Use or possession of ﬂame-throwing device w/o permit,,16,24,36,Yes,Yes
+17061(b),H&S,Crime,Felony,Willful violation of Employee Housing Act causing personal injury to another,,24,36,48,Yes,Yes
+18124.5,H&S,Crime,Felony,Fraudulent alteration of title to mobile home,,16,24,36,Yes,Yes
+25180.7,H&S,Crime,Felony,Knowing failure to disclose information regarding illegal discharge of hazardous waste,,16,24,36,Yes,Yes
+25189.5(b),H&S,Crime,Felony,Knowing disposal of hazardous waste at unauthorized site,,16,24,36,Yes,Yes
+25189.5(c),H&S,Crime,Felony,Transport of hazardous waste to unauthorized plant,,16,24,36,Yes,Yes
+25189.5(d),H&S,Crime,Felony,Treatment or storage of hazardous waste at unauthorized facility ,,16,24,36,Yes,Yes
+25189.6(a),H&S,Crime,Felony,"Treatment, transport, disposal, or storage of hazardous waste that causes unreasonable risk ofﬁre, explosion, or serious injury",,16,24,36,Yes,Yes
+25189.6(b) ,H&S,Crime,Felony,iolation of H&S 25189.6(a) that places person in imminent danger of serious harm or death,,36,72,108,Yes,No
+25189.7(b),H&S,Crime,Felony,Burning hazardous waste at unauthorized facility,,16,24,36,Yes,Yes
+25190,H&S,Crime,Felony,Violation of hazardous waste disposal regulations w/prior conviction,,16,20,24,Yes,Yes
+25191(a),H&S,Crime,Felony,Illegal transport of hazardous waste w/prior conviction,,16,20,24,Yes,Yes
+25395.13(b) ,H&S,Crime,Felony,"Mishandling of hazardous substance by private site manager causing unreasonable risk of ﬁre, explosion, serious injury, or death",,16,24,36,Yes,Yes
+25510,H&S,Crime,Felony,Failure to report release of hazardous waste w/prior conviction,,16,20,24,Yes,Yes
+25541,H&S,Crime,Felony,Making false statements/misrepresentations in documents relating to management of hazardous materials w/prior conviction,,12,24,36,Yes,Yes
+42400.3(c),H&S,Crime,Felony,Unlawful emission of air contaminant causing GBI or death,,16,24,36,Yes,Yes
+44209,H&S,Crime,Felony,Falsifying vehicle emissions test report,,16,24,36,Yes,Yes
+100895,H&S,Crime,Felony,Falsifying statements in reports regarding regulation of environmental laboratories w/prior conviction,,16,20,24,Yes,Yes
+103800,H&S,Crime,Felony,Willful ﬁling of false certiﬁcate or afﬁdavit for birth certiﬁcate,,16,24,36,No,No
+109335,H&S,Crime,Felony,Noncompliance w/regulations relating to cancer diagnosis and treatment w/2 prior convictions,,16,24,36,Yes,No
+109370,H&S,Crime,Felony,Noncompliance w/regulations relating to cancer diagnosis and treatment,,16,24,36,No,Yes
+115215(b) ,H&S,Crime,Felony,Unauthorized disposal of radioactive material causing substantial danger to public health or safety,,16,24,36,Yes,Yes
+115215(b),H&S,Crime,Felony,Unauthorized disposal of radioactive material causing GBI or substantial probability of death,,36,60,84,Yes,No
+115215(c) ,H&S,Crime,Felony,Unauthorized transportation of radioactive material causing substantial danger to public health or safety,,16,24,36,Yes,Yes
+115215(c) ,H&S,Crime,Felony,Unauthorized transportation of radioactive material causing GBI or substantial probability of death ,,36,60,84,Yes,No
+116730,H&S,Crime,Felony,Falsifying statements in reports regarding regulation of public water systems w/prior conviction,,16,20,24,Yes,Yes
+116750(a),H&S,Crime,Felony,Tampering w/public water system,,36,48,60,Yes,No
+116750(b),H&S,Crime,Felony,Threatening to tamper w/public water system,,16,24,36,Yes,No
+118340(a),H&S,Crime,Felony,"Unauthorized treatment, transport, storage, or disposal of medical waste w/prior conviction",,12,24,36,Yes,Yes
+118340(d),H&S,Crime,Felony,Knowing unauthorized treatment or disposal of medical waste,,12,24,36,Yes,Yes
+131130,H&S,Crime,Felony,"Failure to comply w/order to remove from sale any product linked to outbreak of illness, injury, or product tampering w/prior conviction",,16,24,36,Yes,Yes
+700,INS. CODE,Crime,Felony,Transacting insurance business w/o certiﬁcation,,16,24,36,Yes,Yes
+750,INS. CODE,Crime,Felony,Unlawful referrals,,16,24,36,Yes,Yes
+750,INS. CODE,Crime,Felony,Unlawful referrals w/prior conviction,,16,24,36,Yes,No
+833,INS. CODE,Crime,Felony,"False statement to insurance commissioner, etc.",,16,24,36,Yes,Yes
+900.9,INS. CODE,Crime,Felony,Ofﬁcer or employee of insurer who signs or ﬁles false report orstatement w/intent to deceive,,16,24,36,No,No
+1043,INS. CODE,Crime,Felony,Unlawful acts in mutualization or rehabilitating insurer,,16,24,36,Yes,Yes
+1215.11,INS. CODE,Crime,Felony,Violation of insurance holding company system regulatory act,,16,24,36,Yes,No
+1764.7,INS. CODE,Crime,Felony,Violation of laws regulating surplus line broker operations,,16,24,36,Yes,Yes
+1814,INS. CODE,Crime,Felony,"Violation of commissioner rules, etc.",,16,24,36,Yes,Yes
+1871.4,INS. CODE,Crime,Felony,Preparing/presenting false/fraudulent workers' compensation claim or claim under return-to-work program,,24,36,60,Yes,Yes
+10192.165(e),INS. CODE,Crime,Felony,Violating provisions regulating Medicare supplement policies ,,16,24,36,Yes,Yes
+11160,INS. CODE,Crime,Felony,Paying compensation to any employee/ofﬁcer to aid merger,,16,24,36,Yes,Yes
+11162,INS. CODE,Crime,Felony,Ofﬁcer borrowing funds/guaranteeing loans for organization,,16,24,36,Yes,No
+11163,INS. CODE,Crime,Felony,Ofﬁcer asking/receiving consideration for procuring loans,,16,24,36,Yes,No
+11760(a) ,INS. CODE,Crime,Felony,"Making false/fraudulent statements for purpose of reducing premium, rate, or cost of workers' comp insurance ",,24,36,60,Yes,Yes
+11880(a) ,INS. CODE,Crime,Felony,"Making false/fraudulent statements for purpose of reducing premium, rate, or cost of state workers' comp insurance",,24,36,60,Yes,Yes
+12660,INS. CODE,Crime,Felony,Guaranteeing or insuring land values,,16,24,36,Yes,Yes
+12845,INS. CODE,Crime,Felony,Unlawfully providing vehicle service contract forms,,16,24,36,Yes,Yes
+14080,INS. CODE,Crime,Felony,Submitting false ﬁngerprints/photos in application for insurance adjuster license ,,16,24,36,No,No
+15053,INS. CODE,Crime,Felony,Submitting false ﬁngerprints/photos in application for public insurance adjuster license ,,16,24,36,No,No
+227,LAB. CODE,Crime,Felony,Employer willfully or w/intent to defraud fails to remit withholdings from employee wages in excess of $500,,16,24,36,Yes,Yes
+1778,LAB. CODE,Crime,Felony,Taking or receiving or conspiring to take or receive a portion of wages of workman on any public work,,16,24,36,No,No
+3215,LAB. CODE,Crime,Felony,Referral of clients or patients for compensation,,16,24,36,No,Yes
+3215,LAB. CODE,Crime,Felony,Referral of clients or patients for compensation w/prior conviction,,16,24,36,No,No
+3219(a) ,LAB. CODE,Crime,Felony,"Give consideration as compensation, inducement, or reward to adjuster for referral or settlement of claim ",,16,24,36,No,No
+3219(b) ,LAB. CODE,Crime,Felony,"Adjuster accepting or receiving consideration as compensation, inducement, or reward to adjuster for referral or settlement of claim",,16,24,36,No,No
+6425(a) ,LAB. CODE,Crime,Felony,Violation of occupational safety or health standard or order causing death of employee or permanent and prolonged impairment of body of employee,,16,24,36,No,Yes
+6425(b),LAB. CODE,Crime,Felony,Violation above w/speciﬁed prior conviction,,24,36,48,No,Yes
+6425(c),LAB. CODE,Crime,Felony,Violation above w/prior conviction of same,,24,36,48,Yes,Yes
+7770,LAB. CODE,Crime,Felony,Mismanagement of steam boiler/engine causing accident endangering human life ,,16,24,36,No,No
+7771,LAB. CODE,Crime,Felony,Mismanagement of steam boiler/engine resulting in death/bodily injury ,,24,36,48,Yes,No
+145,M&V,Crime,Felony,Violation of martial law,,24,36,48,Yes,Yes
+421,M&V,Crime,Felony,Conversion of military property over $950,,16,24,36,No,No
+616,M&V,Crime,Felony,Displaying flag advocating overthrow of government,,16,24,36,No,No
+1318,M&V,Crime,Felony,Vandalizing veterans' memorial,,16,24,36,Yes,Yes
+1670,M&V,Crime,Felony,Act of sabotage not resulting in death or GBI,,24,48,72,Yes,Yes
+1670,M&V,Crime,Felony,Act of sabotage not resulting in death or GBI w/specific intent,,36,60,84,Yes,Yes
+1671,M&V,Crime,Felony,Interfering w/property or failing to report defects in property intended for war or defense not resulting in death or GBI,,24,48,72,Yes,Yes
+1671,M&V,Crime,Felony,Interfering w/property or failing to report defects in property intended for war or defense not resulting in death or GBI w/specific intent to commit sabotage,,36,60,84,Yes,Yes
+1673,M&V,Crime,Felony,Attempted violation of M&V 1670 & 1671,,24,36,48,Yes,Yes
+2253(g),PROB. CODE,Crime,Felony,Temporary conservator removing a temporary conservatee from California w/o authorization,,16,24,36,No,No
+10280,PUB. CONT. CODE,Crime,Felony,Corrupt performance of ofﬁcial act,,16,24,36,Yes,No
+10281,PUB. CONT. CODE,Crime,Felony,Corrupt action by state contractor,,16,24,36,Yes,No
+10282,PUB. CONT. CODE,Crime,Felony,Failure of state contractor to give notice of contract violation,,16,24,36,Yes,No
+10422,PUB. CONT. CODE,Crime,Felony,State ofﬁcer or employee who corruptly performs any ofﬁcial act under the State Acquisition of Goods and Services Act,,16,24,36,No,No
+10423,PUB. CONT. CODE,Crime,Felony,Any person contracting w/the state who corruptly permits a violation of any contract made under the State Acquisition of Goods and Services Act,,16,24,36,No,No
+10522,PUB. CONT. CODE,Crime,Felony,Ofﬁcer or employee of the UC who corruptly performs any ofﬁcial act under UC Competitive Bidding Act to the injury of the university,,16,24,36,No,No
+10523,PUB. CONT. CODE,Crime,Felony,Any person contracting w/the UC who corruptly permits a violation of any contract made under the UC Competitive Bidding Act,,16,24,36,No,No
+10870,PUB. CONT. CODE,Crime,Felony,Corrupt performance of ofﬁcial duty ,,16,24,36,Yes,No
+10871,PUB. CONT. CODE,Crime,Felony,Corrupt action by state contractor,,16,24,36,Yes,No
+10872,PUB. CONT. CODE,Crime,Felony,Failure of state contractor to give notice of contract violation,,16,24,36,Yes,No
+5097.99(b),PUB. RES. CODE,Crime,Felony,Willfully obtaining or possessing Native American artifacts or human remains,,16,24,36,Yes,No
+5097.99(c) ,PUB. RES. CODE,Crime,Felony,Unauthorized removal of Native American artifacts or human remains w/intent to sell or dissect or w/malice or wantonness,,16,24,36,Yes,No
+5190,PUB. RES. CODE,Crime,Felony,"Park commissioner who is interested, directly or indirectly, in any contract or work of any kind connected w/the park or grounds under the control of the board of which he/she is a member ",,16,24,36,No,No
+14591(b),PUB. RES. CODE,Crime,Felony,Violation of Beverage Container Act—fraudulent claim exceeding $950,,16,24,36,Yes,Yes
+25205,PUB. RES. CODE,Crime,Felony,State energy resources commission conﬂict of interests,,16,24,36,Yes,No
+48650.5,PUB. RES. CODE,Crime,Felony,Fraudulent claim for refund (perjury offense),,24,36,48,Yes,No
+48680(b),PUB. RES. CODE,Crime,Felony,Fraudulent violation of oil recycling statutes exceeding $400,,16,24,36,Yes,Yes
+827,PUB. UTIL. CODE,Crime,Felony,"Securities violations by public utility ofﬁcer, agent, or employee",,16,24,36,No,No
+2114,PUB. UTIL. CODE,Crime,Felony,"False testimony under oath by public utility ofﬁcer, agent, or employee",,16,24,36,No,Yes
+7676,PUB. UTIL. CODE,Crime,Felony, Running freight car behind passenger car resulting in death or bodily injury,,16,24,36,No,No
+7679,PUB. UTIL. CODE,Crime,Felony,Act of negligence causing death or bodily injury by railroad employee under the inﬂuence of alcohol or drugs,,16,24,36,No,No
+7680,PUB. UTIL. CODE,Crime,Felony,Willful negligence of railroad employee causing death ,,24,36,48,Yes,No
+7724,PUB. UTIL. CODE,Crime,Felony,Violation of railroad safety provisions,,16,24,36,Yes,Yes
+7903,PUB. UTIL. CODE,Crime,Felony,Telegraph/telephone employee using information from private msg.,,16,24,36,Yes,Yes
+8285(a),PUB. UTIL. CODE,Crime,Felony,False representation of business,,16,24,36,No,Yes
+21407.1/21407.6(b),PUB. UTIL. CODE,Crime,Felony,Recklessly operating aircraft while under inﬂuence of drugs/alcohol causing bodily injury,,16,24,36,Yes,Yes
+7093.6(n),R&T,Crime,Felony,Fraud in connection w/others in compromise on ﬁnal tax liability,,16,24,36,Yes,Yes
+7153.5,R&T,Crime,Felony,"Intentional evasion of sales and use tax, liability greater than $25,000",,16,24,36,Yes,Yes
+7153.6(b) ,R&T,Crime,Felony,"Sale, purchase, transfer, or possession of sales suppression device, zapper,or phantomware for purpose defeating or evading the determination of sales/use taxes",,16,24,36,Yes,Yes
+8103.5,R&T,Crime,Felony,Making or subscribing to a false claim for refund,,16,24,36,Yes,No
+9278(n),R&T,Crime,Felony,Fraud in connection w/others in compromise on ﬁnal tax liability,,16,24,36,Yes,Yes
+9354.5,R&T,Crime,Felony,"Intentional evasion of fuel tax, liability greater than $25,000",,16,24,36,No,Yes
+14251,R&T,Crime,Felony,Disclosure of conﬁdential information ,,16,24,36,Yes,No
+16910,R&T,Crime,Felony,Disclosure of conﬁdential information ,,16,24,36,Yes,No
+18631.7,R&T,Crime,Felony,Willful failure of check cashing business to ﬁle informational return,,16,24,36,Yes,Yes
+19542.3,R&T,Crime,Felony,Willful disclosure of tax-related computer software source code,,16,24,36,No,Yes
+19705,R&T,Crime,Felony,Willful ﬁling of false return,,16,24,36,Yes,Yes
+19706,R&T,Crime,Felony,Willful failure to ﬁle return or willful ﬁling of false/fraudulent return,,16,24,36,No,Yes
+19708,R&T,Crime,Felony,Failure to collect/account for/pay over withholding tax,,16,24,36,Yes,Yes
+19721,R&T,Crime,Felony,Fraud involving income tax refund warrants,,16,24,36,No,Yes
+30459.15(p),R&T,Crime,Felony,Fraud relating to an offer or compromise,,16,24,36,Yes,No
+30473,R&T,Crime,Felony,Counterfeiting stamps or meter impressions,,24,36,48,No,Yes
+30475(b),R&T,Crime,Felony,Transport tobacco products w/o permit w/intent to evade tax,,16,24,36,No,Yes
+30480,R&T,Crime,Felony,"Intentional evasion of cigarette tax, liability greater than $25,000",,16,24,36,No,Yes
+32471.5(p),R&T,Crime,Felony,Fraud relating to an offer or compromise,,16,24,36,Yes,No
+32552,R&T,Crime,Felony,Tax evasion,,16,24,36,Yes,Yes
+32553,R&T,Crime,Felony,Diversion of tax-free liquor for beverage use,,16,24,36,Yes,Yes
+38800(l),R&T,Crime,Felony,Fraud relating to an offer or compromise,,16,24,36,Yes,Yes
+40187,R&T,Crime,Felony,"Intentional evasion of tax per energy resources surcharge law,liability, greater than $25,000",,16,24,36,No,Yes
+40211.5(l),R&T,Crime,Felony,Compromise of ﬁnal surcharge liability,,16,24,36,Yes,Yes
+41143.4,R&T,Crime,Felony,"Intentional evasion of tax per emergency telephone users surcharge law, liability greater than $25,000",,16,24,36,No,Yes
+41171.5(p),R&T,Crime,Felony,Compromise of ﬁnal surcharge liability,,16,24,36,Yes,Yes
+43522.5,R&T,Crime,Felony,Compromise of ﬁnal tax liability,,16,24,36,Yes,Yes
+43604,R&T,Crime,Felony,Tax evasion ,,16,24,36,Yes,Yes
+45867.5,R&T,Crime,Felony,Compromise of ﬁnal fee liability,,16,24,36,Yes,Yes
+45953,R&T,Crime,Felony,Evasion of payment of integrated waste management fee,,16,24,36,Yes,Yes
+46628(p),R&T,Crime,Felony,Compromise of ﬁnal fee liability,,16,24,36,Yes,Yes
+46703,R&T,Crime,Felony,Evasion of payment of oil spill fee,,16,24,36,Yes,Yes
+50156.18(n),R&T,Crime,Felony,Fraud in connection w/offers in compromise on ﬁnal tax liability,,16,24,36,Yes,Yes
+55332.5(p),R&T,Crime,Felony,Fraud relating to an offer or compromise,,16,24,36,Yes,Yes
+55363,R&T,Crime,Felony,Evading or attempting to evade payment of imposed fee,,16,24,36,Yes,No
+55363.5(b) ,R&T,Crime,Felony,"Sale, purchase, transfer, or possession of sales suppression device, zapper, or phantomware for purpose defeating or evading the determination of sales/use taxes",,16,24,36,Yes,Yes
+60106.3,R&T,Crime,Felony,Issuance of diesel fuel tax exemption certiﬁcate w/knowledge that the fuel will not be lawfully used for purpose entitling exemption in order to evade tax ,,16,24,36,No,Yes
+60503.2,R&T,Crime,Felony,Issuance of diesel fuel tax exemption certiﬁcate w/knowledge that the fuel will not be lawfully used for purpose entitling exemption in order to evade tax,,16,24,36,No,Yes
+6637(p),R&T,Crime,Felony,Fraud relating to an offer or compromise,,16,24,36,Yes,No
+60707,R&T,Crime,Felony,"Intentional evasion of tax per diesel fuel tax law, liability greater than
+$25,000",,16,24,36,No,Yes
+139,S&H,Crime,Felony,Officer or employee of Dept. of Transportation who renders a false report to the director or chief engineer,,16,24,36,No,No
+2101,U&I,Crime,Felony,"False statement, representation or concealment to obtain, increase, reduce or defeat beneﬁt or payment",,16,24,36,No,Yes
+2101.5,U&I,Crime,Felony,"False statement, representation or concealment for purpose of lowering or avoiding contribution on becoming subject to division",,16,24,36,No,Yes
+2101.6,U&I,Crime,Felony,Advising prohibited acts; aid or assistance in prohibited acts,,16,24,36,No,Yes
+2102,U&I,Crime,Felony,False statement or representation or concealment to obtain beneﬁts under employment laws of another state,,16,24,36,No,Yes
+2103,U&I,Crime,Felony,Deductions from wages larger than required,,16,24,36,No,Yes
+2104,U&I,Crime,Felony,"Failure to appear, testify or produce records at any hearing under Div.1 (Unemployment and Disability Compensation)",,16,24,36,No,Yes
+2105,U&I,Crime,Felony,Failure or neglect to make records available for inspection,,16,24,36,No,Yes
+2106,U&I,Crime,Felony,Failure or neglect to furnish reports,,16,24,36,No,Yes
+2107,U&I,Crime,Felony,Withholding information to aid individual to obtain beneﬁts to which he/she is entitled,,16,24,36,No,Yes
+2108,U&I,Crime,Felony,Nonpayment of contributions due,,16,24,36,No,Yes
+2109,U&I,Crime,Felony,Unlawful failure to register or report,,16,24,36,No,Yes
+2110,U&I,Crime,Felony,Failure to pay deductions withheld from workers,,16,24,36,No,Yes
+2110.3,U&I,Crime,Felony,Failure to pay contributions agreed to be paid for workers w/o deduction from remuneration,,16,24,36,No,Yes
+2110.5,U&I,Crime,Felony,Failure to withhold deductions in trust ,,16,24,36,No,Yes
+2110.7,U&I,Crime,Felony,Failure to hold in trust contributions agreed to be paid for workers w/o deduction from remuneration,,16,24,36,No,Yes
+2111,U&I,Crime,Felony,Disclosure of conﬁdential information ,,16,24,36,No,Yes
+2112,U&I,Crime,Felony,Violation of law or authorized regulations promulgated in accordance w/Div. 1 (Unemployment and Disability Compensation),,16,24,36,No,Yes
+2114,U&I,Crime,Felony,Report on registration of ﬁctitious employer or employee and wages,,16,24,36,No,Yes
+2115,U&I,Crime,Felony,False reports of wages or time period,,16,24,36,No,Yes
+2116(a) ,U&I,Crime,Felony,False certiﬁcation of the medical condition of any person in order to obtain disability insurance beneﬁts,,16,24,36,No,Yes
+2116(b),U&I,Crime,Felony,False or fraudulent written or oral material statement in support of any claim for disability insurance,,16,24,36,No,Yes
+2116(c),U&I,Crime,Felony,"Solicit, receive, or pay consideration for soliciting a claimant to unlawfully apply for disability insurance",,16,24,36,No,Yes
+2116(d),U&I,Crime,Felony,"Knowingly assist, abet, solicit, or conspire w/any person who engages in an unlawful act under this section ",,16,24,36,No,Yes
+2117.5,U&I,Crime,Felony,Willful failure to ﬁle returns w/intent to defraud ,,16,24,36,No,Yes
+2118.5,U&I,Crime,Felony,Willful failure to collect or pay unemployment,,16,24,36,Yes,Yes
+2119,U&I,Crime,Felony,Willful furnishing of false or fraudulent withholding statement or failure to furnish such statement,,16,24,36,No,Yes
+2120,U&I,Crime,Felony,Willfully supplying false information or failure to supply information to employer which would require an increase in withholding,,16,24,36,No,Yes
+2121,U&I,Crime,Felony,Preparation or presentation of false or fraudulent document ,,16,24,36,No,Yes
+1808.4,VC,Crime,Felony,Disclosure of home address of peace ofﬁcer or family member contained in conﬁdential DMV record resulting in bodily injury to these persons,,16,24,36,Yes,Yes
+2470,VC,Crime,Felony,Transporting kitchen grease w/o valid registration certiﬁcate w/prior conviction or w/intent to defraud or mislead,,16,24,36,Yes,Yes
+2472,VC,Crime,Felony,Interstate transporting of kitchen grease w/o registration or license w/prior conviction or w/intent to defraud or mislead,,16,24,36,Yes,Yes
+2474,VC,Crime,Felony,"Stealing, contaminating, or damaging kitchen grease, or containers thereof w/prior conviction or w/intent to defraud or mislead",,16,24,36,Yes,Yes
+2476,VC,Crime,Felony,Taking possession of stolen kitchen grease or grease from unregistered transporter w/prior conviction or w/intent to defraud or mislead ,,16,24,36,Yes,Yes
+2800.2,VC,Crime,Felony,Flight from police in willful or wanton disregard for safety of person or property,,16,24,36,No,Yes
+2800.3(a),VC,Crime,Felony,Flight from police causing serious bodily injury,,36,60,84,No,Yes
+2800.3(b),VC,Crime,Felony,Flight from police causing death,,48,72,120,No,Yes
+2800.4,VC,Crime,Felony,Driving in wrong direction while ﬂeeing from police,,16,24,36,No,Yes
+4463,VC,Crime,Felony,False evidence of registration,,16,24,36,Yes,Yes
+10501,VC,Crime,Felony,False report of stolen car w/prior conviction,,16,24,36,Yes,Yes
+10752,VC,Crime,Felony,Fraudulent use of vehicle identiﬁcation number,,16,24,36,Yes,Yes
+10801,VC,Crime,Felony,Ownership or operation of chop shop,,24,36,48,Yes,Yes
+10802,VC,Crime,Felony,"Altering, defacing, or removing of VIN",,16,24,36,Yes,Yes
+10803(a) ,VC,Crime,Felony,"Purchase w/intent to resell, sell, or transfer vehicle or vehicle parts knowing VIN altered, deface, or obliterated",,24,48,72,Yes,Yes
+10803(b),VC,Crime,Felony,"Possessing for sale of vehicle or vehicle parts knowing VIN altered, deface, or obliterated",,16,24,36,Yes,Yes
+10851(a),VC,Crime,Felony,Vehicle theft ,,16,24,36,Yes,Yes
+10851(b),VC,Crime,Felony,"Theft of ambulance, police, or ﬁre dep't vehicle, or disabled person's vehicle",,24,36,48,Yes,Yes
+10851(e),VC,Crime,Felony,Vehicle theft w/prior felony conviction,,24,36,48,Yes,Yes
+20001(b)(1),VC,Crime,Felony,Hit-and-run driving,,16,24,36,No,Yes
+20001(b)(2),VC,Crime,Felony,Hit-and-run driving causing death or serious injury,,24,36,48,No,Yes
+21464,VC,Crime,Felony,Interfere w/trafﬁc devices causing bodily injury/death,,16,24,36,Yes,Yes
+21651(c),VC,Crime,Felony,Willful driving on the wrong side of a divided highway resulting in injury or death,,16,24,36,Yes,Yes
+23104,VC,Crime,Felony,Reckless driving causing GBI w/prior conviction,,16,24,36,Yes,Yes
+23105,VC,Crime,Felony,Reckless driving causing one or more speciﬁed injuries to person other than driver,,16,24,36,Yes,Yes
+23109,VC,Crime,Felony,Motor vehicle speed contest causing serious bodily injury w/prior conviction within 5 years,,16,24,36,No,Yes
+23109.1,VC,Crime,Felony,Engaging in speed contest causing one or more speciﬁed injuries to person other than driver,,16,24,36,Yes,Yes
+23110(b),VC,Crime,Felony,Throwing substance at vehicle capable of causing serious bodily injury,,16,24,36,No,No
+23152,VC,Crime,Felony,DUI of alcohol/drugs w/3 priors within 10 years,,16,24,36,Yes,Yes
+23152,VC,Crime,Felony,DUI of alcohol/drugs w/prior felony conviction of DUI or vehicular manslaughter within 10 years,,16,24,36,No,Yes
+23153,VC,Crime,Felony,DUI of alcohol/drugs causing bodily injury,,16,24,36,Yes,Yes
+23153,VC,Crime,Felony,DUI of alcohol/drugs causing bodily injury w/1 prior within 10 years,,16,24,36,Yes,Yes
+23153,VC,Crime,Felony,DUI of alcohol/drugs causing bodily injury w/2 pc within 10 years,,24,36,48,Yes,No
+23153,VC,Crime,Felony,DUI of alcohol/drugs causing GBI w/2 prior conviction within 10 years,,24,36,48,Yes,No
+23153,VC,Crime,Felony,DUI of alcohol/drugs w/prior conviction of vehicular manslaughter,,16,24,36,Yes,Yes
+38318(b),VC,Crime,Felony,Throwing things at off-highway vehicle capable of causing serious bodily injury,,16,24,36,No,Yes
+38318.5(b) ,VC,Crime,Felony,Removing marker from trail causing GBI,,16,24,36,No,Yes
+13375/13387(b),WC,Crime,Felony,"Negligent discharge of radiological, chemical, or biological warfare agents into state water supply w/prior conviction",,16,20,24,Yes,Yes
+13375/13387(c),WC,Crime,Felony,"Knowing discharge of radiological, chemical, or biological warfare agents into state water supply",,16,24,36,Yes,Yes
+13375/13387(c),WC,Crime,Felony,"Knowing discharge of radiological, chemical, or biological warfare agents into state water supply w/prior conviction",,24,48,72,Yes,Yes
+13375/13387(d) ,WC,Crime,Felony,"Knowing discharge of radiological, chemical, or biological warfare agents into state water supply w/knowledge that another person placed in imminent danger of death or serious bodily injury",,60,120,180,Yes,Yes
+13375/13387(d) ,WC,Crime,Felony,"Knowing discharge of radiological, chemical, or biological warfare agents into state water supply w/knowledge that another person placed in imminent danger of death or serious bodily injury w/prior conviction",,120,240,360,Yes,Yes
+13376/13387(b),WC,Crime,Felony,Negligent discharge of pollutants or dredged or ﬁll material into U.S.waters w/prior conviction,,16,20,24,Yes,Yes
+13376/13387(c),WC,Crime,Felony,Knowing discharge of pollutants or dredged or ﬁll material into U.S.waters,,16,24,36,Yes,Yes
+13376/13387(c),WC,Crime,Felony,Knowing discharge of pollutants or dredged or ﬁll material into U.S.waters w/prior conviction,,24,48,72,Yes,Yes
+13376/13387(d) ,WC,Crime,Felony,Knowing discharge of pollutants or dredged or ﬁll material into U.S.waters w/knowledge that another person placed in imminent danger of death or serious bodily injury,,60,120,180,Yes,Yes
+13376/13387(d) ,WC,Crime,Felony,Knowing discharge of pollutants or dredged or ﬁll material into U.S.waters w/knowledge that another person placed in imminent danger of death or serious bodily injury w/prior conviction,,120,240,360,Yes,Yes
+13387(a)(2) ,WC,Crime,Felony,Negligent violation of waste discharge requirements or dredge or ﬁll material permit or water quality certiﬁcation w/prior conviction,,16,20,24,Yes,Yes
+13387(a)(2) ,WC,Crime,Felony,Knowing violation of waste discharge requirements or dredge or ﬁll material permit or water quality certiﬁcation,,16,24,36,Yes,Yes
+13387(a)(2) ,WC,Crime,Felony,Knowing violation of waste discharge requirements or dredge or ﬁll material permit or water quality certiﬁcation w/prior conviction,,24,48,72,Yes,Yes
+13387(a)(3) ,WC,Crime,Felony,Negligent violation of any order or prohibition issued under WC 13243 or 13301 if activity subject to regulation under Federal Water PollutionControl Act w/prior conviction,,16,20,24,Yes,Yes
+13387(a)(3) ,WC,Crime,Felony,Knowing violation of any order or prohibition issued under WC 13243 or 13301 if activity subject to regulation under Federal Water PollutionControl Act ,,16,24,36,Yes,Yes
+13387(a)(3) ,WC,Crime,Felony,Knowing violation of any order or prohibition issued under WC 13243 or 13301 if activity subject to regulation under Federal Water Pollution Control Act w/prior conviction,,24,48,72,Yes,Yes
+13387(a)(4),WC,Crime,Felony,Negligent violation of designated sections of Clean Water Act w/prior conviction,,16,20,24,Yes,Yes
+13387(a)(4),WC,Crime,Felony,Knowing violation of designated sections of Clean Water Act,,16,24,36,Yes,Yes
+13387(a)(4),WC,Crime,Felony,Knowing violation of designated sections of Clean Water Act w/prior conviction,,24,48,72,Yes,Yes
+13387(a)(5) ,WC,Crime,Felony,Negligently introducing pollutant or hazardous substance into sewer system that the person knew or reasonably should have known could cause personal injury or property damage w/prior conviction,,16,20,24,Yes,Yes
+13387(a)(5) ,WC,Crime,Felony,Knowingly introducing pollutant or hazardous substance into sewer system that the person knew or reasonably should have known could cause personal injury or property damage ,,16,24,36,Yes,Yes
+13387(a)(5),WC,Crime,Felony,Knowingly introducing pollutant or hazardous substance into sewer system that the person knew or reasonably should have known could cause personal injury or property damage w/prior conviction,,24,48,72,Yes,Yes
+13387(a)(6),WC,Crime,Felony,"Negligently introducing pollutant or hazardous substance into sewer system which causes treatment works to violate waste discharge
+requirements w/prior conviction",,16,20,24,Yes,Yes
+13387(a)(6),WC,Crime,Felony,"Knowingly introducing pollutant or hazardous substance into sewer system which causes treatment works to violate waste discharge
+requirements",,16,24,36,Yes,Yes
+13387(a)(6),WC,Crime,Felony,"Knowingly introducing pollutant or hazardous substance into sewer system which causes treatment works to violate waste discharge
+requirements w/prior conviction",,24,48,72,Yes,Yes
+13387(e),WC,Crime,Felony,Falsifying water quality documents or tampering w/water quality monitoring equipment,,16,20,24,Yes,Yes
+13387(e),WC,Crime,Felony,Falsifying water quality documents or tampering w/water quality monitoring equipment w/prior conviction,,24,36,48,Yes,Yes
+871(b),W&I,Crime,Felony,Escape/attempted escape from juvenile facility w/force or violence,,16,24,36,No,Yes
+871.5(a),W&I,Crime,Felony,Bring narcotics/alcohol/ﬁrearms/tear gas into county juvenile facility,,16,24,36,Yes,Yes
+871.5(b),W&I,Crime,Felony,Use of tear gas or tear gas weapon in juvenile facility,,16,24,36,No,No
+1001.5(a),W&I,Crime,Felony,Bring narcotics/alcohol/ﬁrearms/tear gas into DJJ grounds,,16,24,36,Yes,Yes
+1001.5(b),W&I,Crime,Felony,Use of tear gas or tear gas weapon on DJJ grounds,,16,24,36,No,No
+1152(b) ,W&I,Crime,Felony,Aiding or attempting to aid escape of DJJ ward or parolee w/force or violence ,,16,24,36,No,Yes
+1768.7(a),W&I,Crime,Felony,Escape/attempted escape from DJJ w/o force or violence,,16,24,36,Yes,Yes
+1768.7(b),W&I,Crime,Felony,Escape/attempted escape from DJJ w/force or violence,,24,48,72,No,No
+1768.8(b) ,W&I,Crime,Felony,Assault by DJJ resident on nonresident w/deadly weapon or by means likely to produce GBI,,24,48,72,No,No
+1768.85,W&I,Crime,Felony,Battery of peace ofﬁcer or DJJ employee by DJJ inmate by gassing,,24,36,48,Yes,Yes
+3002,W&I,Crime,Felony,Escape/attempted escape from addiction treatment facility,,16,24,36,Yes,No
+6330,W&I,Crime,Felony,"Escape/attempted escape by mentally disordered sex offender from state hospital, etc.",,16,24,36,No,No
+7326,W&I,Crime,Felony,Aid in escape of person committed to state hospital,,16,24,36,Yes,No
+8100(a),W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by mental patient,,16,24,36,Yes,Yes
+8100(b) ,W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by person who communicates threat to psychotherapist,,16,24,36,Yes,Yes
+8101(a),W&I,Crime,Felony,Knowing gift or sale of deadly weapon to mental patient,,16,24,36,Yes,Yes
+8101(b),W&I,Crime,Felony,Knowing gift or sale of ﬁrearm to mental patient,,24,36,48,Yes,No
+8103(a) ,W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by mentally disordered sex offender or person who is danger to others due to mental illness,,16,24,36,Yes,Yes
+8103(b),W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by person found not guilty by reason of insanity of crimes designated violent felonies,,16,24,36,Yes,Yes
+8103(c),W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by person found not guilty by reason of insanity of crimes not included under W&I  §8103(b),,16,24,36,Yes,Yes
+8103(d),W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by person found mentally incompetent to stand trial,,16,24,36,Yes,Yes
+8103(e),W&I,Crime,Felony,Possession of ﬁrearm or deadly weapon by person placed under conservatorship due to grave disability or chronic alcoholism,,16,24,36,Yes,Yes
+8103(f),W&I,Crime,Felony,Possession of ﬁrearm by mentally disordered person,,16,24,36,Yes,Yes
+8103(g) ,W&I,Crime,Felony,"Possession of ﬁrearm by person certiﬁed for treatment under W&I 5250, §5260, or 5270.15",,16,24,36,Yes,Yes
+10980(b),W&I,Crime,Felony,Making two or more fraudulent applications for welfare aid,,16,24,36,Yes,Yes
+10980(c),W&I,Crime,Felony,Welfare fraud and aid obtained over $950,,16,24,36,Yes,Yes
+10980(d) ,W&I,Crime,Felony,"Use, acquire, transfer, or possess blank authorizations to participate in federal Supplemental Nutrition Assistance Program (SNAP)",,16,24,36,Yes,Yes
+10980(e) ,W&I,Crime,Felony,"Counterfeit, altering, or using counterfeited or altered authorizations to participate in SNAP or receive CalFresh beneﬁts (forgery offense)",,16,24,36,Yes,Yes
+10980(f) ,W&I,Crime,Felony,"Fraudulent appropriations of CalFresh beneﬁts, electronically transferred beneﬁts, or authorizations to participate in SNAP by public employee (embezzlement offense)",,16,24,36,No,No
+10980(g) ,W&I,Crime,Felony,"Unauthorized use, transfer, sale, purchase, or possessions of CalFresh beneﬁts, electronically transferred beneﬁts, or authorizations to participate in SNAP and value over $950",,16,24,36,Yes,Yes
+11054,W&I,Crime,Felony,False afﬁrmation of welfare application,,24,36,48,Yes,No
+11483.5,W&I,Crime,Felony,Using multiple applications to obtain more than one aid payment ,,16,24,36,Yes,No
+14014,W&I,Crime,Felony,dulent use of health care/false application over $950,,16,24,36,No,Yes
+14025(a) ,W&I,Crime,Felony,"Purchase or sale of MediCal cards, MediCal labels, or MediCalbeneﬁciary identiﬁcation numbers",,16,24,36,No,Yes
+14025(b) ,W&I,Crime,Felony,"Barter for purpose of resale or commercial exchange MediCal cards,MediCal labels, or MediCal beneﬁciary identiﬁcation numbers ",,16,24,36,No,Yes
+14107(a) ,W&I,Crime,Felony,"Fraudulent activities, schemes, or artiﬁces described in W&I 14107(b)",,24,36,60,No,Yes
+14107.2(a),W&I,Crime,Felony,Solicit/receive bribe for MediCal referrals or service,,16,24,36,Yes,Yes
+14107.2(a),W&I,Crime,Felony,Solicit/receive bribe for MediCal referrals or service w/prior conviction,,16,24,36,Yes,No
+14107.2(b),W&I,Crime,Felony,Offer/pay bribe for MediCal referrals or services ,,16,24,36,Yes,Yes
+14107.2(b),W&I,Crime,Felony,Offer/pay bribe for MediCal referrals or services w/prior conviction,,16,24,36,Yes,No
+14107.3(a),W&I,Crime,Felony,MediCal provider requiring bribe as condition to grant aid ,,16,24,36,Yes,Yes
+14107.3(b),W&I,Crime,Felony,MediCal provider requiring bribe as condition to grant aid w/prior conviction ,,16,24,36,Yes,No
+14107.4(a),W&I,Crime,Felony,Failure to disclose conﬂict of interest to MediCal,,16,24,36,Yes,Yes
+14107.4(b),W&I,Crime,Felony,False report to MediCal,,16,24,36,Yes,Yes
+15656(a),W&I,Crime,Felony,Willful causing of pain to or suffering of dependent adult ,,24,36,48,No,Yes
+15656(c) ,W&I,Crime,Felony,Theft or embezzlement over $950 by caretaker of elder or dependent adult,,24,36,48,No,Yes
+186.10(c)(1)(A),PC,Enhancement,Felony,"Money laundering when value of transaction(s) over $50,000",,NA,12,NA,NA,NA
+186.10(c)(1)(B),PC,Enhancement,Felony,"Money laundering when value of transaction(s) over $150,000",,NA,24,NA,NA,NA
+186.10(c)(1)(C),PC,Enhancement,Felony,"Money laundering when value of transaction(s) over $1,000,000",,NA,36,NA,NA,NA
+186.10(c)(1)(D),PC,Enhancement,Felony,"Money laundering when value of transaction(s) over $2,500,000",,NA,48,NA,NA,NA
+186.11(a)(2) ,PC,Enhancement,Felony,"Commission of two or more related felonies involving fraud or embezzlement of more than $500,000",,24,36,60,NA,NA
+186.11(a)(3) ,PC,Enhancement,Felony,"Commission of two or more related felonies involving fraud or embezzlement of more than $100,000",,12,NA,24,NA,NA
+186.22(b)(1)(A),PC,Enhancement,Felony,Committing felony while violating provisions against participating in criminal street gang,,24,36,48,NA,NA
+186.22(b)(1)(B),PC,Enhancement,Felony,Committing serious felony while violating provisions against participating in criminal street gang,,NA,60,NA,NA,NA
+186.22(b)(1)(C),PC,Enhancement,Felony,Committing violent felony while violating provisions against participating in criminal street gang,,NA,120,NA,NA,NA
+186.26(d),PC,Enhancement,Felony,"Soliciting, recruiting, coercing, or threatening minor to participate incriminal street gang activity in violation of PC186.26(a), (b), or (c)",,NA,36,NA,NA,NA
+186.33(b),PC,Enhancement,Felony,Failure to register by defendant subsequently convicted of gang-related crime ,,16,24,36,NA,NA
+192.5(e),PC,Enhancement,Felony,Fleeing the scene after committing vessel manslaughter,,NA,60,NA,NA,NA
+236.4(b),PC,Enhancement,Felony,,,60,84,120,NA,NA
+236.4(c),PC,Enhancement,Felony,Violation of PC  236.1 (human trafficking) w/prior conviction of offense specified in PC 236.1,,NA,60,NA,NA,NA
+273d(b),PC,Enhancement,Felony,Prior conviction of inflicting traumatic injury on child w/current conviction of same offense,,NA,48,NA,NA,NA
+273.4(a),PC,Enhancement,Felony,Felony conviction of PC 273a(a) involving female genital mutilation,,NA,12,NA,NA,NA
+288.3(c),PC,Enhancement,Felony,"Contacting minor w/intent to commit specified kidnapping, child pornography, or other sex crimes involving the minor w/prior conviction",,NA,60,NA,NA,NA
+289.5(d),PC,Enhancement,Felony,Commission of designated felony sex offense committed after fleeing to California to avoid prosecution for sex offense in another state,,NA,24,NA,NA,NA
+290.4(c)(1),PC,Enhancement,Felony,Use of disclosed information about sex offenders to commit a felony,,NA,60,NA,NA,NA
+290.45(e)(1),PC,Enhancement,Felony,Use of disclosed information about high-risk sex offenders to commit a felony,,NA,60,NA,NA,NA
+290.46(j)(2),PC,Enhancement,Felony,Use of disclosed information about high-risk sex offenders to commit a felony,,NA,60,NA,NA,NA
+347(a),PC,Enhancement,Felony,Using poison or harmful substance that may cause death or does cause GBI,,NA,36,NA,NA,NA
+368(b)(2),PC,Enhancement,Felony,Elder or dependent adult abuse resulting in GBI,,36,NA,60,NA,NA
+368(b)(3),PC,Enhancement,Felony,Elder or dependent adult abuse resulting in death,,60,NA,84,NA,NA
+422.75(a),PC,Enhancement,Felony,Committing felony hate crime,,12,24,36,NA,NA
+422.75(b),PC,Enhancement,Felony,Acting in concert w/another/aiding or abetting felony hate crime,,24,36,48,NA,NA
+422.75(d),PC,Enhancement,Felony,Prior conviction of felony hate crime w/current conviction of felony hate crime,,NA,12,NA,NA,NA
+451.1(a),PC,Enhancement,Felony,Arson Conviction and designated circumstances (PC 451.1(a)(1)-(5)) found true.,,36,48,60,NA,NA
+452.1(a),PC,Enhancement,Felony,Felony conviction of unlawfully causing of fire under  PC 452 and designated circumstance (PC 451.1(a)(1)-(5)) found true,,12,24,36,NA,NA
+548(b),PC,Enhancement,Felony,Prior conviction of insurance fraud w/current conviction of insurance fraud,,NA,24,NA,NA,NA
+550(e),PC,Enhancement,Felony,Prior felony conviction of insurance fraud w/current conviction of insurance fraud,,NA,24,NA,NA,NA
+550(f),PC,Enhancement,Felony,Two prior felony convictions of insurance fraud w/current conviction of insurance fraud,,NA,60,NA,NA,NA
+550(g),PC,Enhancement,Felony,Violation of  PC 550(a)(3) resulting in serious bodily injury from vehicular collision (Penalty is 2 years per injury),,NA,24,NA,NA,NA
+593a(b),PC,Enhancement,Felony,Causing bodily injury in commission of tree spiking,,NA,36,NA,NA,NA
+600(c)-(d),PC,Enhancement,Felony,"Harming, obstructing, or interfering w/peace officer's horse or dog",,12,NA,24,NA,NA
+667(a),PC,Enhancement,Felony,Prior conviction of serious felony w/current conviction of serious felony,,NA,60,NA,NA,NA
+667.5(a),PC,Enhancement,Felony,Prior prison term for violent felony w/current conviction of violent felony,,NA,36,NA,NA,NA
+667.5(b),PC,Enhancement,Felony,Prior prison term for a sexually violent offense as defined in W&I 6600(b) w/current conviction of felony,,NA,12,NA,NA,NA
+667.51(a),PC,Enhancement,Felony,Prior conviction of sex offense w/current conviction of PC 288 (lewd acts w/child) or PC 288.5 (continuous sexual abuse of child),,NA,60,NA,NA,NA
+667.6(a),PC,Enhancement,Felony,Prior conviction of serious sex offense w/current conviction of serious sex offense,,NA,60,NA,NA,NA
+667.6(b),PC,Enhancement,Felony,Two or more prior prison terms for serious sex offense w/current conviction of serious sex offense,,NA,120,NA,NA,NA
+667.8(a),PC,Enhancement,Felony,Kidnapping victim for purpose of committing sex offense,,NA,108,NA,NA,NA
+667.8(b) ,PC,Enhancement,Felony,Kidnapping child-victim for purpose of committing sex offense,,NA,18,NA,NA,NA
+667.85,PC,Enhancement,Felony,Kidnapping to permanently deprive parent of custody of child,,NA,60,NA,NA,NA
+667.9(a) ,PC,Enhancement,Felony,"Committing certain offenses against disabled, elderly, or child victim",,NA,12,NA,NA,NA
+667.9(b),PC,Enhancement,Felony,"Prior conviction of certain offenses committed against disabled, elderly, or child victim w/current conviction of those offenses",,NA,24,NA,NA,NA
+667.10(a),PC,Enhancement,Felony,"Prior conviction of PC 289 w/current conviction of same offense committed against disabled, elderly, or child victim",,NA,24,NA,NA,NA
+667.15(a),PC,Enhancement,Felony,Showing child pornography to minor prior to or during commission of lewd act on the minor in violation of PC 288,,NA,12,NA,NA,NA
+667.15(b),PC,Enhancement,Felony,Showing child pornography to minor prior to or during commission of sexual conduct w/that minor in violation of PC 288.5,,NA,24,NA,NA,NA
+667.16(a),PC,Enhancement,Felony,"Felony conviction of PC 470, 487, or 532 as part of plan or scheme to defraud an owner in connection w/repairs to structure damaged by natural disaster",,NA,12,NA,NA,NA
+667.17,PC,Enhancement,Felony,Impersonating a peace officer in violation of PC 538d during commission of felony,,NA,12,NA,NA,NA
+670(c),PC,Enhancement,Felony,Prior conviction of certain offenses committed to defraud in connection w/repairs for damage caused by natural disaster w/present conviction of those offenses,,NA,12,NA,NA,NA
+674(a),PC,Enhancement,Felony,Day care provider committing sex offense against minor victim,,NA,24,NA,NA,NA
+674(b),PC,Enhancement,Felony,Day care provider committing sex offense against minor victim in concert w/another,,NA,36,NA,NA,NA
+675(a),PC,Enhancement,Felony,Felony conviction of designated sex offense where the offense was committed w/a minor for money or other consideration,,NA,12,NA,NA,NA
+12021.5(a),PC,Enhancement,Felony,Carrying firearm while committing street gang crime,,12,24,36,NA,NA
+12021.5(b),PC,Enhancement,Felony,Carrying firearm together w/detachable magazine while committing street gang crime,,24,36,48,NA,NA
+12022(a)(1),PC,Enhancement,Felony,Being armed w/a firearm,,NA,12,NA,NA,NA
+12022(a)(2),PC,Enhancement,Felony,"Being armed w/an assault weapon, machine gun, or .50 BMG rifle",,NA,36,NA,NA,NA
+12022(b)(1),PC,Enhancement,Felony,Personally using deadly weapon,,NA,12,NA,NA,NA
+12022(b)(2) ,PC,Enhancement,Felony,Personally using deadly weapon in the commission of carjacking orcattempted carjacking,,12,24,36,NA,NA
+12022(c),PC,Enhancement,Felony,Being personally armed w/a ﬁrearm while committing drug offenses ,,36,48,60,NA,NA
+12022(d) ,PC,Enhancement,Felony,"Being a principal, knowing another principal is personally armed w/a ﬁrearm, while committing drug offenses ",,12,24,36,NA,NA
+12022.1(b),PC,Enhancement,Felony,Committing felony offenses while released on bail or own recognizance ,,NA,24,NA,NA,NA
+12022.2(a),PC,Enhancement,Felony,Being armed w/a ﬁrearm and possessing metal-piercing ammunition,,36,48,120,NA,NA
+12022.2(b),PC,Enhancement,Felony,Wearing bulletproof body vest in the commission of violent felony ,,12,24,60,NA,NA
+12022.3(a),PC,Enhancement,Felony,Using ﬁrearm or deadly weapon in commission of sex offense ,,36,48,120,NA,NA
+12022.3(b),PC,Enhancement,Felony,Being armed w/a ﬁrearm or deadly weapon in commission of sex offense ,,12,24,60,NA,NA
+12022.4,PC,Enhancement,Felony,Supplying ﬁrearm for commission of felony,,12,24,36,NA,NA
+12022.5(a),PC,Enhancement,Felony,Personally using ﬁrearm,,36,48,120,NA,NA
+12022.5(b),PC,Enhancement,Felony,Personally using assault weapon or machine gun,,60,72,120,NA,NA
+12022.53(b) ,PC,Enhancement,Felony,Personally using ﬁrearm while committing felony designated in PC 12022.53(a),,NA,120,NA,NA,NA
+12022.53(c) ,PC,Enhancement,Felony,Discharging ﬁrearm while committing felony designated in PC 12022.53(a),,NA,240,NA,NA,NA
+12022.53(d) ,PC,Enhancement,Felony,Discharging ﬁrearm causing GBI or death while committing designated felony,,25,ID,LIFE,NA,NA
+12022.55,PC,Enhancement,Felony,Discharging ﬁrearm from vehicle causing GBI or death ,,60,72,120,NA,NA
+12022.7(a),PC,Enhancement,Felony,Personally inﬂicting GBI,,NA,36,NA,NA,NA
+12022.7(b) ,PC,Enhancement,Felony,Personally inﬂicting GBI resulting in comatose brain injury or permanent paralysis of victim,,NA,60,NA,NA,NA
+12022.7(c),PC,Enhancement,Felony,Personally inﬂicting GBI on victim 70 years of age or older,,NA,60,NA,NA,NA
+12022.7(d),PC,Enhancement,Felony,Personally inﬂicting GBI on child under 5 years of age,,48,60,72,NA,NA
+12022.7(e) ,PC,Enhancement,Felony,Personally inﬂicting GBI during commission of domestic violence offense ,,36,48,60,NA,NA
+12022.75(a),PC,Enhancement,Felony,Administering CS against victim's will,,NA,36,NA,NA,NA
+12022.75(b),PC,Enhancement,Felony,Administering CS to victim in commission of sex offense ,,NA,60,NA,NA,NA
+12022.8,PC,Enhancement,Felony,Inﬂicting GBI in commission of sex offense ,,NA,60,NA,NA,NA
+12022.85(a),PC,Enhancement,Felony,Committing sex offense knowing defendant carries AIDS virus ,,NA,36,NA,NA,NA
+12022.9,PC,Enhancement,Felony,Personally inﬂicting injury causing termination of pregnancy,,NA,60,NA,NA,NA
+12022.95,PC,Enhancement,Felony,Willful cruelty to child resulting in death ,,NA,48,NA,NA,NA
+27590(d) ,PC,Enhancement,Felony,Unlawful ﬁrearm transaction in violation of PC 27500(b) or 27510and ﬁrearm used in subsequent commission of a felony for which a conviction is obtained and sentence imposed,,12,24,36,NA,NA
+30600(b),PC,Enhancement,Felony,Selling or giving assault weapon or .50 BMG riﬂe to a minor,,NA,12,NA,NA,NA
+30615,PC,Enhancement,Felony,"Manufacture, transport, sale, or possession of assault weapon or .50BMG riﬂe while committing another crime ",,NA,12,NA,NA,NA
+1522.01(c),H&S,Enhancement,Felony,Use of disclosed information about sex offenders to commit a felony,,NA,60,NA,NA,NA
+11353.1(a)(1) ,H&S,Enhancement,Felony,"Using minor for drug transactions involving heroin or cocaine on grounds of church, playground, etc.",,NA,12,NA,NA,NA
+11353.1(a)(2) ,H&S,Enhancement,Felony,Using minor for drug transactions involving heroin or cocaine on or near school grounds,,NA,24,NA,NA,NA
+11353.1(a)(3),H&S,Enhancement,Felony,Using minor at least 4 years younger than defendant for drug transactions,,12,24,36,NA,NA
+11353.4(a) ,H&S,Enhancement,Felony,Prior conviction of using minor for drug transactions involving cocaine base resulting in prison sentence w/current conviction of same offense,,12,24,36,NA,NA
+11353.6(b),H&S,Enhancement,Felony,Prior conviction of using minor for drug transactions involving cocaine base w/current conviction of using minor 14 years of age or younger for drug transactions involving cocaine base,,12,24,36,NA,NA
+11353.6(b),H&S,Enhancement,Felony,Selling drugs to minor on or near school grounds,,36,48,60,NA,NA
+11353.6(c) ,H&S,Enhancement,Felony,Selling drugs to minor at least 4 years younger than defendant on or near school grounds,,36,48,60,NA,NA
+11356.5(a),H&S,Enhancement,Felony,Inducing another to violate drug laws in excessive values,,12,24,36,NA,NA
+11370.2(a)-(c) ,H&S,Enhancement,Felony,Prior conviction of H&S 11380 (using minor in commission of drug offense) w/current conviction of drug offense,,NA,36,NA,NA,NA
+11370.4(a)(1),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 1 kg",,NA,36,NA,NA,NA
+11370.4(a)(2),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 4 kg",,NA,60,NA,NA,NA
+11370.4(a)(3),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 10 kg",,NA,120,NA,NA,NA
+11370.4(a)(4),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 20 kg",,NA,180,NA,NA,NA
+11370.4(a)(5),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 40 kg",,NA,240,NA,NA,NA
+11370.4(a)(6),H&S,Enhancement,Felony,"Violation of H&S 11351, 11351.5, or 11352 where substance exceeds 80 kg",,NA,300,NA,NA,NA
+11370.4(b)(1),H&S,Enhancement,Felony,"Violation of H&S 11378, 11378.5, 11379, or 11379.5 w/ respect to methamphetamine, amphetamine, phencyclidine (PCP) where substance exceeds 30 liters.",,NA,36,NA,NA,NA
+11370.4(b)(2),H&S,Enhancement,Felony,"Violation of H&S 11378, 11378.5, 11379, or 11379.5 w/ respect to methamphetamine, amphetamine, phencyclidine (PCP) where substance exceeds 100 liters.",,NA,60,NA,NA,NA
+11370.4(b)(3),H&S,Enhancement,Felony,"Violation of H&S 11378, 11378.5, 11379, or 11379.5 w/ respect to methamphetamine, amphetamine, phencyclidine (PCP) where substance exceeds 200 liters.",,NA,120,NA,NA,NA
+11370.4(b)(4),H&S,Enhancement,Felony,"Violation of H&S 11378, 11378.5, 11379, or 11379.5 w/ respect to methamphetamine, amphetamine, phencyclidine (PCP) where substance exceeds 400 liters.",,NA,180,NA,NA,NA
+11379.7(a) ,H&S,Enhancement,Felony,Manufacturing or possessing precursors of methamphetamine or PCP wit manufacture in structure where minor under 16 years of age present,,NA,24,NA,NA,NA
+11379.7(b) ,H&S,Enhancement,Felony,Manufacturing or possessing precursors of methamphetamine or PCP wit manufacture and causing BGI to minor under 16 years of age,,NA,60,NA,NA,NA
+11379.8(a)(1),H&S,Enhancement,Felony,Violation of H&S11379.6 where the substance exceeds three gallons of liquid by volume or one pound of solid substances by weight.,,NA,36,NA,NA,NA
+11379.8(a)(2),H&S,Enhancement,Felony,Violation of H&S11379.6 where the substance exceeds 10 gallons of liquid by volume or three pounds of solid substance by weight.,,NA,60,NA,NA,NA
+11379.8(a)(3),H&S,Enhancement,Felony,Violation of H&S11379.6 where the substance exceeds 25 gallons of liquid by volume or 10 pounds of solid substance by weight.,,NA,120,NA,NA,NA
+11379.8(a)(4),H&S,Enhancement,Felony,Violation of H&S11379.6 where the substance exceeds 105 gallons of liquid by volume or 44 pounds of solid substance by weight.,,NA,180,NA,NA,NA
+11379.9(a) ,H&S,Enhancement,Felony,Manufacturing or possessing precursors of methamphetamine or PCP wit manufacture and causing death or GBI (1 year per injury),,NA,12,NA,NA,NA
+11380.1(a)(1) ,H&S,Enhancement,Felony,"Using minor for drug transactions involving PCP, methamphetamine, or LSD on grounds of church, playground, etc.",,NA,12,NA,NA,NA
+11380.1(a)(2) ,H&S,Enhancement,Felony,"Using minor for drug transactions involving PCP, methamphetamine, or LSD on or near school grounds",,NA,24,NA,NA,NA
+11380.1(a)(3),H&S,Enhancement,Felony,Using minor at least 4 years younger than defendant for drug transactions,,12,24,36,NA,NA
+11380.7,H&S,Enhancement,Felony,"Trafficking in CS on grounds of, or within 1,000 feet of, a drug treatment center, detox facility, or homeless shelter",,NA,12,NA,NA,NA
+25189.5(e) ,H&S,Enhancement,Felony,"Unlawful disposal, transport, treatment, or storage of hazardous waste causing GBI or substantial probability of death (discretionary)",,12,24,36,NA,NA
+25189.7(c) ,H&S,Enhancement,Felony,nlawful burning or incineration of hazardous waste causing GBI or substantial probability of death (discretionary),,12,24,36,NA,NA
+1871.4(c) ,INS. CODE,Enhancement,Felony,Prior felony conviction of insurance fraud w/current conviction of making false/fraudulent statements concerning workers' compensation claim or claim under return-to-work program,,NA,24,NA,NA,NA
+11760(b) ,INS. CODE,Enhancement,Felony,"Prior felony conviction of insurance fraud w/current conviction of making false/fraudulent statements for purpose of reducing premium, rate, or cost of workers' compensation insurance",,NA,24,NA,NA,NA
+11880(b) ,INS. CODE,Enhancement,Felony,"Prior felony conviction of insurance fraud w/current conviction of making false/fraudulent statements for purpose of reducing premium, rate, or cost of workers' compensation insurance issued by StateCompensation Insurance Fund ",,NA,24,NA,NA,NA
+20001(c),VC,Enhancement,Felony,"
+Fleeing the scene after committing vehicular manslaughter under PC 191.5 or 192(c)(1)",,NA,60,NA,NA,NA
+23558,VC,Enhancement,Felony,Driving under the influence and causing bodily injury or death to multiple victims,,12,24,36,NA,NA
+23566(c),VC,Enhancement,Felony,"Violation of VC 23153 w/GBI within 10 years of four or more violations of VC 23103, 23152, or 23153",,NA,36,NA,NA,NA
+10980(h)(1)(A),W&I,Enhancement,Felony,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase of CalFresh benefits committed by means of electronic transfer of benefits exceeding fifty thousand dollars ($50,000)",,NA,12,NA,NA,NA
+10980(h)(1)(B),W&I,Enhancement,Felony,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase of CalFresh benefits committed by means of electronic transfer of benefits exceeding one hundred fifty thousand dollars ($150,000)",,NA,24,NA,NA,NA
+10980(h)(1)(C),W&I,Enhancement,Felony,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase of CalFresh benefits committed by means of electronic transfer of benefits exceeding one million dollars ($1,000,000)",,NA,36,NA,NA,NA
+10980(h)(1)(D),W&I,Enhancement,Felony,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase of CalFresh benefits committed by means of electronic transfer of benefits exceeding two million five hundred thousand dollars ($2,500,000)",,NA,48,NA,NA,NA
+14107(d),W&I,Enhancement,Felony,Execution of scheme or artifice to defraud health care program undercircumstances likely to cause or causing GBI or serious bodily injury totwo or more persons (4 years per injury),,NA,48,NA,NA,NA

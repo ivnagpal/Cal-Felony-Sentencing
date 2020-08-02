@@ -33,9 +33,6 @@ exposure_df.to_csv (path, index = False, header=True)
 
 #Create Probation Eligibility Restriction
 prob_df = pd.DataFrame(data_2)
-prob_df.replace('UE', 'Eligible only in unusual cases',inplace = True)
-prob_df.replace('NE', 'Not eligible',inplace = True)
-prob_df.replace('JC', 'Probation usually must be conditioned on Mandatory Jail Term',inplace = True)
 path2 = os.getcwd() + '/probrestriction.csv'
 prob_df.to_csv (path2, index = False, header=True)
 

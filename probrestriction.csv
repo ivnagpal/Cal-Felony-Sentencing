@@ -1,74 +1,74 @@
 Penal Code,Code_Type,Eligibility Restriction,Description
-1203.065(b) ,PC,Eligible only in unusual cases,"PC 220 (Assault w/intent to commit a felony) w/ intent to commit violation of PC 261(a)(Rape), 286(k)(Sodomy by threat to use authority of public official), 287(k)(Oral copulation by threat to use authority of public official), or 289(g)( Sexual penetration w/foreign or unknown object, victim under 16 years of age, defendant over 21 years of age)"
-1203.066(d) ,PC,Eligible only in unusual cases,"Commission of PC 288 (lewd or lascivious act w/a child) or 288.5 (continuous
+1203.065(b) ,PC,UE,"PC 220 (Assault w/intent to commit a felony) w/ intent to commit violation of PC 261(a)(Rape), 286(k)(Sodomy by threat to use authority of public official), 287(k)(Oral copulation by threat to use authority of public official), or 289(g)( Sexual penetration w/foreign or unknown object, victim under 16 years of age, defendant over 21 years of age)"
+1203.066(d) ,PC,UE,"Commission of PC 288 (lewd or lascivious act w/a child) or 288.5 (continuous
 sexual abuse of child) where not committed under special circumstances, unless the court makes special findings."
-1203(e)(8),PC,Eligible only in unusual cases,Knowingly furnishing or giving away PCP
-1203.073(b)(1) ,PC,Eligible only in unusual cases,"Possession for sale or sale of specified amounts of cocaine or cocaine base in violation of H&S 11351, 11351.5, or 11352"
-1203.073(b)(2) ,PC,Eligible only in unusual cases,"Possession for sale or sale of specified amounts of methamphetamine in violation of H&S 11378, or 11379"
-1203.073(b)(3),PC,Eligible only in unusual cases,Manufacturing CS (except PCP) in violation of H&S 11379.6
-1203.073(b)(4) ,PC,Eligible only in unusual cases,"Employing minor to manufacture or sell heroin, cocaine, cocaine base, or methamphetamine in violation of H&S 11353 or 11380"
-1203.074,PC,Eligible only in unusual cases,"Violation of H&S 11366.6 (use of location specifically designed to suppress police entry in order to manufacture, sell, or possess for sale heroin, cocaine, cocaine base, PCP, amphetamine, methamphetamine, or LSD)"
-462(a),PC,Eligible only in unusual cases,"Burglary of an inhabited dwelling, building, trailer coach, or floating home (first degree burglary)"
-462.5(a),PC,Eligible only in unusual cases,Felony custodial institution burglary
-454(c),PC,Eligible only in unusual cases,Unlawful burning within area of insurrection or emergency
-1203(e)(9) ,PC,Eligible only in unusual cases,"Violation of PC 451(a) (arson that causes GBI), or PC 451(b) (arson of inhabited structure or property) "
-4532(c) ,PC,Eligible only in unusual cases,Speciﬁed felony escape from secure main jail facility 
-1203(e)(7) ,PC,Eligible only in unusual cases,"Bribery, embezzlement, or extortion by public ofﬁcial or peace ofﬁcer indischarge of duties "
-1203(e)(11),PC,Eligible only in unusual cases,"Possession of a short-barreled riﬂe or shotgun under PC 33215, a machine gun under PC 32625, or a silencer under PC 33410 "
-1203.046(a) ,PC,Eligible only in unusual cases,Solicitation of a minor to commit certain felonies
-290.018(e),PC,Eligible only in unusual cases,Felony violation of sex registration 
-1203(e)(12),PC,Eligible only in unusual cases,Knowing gift or sale of deadly weapon or ﬁrearm to mental patient
-1203(e)(13),PC,Eligible only in unusual cases,Unlawful ﬁrearm transaction speciﬁed in PC 27590(b) or (c)
-1203(e)(1),PC,Eligible only in unusual cases,"Armed w/a deadly weapon, other than a ﬁrearm, at the time of commission or arrest"
-1203(e)(2),PC,Eligible only in unusual cases,Used or attempted to use deadly weapon on a person in any offense 
-1203(e)(3),PC,Eligible only in unusual cases,Willfully inﬂicted GBI or torture in any offense 
-1203(e)(10),PC,Eligible only in unusual cases,Inﬂicted GBI or death by discharging a ﬁrearm from or at a vehicle 
-115(c)(2),PC,Eligible only in unusual cases,"Conviction in one proceeding of more than one violation of PC 115, attempt to record false or forged instrument, wit defraud, when violations resulted in cumulative ﬁnancial loss exceeding $100,000"
-1203.045(a),PC,Eligible only in unusual cases,"Theft exceeding $100,000"
-1203.048(a),PC,Eligible only in unusual cases,"Computer-related crimes w/taking or damage exceeding $100,000"
-1203.049(a),PC,Eligible only in unusual cases,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase ofCalFresh beneﬁts committed by means of electronic transfer in violation W&I 10980(f) or (g) and amount exceeds $100,000 "
-1203.09(f),PC,Eligible only in unusual cases,"Assault w/a deadly weapon, battery that results in physical injury requiring professional medical treatment, robbery, carjacking, or mayhem committed against a victim 60 years of age or older "
-115(c)(1),PC,Eligible only in unusual cases,"Prior conviction of PC 115, attempt to record false or forged instrument, w/present conviction of that section in a separate proceeding"
-1203(e)(4),PC,Eligible only in unusual cases,Two prior felony convictions
-1203(e)(5),PC,Eligible only in unusual cases,One prior felony conviction and present conviction of one of speciﬁed felonies
-1203(e)(6),PC,Eligible only in unusual cases,One prior felony conviction involving deadly weapon use or arming or inﬂiction of GBI
-1203.073(b)(5),PC,Eligible only in unusual cases,"
+1203(e)(8),PC,UE,Knowingly furnishing or giving away PCP
+1203.073(b)(1) ,PC,UE,"Possession for sale or sale of specified amounts of cocaine or cocaine base in violation of H&S 11351, 11351.5, or 11352"
+1203.073(b)(2) ,PC,UE,"Possession for sale or sale of specified amounts of methamphetamine in violation of H&S 11378, or 11379"
+1203.073(b)(3),PC,UE,Manufacturing CS (except PCP) in violation of H&S 11379.6
+1203.073(b)(4) ,PC,UE,"Employing minor to manufacture or sell heroin, cocaine, cocaine base, or methamphetamine in violation of H&S 11353 or 11380"
+1203.074,PC,UE,"Violation of H&S 11366.6 (use of location specifically designed to suppress police entry in order to manufacture, sell, or possess for sale heroin, cocaine, cocaine base, PCP, amphetamine, methamphetamine, or LSD)"
+462(a),PC,UE,"Burglary of an inhabited dwelling, building, trailer coach, or floating home (first degree burglary)"
+462.5(a),PC,UE,Felony custodial institution burglary
+454(c),PC,UE,Unlawful burning within area of insurrection or emergency
+1203(e)(9) ,PC,UE,"Violation of PC 451(a) (arson that causes GBI), or PC 451(b) (arson of inhabited structure or property) "
+4532(c) ,PC,UE,Speciﬁed felony escape from secure main jail facility 
+1203(e)(7) ,PC,UE,"Bribery, embezzlement, or extortion by public ofﬁcial or peace ofﬁcer indischarge of duties "
+1203(e)(11),PC,UE,"Possession of a short-barreled riﬂe or shotgun under PC 33215, a machine gun under PC 32625, or a silencer under PC 33410 "
+1203.046(a) ,PC,UE,Solicitation of a minor to commit certain felonies
+290.018(e),PC,UE,Felony violation of sex registration 
+1203(e)(12),PC,UE,Knowing gift or sale of deadly weapon or ﬁrearm to mental patient
+1203(e)(13),PC,UE,Unlawful ﬁrearm transaction speciﬁed in PC 27590(b) or (c)
+1203(e)(1),PC,UE,"Armed w/a deadly weapon, other than a ﬁrearm, at the time of commission or arrest"
+1203(e)(2),PC,UE,Used or attempted to use deadly weapon on a person in any offense 
+1203(e)(3),PC,UE,Willfully inﬂicted GBI or torture in any offense 
+1203(e)(10),PC,UE,Inﬂicted GBI or death by discharging a ﬁrearm from or at a vehicle 
+115(c)(2),PC,UE,"Conviction in one proceeding of more than one violation of PC 115, attempt to record false or forged instrument, wit defraud, when violations resulted in cumulative ﬁnancial loss exceeding $100,000"
+1203.045(a),PC,UE,"Theft exceeding $100,000"
+1203.048(a),PC,UE,"Computer-related crimes w/taking or damage exceeding $100,000"
+1203.049(a),PC,UE,"Fraudulent appropriation or unauthorized use, transfer, sale, or purchase ofCalFresh beneﬁts committed by means of electronic transfer in violation W&I 10980(f) or (g) and amount exceeds $100,000 "
+1203.09(f),PC,UE,"Assault w/a deadly weapon, battery that results in physical injury requiring professional medical treatment, robbery, carjacking, or mayhem committed against a victim 60 years of age or older "
+115(c)(1),PC,UE,"Prior conviction of PC 115, attempt to record false or forged instrument, w/present conviction of that section in a separate proceeding"
+1203(e)(4),PC,UE,Two prior felony convictions
+1203(e)(5),PC,UE,One prior felony conviction and present conviction of one of speciﬁed felonies
+1203(e)(6),PC,UE,One prior felony conviction involving deadly weapon use or arming or inﬂiction of GBI
+1203.073(b)(5),PC,UE,"
 Prior and present conviction of certain offenses involving methamphetamine "
-186.22(c),PC,Probation usually must be conditioned on Mandatory Jail Term,Participation in criminal street gang activity
-186.22(d),PC,Probation usually must be conditioned on Mandatory Jail Term,Wobbler committed at direction of or in association w/a criminal street gang
-208(c),PC,Probation usually must be conditioned on Mandatory Jail Term,Kidnapping
-209(c),PC,Probation usually must be conditioned on Mandatory Jail Term,Kidnapping for ransom or extortion or to commit robbery or sex crime
-209.5(c),PC,Probation usually must be conditioned on Mandatory Jail Term,Kidnapping during commission of carjacking
-463,PC,Probation usually must be conditioned on Mandatory Jail Term,Looting
-626.9(g) ,PC,Probation usually must be conditioned on Mandatory Jail Term,"Possession of ﬁrearm on or within 1,000 feet of school grounds w/pc of any felony, any crime made punishable by any provision listed in PC 16580, or of any misdemeanor offense speciﬁed in PC 23515 "
-626.9(g) ,PC,Probation usually must be conditioned on Mandatory Jail Term,"Discharging or attempted discharge of ﬁrearm w/reckless disregard of safety of others on or within 1,000 feet of school grounds w/prior conviction of any felony, any crime made punishable by any provision listed in PC 16580, or of any misdemeanor offense speciﬁed in PC 23515"
-1203.055(a),PC,Probation usually must be conditioned on Mandatory Jail Term,Speciﬁed crimes against public transit vehicle or occupant
-1203.095,PC,Probation usually must be conditioned on Mandatory Jail Term,Speciﬁed ﬁrearm offenses 
-25400(d) ,PC,Probation usually must be conditioned on Mandatory Jail Term,"Possession of a concealed ﬁrearm w/prior conviction of any felony, any crime made punishable by any provision listed in PC 16580, or any misdemeanor offense speciﬁed in PC 23515"
-25850(d) ,PC,Probation usually must be conditioned on Mandatory Jail Term,Carrying loaded ﬁrearm w/prior conviction of any offense speciﬁed in PC 23515 or  any crime made punishable by any provision listed in Prior conviction 16580
-29900(a) ,PC,Probation usually must be conditioned on Mandatory Jail Term,Possession of a ﬁrearm w/prior conviction of one of speciﬁed felonies 
-1203.06(a)(3) ,PC,Not eligible,Conviction of PC 451.5 (aggravated arson) 
-667.61(h) ,PC,Not eligible,Conviction of speciﬁed serious sex offenses committed under designated aggravated circumstances
-1203.065(a),PC,Not eligible,Conviction of speciﬁed serious sex offenses 
-1203.066(a)(1),PC,Not eligible,"Violation of PC 288 (lewd act w/child) or 288.5 (continuous sexualabuse of child) by use of force, violence, duress, menace, or fear of immediate and unlawful bodily injury"
-1203.066(a)(6),PC,Not eligible,"Violation of PC 207, 209, or 209.5 (kidnapping) for the purpose of committing a violation of PC 288 or 288.5 "
-1203.07(a),PC,Not eligible,"Speciﬁed Health and Safety Code violations involving heroin, PCP, or other speciﬁed CS "
-12311,PC,Not eligible,Any violation of PC 12303-12312  (Explosives)
-1203.06(a)(1) ,PC,Not eligible,Personal use of a ﬁrearm in committing or attempting one of speciﬁed felonies  
-12022.53(g) ,PC,Not eligible,Personal use or discharge of ﬁrearm in committing or attempting one of speciﬁed felonies
-1203.075(a),PC,Not eligible,Personal infliction of GBI in committing or attempting one of specifiedfelonies
-1203.066(a)(2)-(4) ,PC,Not eligible,"Violation of PC 288 or 288.5 when bodily injury caused, weapon used, or stranger befriended child victim for purposes of committing the offense "
-1203.066(a)(7)-(9),PC,Not eligible,"Violation of PC 288 or 288.5 involving more than one victim, a victim under 14 years of age, or the use of obscene matter or matter depicting sexual conduct, and speciﬁed mitigating circumstances are not present"
-11370(b) ,H&S,Not eligible,Violations involving speciﬁed CS or narcotics when an adult involves a minor  
-1203.09(a),PC,Not eligible,Inﬂiction of GBI on elderly or disabled victim while committing or attempting one of speciﬁed felonies  
-1203.085(a),PC,Not eligible,Conviction of any non-wobbler felony committed while on parole for a violent felony or a serious felony
-1203.085(b),PC,Not eligible,Conviction of a  violent felony or a serious felony committed while on parole for any felony 
-1203(k),PC,Not eligible,Conviction of a violent felony or a serious felony while on probation for a felony offense.
-550(d) ,PC,Not eligible,Two or more prior felony convictions of preparing/presenting false/fraudulent insurance claim and present felony conviction of same
-"667(c), 1170.12(a)",PC,Not eligible,
-1203.055(c) ,PC,Not eligible,Prior and present conviction of one of speciﬁed felonies committed against public transit vehicles or occupants
-1203.06(a)(2) ,PC,Not eligible,"Prior conviction of one of speciﬁed felonies and personally armed w/a ﬁrearm at the time of commission or arrest, in any subsequent felony "
-1203.066(a)(5),PC,Not eligible,Prior conviction of one of specified sex offenses and present conviction of PC 288 or 288.5
-1203.07(a)(3),PC,Not eligible,Prior conviction of violating H&S 11351 or 11352 and present conviction of violating H&S 11351 or 11352 involving heroin.
-1203.08,PC,Not eligible,"Present conviction of one of ""designated"" felonies w/prior conviction under chargesseparately brought and tried two or more times of any ""designated"" felony"
-11370(a),H&S,Not eligible,Prior conviction of one of specified H&S provisions involving CS and present conviction of an offense involving one of specified CS
+186.22(c),PC,JC,Participation in criminal street gang activity
+186.22(d),PC,JC,Wobbler committed at direction of or in association w/a criminal street gang
+208(c),PC,JC,Kidnapping
+209(c),PC,JC,Kidnapping for ransom or extortion or to commit robbery or sex crime
+209.5(c),PC,JC,Kidnapping during commission of carjacking
+463,PC,JC,Looting
+626.9(g) ,PC,JC,"Possession of ﬁrearm on or within 1,000 feet of school grounds w/pc of any felony, any crime made punishable by any provision listed in PC 16580, or of any misdemeanor offense speciﬁed in PC 23515 "
+626.9(g) ,PC,JC,"Discharging or attempted discharge of ﬁrearm w/reckless disregard of safety of others on or within 1,000 feet of school grounds w/prior conviction of any felony, any crime made punishable by any provision listed in PC 16580, or of any misdemeanor offense speciﬁed in PC 23515"
+1203.055(a),PC,JC,Speciﬁed crimes against public transit vehicle or occupant
+1203.095,PC,JC,Speciﬁed ﬁrearm offenses 
+25400(d) ,PC,JC,"Possession of a concealed ﬁrearm w/prior conviction of any felony, any crime made punishable by any provision listed in PC 16580, or any misdemeanor offense speciﬁed in PC 23515"
+25850(d) ,PC,JC,Carrying loaded ﬁrearm w/prior conviction of any offense speciﬁed in PC 23515 or  any crime made punishable by any provision listed in Prior conviction 16580
+29900(a) ,PC,JC,Possession of a ﬁrearm w/prior conviction of one of speciﬁed felonies 
+1203.06(a)(3) ,PC,NE,Conviction of PC 451.5 (aggravated arson) 
+667.61(h) ,PC,NE,Conviction of speciﬁed serious sex offenses committed under designated aggravated circumstances
+1203.065(a),PC,NE,Conviction of speciﬁed serious sex offenses 
+1203.066(a)(1),PC,NE,"Violation of PC 288 (lewd act w/child) or 288.5 (continuous sexualabuse of child) by use of force, violence, duress, menace, or fear of immediate and unlawful bodily injury"
+1203.066(a)(6),PC,NE,"Violation of PC 207, 209, or 209.5 (kidnapping) for the purpose of committing a violation of PC 288 or 288.5 "
+1203.07(a),PC,NE,"Speciﬁed Health and Safety Code violations involving heroin, PCP, or other speciﬁed CS "
+12311,PC,NE,Any violation of PC 12303-12312  (Explosives)
+1203.06(a)(1) ,PC,NE,Personal use of a ﬁrearm in committing or attempting one of speciﬁed felonies  
+12022.53(g) ,PC,NE,Personal use or discharge of ﬁrearm in committing or attempting one of speciﬁed felonies
+1203.075(a),PC,NE,Personal infliction of GBI in committing or attempting one of specifiedfelonies
+1203.066(a)(2)-(4) ,PC,NE,"Violation of PC 288 or 288.5 when bodily injury caused, weapon used, or stranger befriended child victim for purposes of committing the offense "
+1203.066(a)(7)-(9),PC,NE,"Violation of PC 288 or 288.5 involving more than one victim, a victim under 14 years of age, or the use of obscene matter or matter depicting sexual conduct, and speciﬁed mitigating circumstances are not present"
+11370(b) ,H&S,NE,Violations involving speciﬁed CS or narcotics when an adult involves a minor  
+1203.09(a),PC,NE,Inﬂiction of GBI on elderly or disabled victim while committing or attempting one of speciﬁed felonies  
+1203.085(a),PC,NE,Conviction of any non-wobbler felony committed while on parole for a violent felony or a serious felony
+1203.085(b),PC,NE,Conviction of a  violent felony or a serious felony committed while on parole for any felony 
+1203(k),PC,NE,Conviction of a violent felony or a serious felony while on probation for a felony offense.
+550(d) ,PC,NE,Two or more prior felony convictions of preparing/presenting false/fraudulent insurance claim and present felony conviction of same
+"667(c), 1170.12(a)",PC,NE,
+1203.055(c) ,PC,NE,Prior and present conviction of one of speciﬁed felonies committed against public transit vehicles or occupants
+1203.06(a)(2) ,PC,NE,"Prior conviction of one of speciﬁed felonies and personally armed w/a ﬁrearm at the time of commission or arrest, in any subsequent felony "
+1203.066(a)(5),PC,NE,Prior conviction of one of specified sex offenses and present conviction of PC 288 or 288.5
+1203.07(a)(3),PC,NE,Prior conviction of violating H&S 11351 or 11352 and present conviction of violating H&S 11351 or 11352 involving heroin.
+1203.08,PC,NE,"Present conviction of one of ""designated"" felonies w/prior conviction under chargesseparately brought and tried two or more times of any ""designated"" felony"
+11370(a),H&S,NE,Prior conviction of one of specified H&S provisions involving CS and present conviction of an offense involving one of specified CS
